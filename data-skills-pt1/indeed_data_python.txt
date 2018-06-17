@@ -1,0 +1,1590 @@
+What’s the Job?You’ll be joining our data science team as a Data Product Engineer. You’ll be responsible for testing, monitoring, and improving the data collection programs we have in production, as well as developing new software to capture data from the web and extract insights from third-party sources. You’ll be writing Python scripts deployed on AWS, and communicating with data scientists and infrastructure engineers.Required: 5+ Years professional experience with PythonPython data structures and best practicesAWS and Linux (Ubuntu/CentOS) , Bash scriptingProfessional experience with a SQL-based database, such as MySQLWrites organized code with appropriate exception handling and loggingUnderstanding of HTTP network requests and responsesUnderstanding of HTML and JSON formatsAbility to write technical documentation and comment codeAbility to write test suites and set up automation environmentsPlusses: Experience with scrapy, beautiful soup, requests, seleniumAmazon Redshift/ HadoopPrior experience as a front-end, back-end, or full-stack web developerJavascript / NodeJSPython Django/FlaskJob Type: Full-timeExperience:AWS: 2 yearsweb scraping: 1 yearBash: 2 yearsPython: 3 yearsRequired work authorization:United StatesOverview
+**This position is based in Austin, TX.**
+
+Who you are: Do you like to build, tinker, tune, and optimize anything you can get your hands on? Are you a true believer in the power of using data to drive decisions? Are you an engineering-minded individual who’s passionate about constructing big, scalable systems and elegant solutions to gnarly problems? Spiceworks just might have your dream job! We’re looking for a data minded sr-level software engineer whose perfectly coded plumbing can keep our data systems running without a hitch. Sound like you? Time to apply now and join the team!
+
+Who we are: For over 10 years, Spiceworks has been helping the world’s businesses find, adopt, and manage the latest technologies. We’ve also been helping IT brands build, market, and sell better products and services. Millions of IT buyers and hundreds of brands later, we’ve built the platform they use to get their jobs done and make them better at what they do, every day.
+
+With our helpful tools, technical content, a global community of experts, and entertaining ways to blow off steam, we’ve got IT covered. And because we understand IT buyers and the businesses they represent, established brands like Microsoft, Dell, and CDW, to name a few, and the latest industry innovators including KnowBe4 and Scale Computing use our insights and technology platform to run smarter, more personalized campaigns.
+
+In short, we’re making IT easy – and dare we say FUN – for everyone. Best part: we’re just getting started!
+Responsibilities
+Your day-to-day (as a Senior Software Engineer, you’ll):
+
+Have a role in the design and development of our data platform — doing heavy lifting in the infrastructure and designing data pipelines
+Figure out how to make every system within our data pipeline faster and more scalable
+Zero in on areas where data can offer key insights to the business and help our users
+Work as part of a cross-functional self-organizing agile team to solve problems related to data-processing/manipulation
+Assist other departments in solving data-related dilemmas
+Be an advocate within the company for scalable architecture
+Qualifications
+What does it take to do this job?
+5+ years experience as a data, back-end, infrastructure, performance, or API engineer
+3 years experience building large-scale, distributed, high-volume systems
+Experience with one (or more) of the following languages: Scala, Python, Go, Java
+Experience with big data processing and streaming (Hadoop, Scalding, Hive, Storm, etc.)
+Experience with AWS cloud solutions
+Experience working with Agile teams (bonus points for working with Scrum framework)
+Bonus points if you’ve worked with Kafka, RocksDB, Akka, Cassandra, or HBase
+Passion for performance tuning
+Good communication skills: Being able to boil down and discuss complex ideas with other engineers required; confidence communicating with marketing and sales teams a plusPropertyRadar seeks a full-time developer with strong skills in curating data and developing data workflows. In this new position in our Data Operations team, you'll collaborate with a team of engineers to create unique, powerful, and useful tools that help realtors, investors, and government customers quickly make informed decisions. We're looking for a solid professional and proactive problem solver.PropertyRadar is an industry leader with an entrepreneurial start-up culture. We are profitable and growing within the expanding real estate technology market. PropertyRadar's headquarters are based in Truckee, CA near Lake Tahoe.PRIMARY RESPONSIBILITIESWork with a variety of tools and programming languages to automate data processes.Build solid mechanisms for handling incoming and outgoing data flow.Develop and monitor import routines and be prepared to handle unexpected failures manually.QUALIFICATIONS2+ years experience as data-oriented developer or database administrator with excellent skill in data and information modeling.Capable of implementing and maintaining data import scripts and applications, with the ability to leverage off-the-shelf ETL systems or write custom code when necessary.Ability to write code that interfaces with remote APIs and information services (e.g. REST, JSON, RDF, XML).Must be able to work with un-, semi-, or highly-structured data. Proficiency with SQL and Regular Expressions is critical. Experience with rule-based systems, custom parsers, and NLP tools is highly desirable.Skilled in one or more scripting/programming languages, minimally including Bash, Python and/or PHP in a Linux environment.Experience with MySQL, PostgreSQL, Oracle, column-store or non-relational databases.Comfortable working with large datasets consisting of hundreds of millions of records.Familiarity with open source software and culture.BA/BS in Information Science, Computer Science/Engineering or related field, or equivalent experience.We are looking for people with excellent communication skills who like to identify and prioritize problems and creatively solve them, and thrive within a collaborative, hands-on, do-it-yourself, start-up environment with minimal supervision.COMPENSATION & BENEFITSWe offer a flexible and fun work environment, competitive medical, dental, vision benefits, paid time off, and educational reimbursement. Salary is market-sensitive and commensurate to experience.HOW TO APPLYSend cover letter, resume, LinkedIn profile, and project links (if available) to resumes "at" propertyradar.com.Only full-time applicants please; no recruiters, contractors, or those seeking part-time work.Job Type: Full-timeEducation:Bachelor'sContract Sr. Software Engineer, Data & ETL - San Francisco, CAQuizlet’s mission is to help students (and their teachers) practice and master whatever they are learning. Quizlet is the world’s largest teacher online community. Every month over 30 million active learners from 130 countries practice and master more than 200 million study sets on every conceivable topic and subject. We are developing new learning experiences by modeling how students learn and by drawing upon knowledge acquisition, retention, and tracing pedagogy in cognitive science. We are always seeking to help students master any subject by optimizing study efficiency and engagement.We're looking for a senior data and ETL developer to help us empower our expanding analyst team. We take advantage of a modern data warehouse environment (BigQuery) and open-source BI tools like Airflow, Periscope and DataStudio. This is a 3-6 month contract with potential for full-time conversion at our San Francisco, CA office (convenient to Caltrain, BART and Muni).The RoleMeet with analysts, engineers, product managers and other business users to gather requirementsDesign, build, and maintain data pipelines that power analytics and research at QuizletBuild and maintain Python-based ETL code using BigQuery and running in AirflowAssist with production monitoring and debugging of our data pipelinesTimely troubleshooting of problems with nightly ETL executionQualifications and Experience4+ years experience as a BI/ETL or data engineerHighly proficient with SQLHighly proficient in Python programmingExperience with a major data warehouse and the desire and ability to learn BigQuery quicklyExperience dealing with DevOps concerns for data pipelinesPrefer candidates with experience in user-engagement and ecommerce domainsQuizlet’s Team CultureWe are here to make education better and more accessible. We strive to improve the lives of students and teachers at every stage and in every setting. We have a bias for action, take initiative, and hustle to deliver results. We make informed decisions whenever possible but are unafraid to take calculated risks on great ideas to promote learning. We embrace challenges and see effort as the path to mastery. We’re constantly seeking opportunities to learn and we embrace curiosity.Quizlet’s success as an online learning community depends on a strong commitment to diversity, equity and inclusion. We are actively building a team that is representative of the diverse communities we serve, and an open, inclusive work environment where all employees can thrive. As an equal opportunity employer and a tech company committed to societal change, we welcome applicants from all backgrounds. Women, people of color, members of the LGBTQ+ community, individuals with disabilities, and veterans are strongly encouraged to apply. Come join us!Job Type: ContractSalary: $90.00 to $120.00 /hourExperience:ETL: 3 yearsPython: 3 yearsSQL: 4 yearsBigQuery: 1 yearEducation:Bachelor'sLocation:San Francisco, CA 94107At Bossa Nova we create service robots for the global retail industry. Our robots’ mission is to make large scale stores run efficiently by automating the collection and analysis of on-shelf inventory data. We drive autonomously through aisles, navigating safely among customers and store associates. If we were a self- driving car we’d be operating at level 5 autonomy.
+Oh, we should add, it’s real, happening today, you can meet our robots in some of the world’s biggest retailers.
+Position: Python Robot Data Engineer
+Location: Pittsburgh
+You’ll be joining our data engineering team as a data engineer. You’ll be responsible for the movement of various forms of data off our robots to the cloud. You'll write Python code that is deployed on field robots and used for: logging, monitoring and remote troubleshooting. You will work daily with Roboticist's
+Required:
+2+ Years professional experience with Python
+Python data structures and best practices
+Strong Linux skills (Ubuntu)
+Writes organized code with appropriate exception handling and logging
+Designs code to handle degraded or constrained network conditions.
+Understanding of HTTP network requests and responses
+Understanding of TCP, with ability to troubleshoot network issues
+Ability to write technical documentation and comment code
+Ability to write test suites
+Desire to collaborate with domain experts.
+Nice to Have:
+Experience with Containers
+Production experience working with Cloud
+Configuration management of some form (Ansible, Chef etc)
+Test AutomationAt Red Hat, we connect an innovative community of customers, partners, and contributors to deliver an open source stack of trusted, high-performing solutions. We offer cloud, Linux, middleware, storage, and virtualization technologies, together with award-winning global customer support, consulting, and implementation services. Red Hat is a rapidly growing company supporting more than 90% of Fortune 500 companies.
+Job summary
+The Red Hat Customer Experience and Engagement (CEE) Analytics team is looking for a skilled and well-rounded Python Data Engineer to join us in Raleigh, NC. In this role, you will translate and manipulate large sets of data, build visual reports and automated dashboards, and create and maintain tools to enable the team. You will need to have an established set of foundational skills and the ability to learn new skills quickly. We'll expect you to have solid Python programming skills and business insight. As a Python Data Engineer, you'll also need to be motivated and able to work without direct supervision in a fast-paced and highly ambiguous environment.
+Primary job responsibilities
+Implement an analytical environment using third-party and in-house reporting tools
+Work closely with stakeholders to turn business problems into analytical projects, translated requirements, and solutions
+Work cross-functionally with teams on data migration, translation, and organization initiatives
+Program and operationalize data models to create new, scalable solutions for business problems
+Develop data set processes for data modeling, mining, and production
+Translate large volumes of raw, unstructured data into highly visual and easily digestible formats
+Recommend ways to improve data reliability, efficiency, and quality
+Help create, maintain, and implement tools, libraries, and systems to increase the efficiency and scalability of the team
+Required skills
+2+ years of experience with the following:
+Python programming experience; R experience is a plus
+Linux system administration, shell scripting, and Docker
+Data systems and how they interact with each other
+Excellent data manipulation skills, namely with SQL, Pandas, REST, or Mongo
+Experience developing data offerings using custom web applications
+Solid grasp of version control; knowledge of Git is a plus
+Solid analytical skills to determine the source and resolution of highly complex problems
+Well-versed in the current industry landscape in terms of computer software, programming languages, and technology
+Familiarity with Red Hat's solutions portfolio and open source software development
+Bachelor's or master's degree in computer science or software engineering; or 5+ years of relevant working experience
+Experience with web development tools and languages like JavaScript, CSS, HTML, AngularJS, and D3 is a plus
+Experience using tools like Qlik (Sense, View), Tableau, etc, is and advantage
+Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.
+Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.Job Description
+This opportunity is a Data Engineer (DE) within the Data Engineering group. We need your help to build systems to enable data-driven decision making at Audible.
+
+Our Data Engineering team owns and develops the technology platform that offers decision makers both performance metrics and analysis as well as the self-service capability to perform independent analysis on a wide array of internal and external datasets in order to identify opportunities, trends and issues, uncover new insights, and fine-tune operations to meet business goals.
+
+KEY RESPONSIBILITIES
+Play a leading role in building and maintaining the infrastructure to answer questions with data, using software engineering best practices, data management fundamentals, data storage principles, recent advances in distributed systems, and operational excellence best practices.
+Work closely with stakeholders to understand their requirements and design the right solution
+Analyze source systems, define underlying data sources and transformation requirements, design suitable data models and document the design/specifications.
+Build/maintain systems and datasets that analysts and scientists use to generate actionable insights.
+Effectively communicate with various teams and stakeholders, escalate technical and managerial issues at the right time and resolve conflicts.
+Demonstrate passion for quality and productivity by use of efficient development techniques, standards and guidelines
+Peer reviews of work. Actively mentor more junior members of the team, improving their skills, their knowledge of our systems and their ability to get things done
+HOW DOES AMAZON FIT IN?
+
+We're a part of Amazon, they are our parent company and it's a great partnership. You'll get to play with all of Amazon's technologies like EC2, SQS and S3 but it doesn't stop there. Audible's built on Amazon technology and you'll have insight into the inner workings of the world's leading ecommerce experience. There's a LOT to learn!
+
+If you want to own and solve problems, work with a creative dynamic team, fail fast in a supportive environment whilst growing your career and working on a platform that powers web applications used by millions of customers worldwide we want to hear from you.
+
+
+
+
+Basic Qualifications
+Strong Computer science background required. A Bachelor’s degree or higher in computer science is required with a minimum of 5+ years of industry experience
+4+ years in a Data Warehouse (DWH) environment with data integration/ETL of large and complex data sets
+Expertise in Database technologies such as AWS Redshift (or equivalent) with proficiency in SQL
+Design and coding skills in a scripting language (e.g. Python/Perl/shell scripting) on Unix/Linux Platforms.
+Excellent understanding of recent advances in distributed computing such as MapReduce, MPP architectures, NoSQL databases.
+Data modeling skills such as Star/Snowflake schema design for DWH
+Expertise in performance tuning and scaling in a DWH environment
+Familiarity with Business Intelligence (BI) platforms such as MicroStrategy, OBIEE or equivalent
+Ability to work independently with little supervision and deliver on time quality products
+Willingness to learn, be open minded to new ideas and different opinions yet knowing when to stop, analyze, and reach a decision
+Preferred Qualifications
+Hands on experience with MapReduce, MPP architectures, NoSQL databases.
+Extensive knowledge of BI platforms such as MicroStrategy, OBIEE or equivalent
+Experience working with Agile methodologies in a DWH/BI environment
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual OrientationThe Walt Disney Attractions Technology (WDAT) team combines custom technology solutions with creativity to produce robust applications that enhance all aspects of the guest experience. From one of the most sophisticated hotel reservation systems in the world to Disney Cruise Line shipboard systems, Disney Vacation Club member services, FastPass ticketing, PhotoPass, and even inventory applications to ensure we have the right number of cast costumes. WDAT seeks forward-thinking team members who are passionate about delivering a quality product and enjoy working closely with business partners on both strategic and tactical challenges. Internship Eligibility:
+
+Must be enrolled in an accredited college/university taking at least one class in the semester/quarter (spring/fall) prior to participation in the internship program OR must have graduated from a college/university within 6 months OR currently participating in a Disney College Program or Disney Professional InternshipMust be at least 18 years of ageMust not have completed one year of continual employment on a Disney internship or program.Must possess unrestricted work authorizationMust provide full work availabilityMust provide own transportation to/from workCurrent Active Disney cast members must meet Professional Internship transfer guidelines (for Walt Disney World cast members this is no more than four points and one reprimand in the last six months; for Disneyland cast members this is six months of consecutive service and a performance record clear of any disciplinary issues (warnings, suspensions, etc.) for at least six months)
+Program Length: The approximate dates of this internship are August - December 2018. Junior, Senior, Graduate Level student or recent graduate (within 6 months of graduating) pursuing a Bachelor's or Master's Degree in Computer Science, Computer Engineering, Management Information Systems or related field. What you bring…
+Strong understanding of Computer Science fundamentals
+Understanding of Data Lake, Big Data, Hadoop concepts.
+Developer skills in Java and Python. Familiarity with AWS, HDFS/Hive, Spark/Scala, NiFI and/or similar technologies
+Familiarity with machine learning libraries like Spark MLLib, AWS Machine Learning, Mahout, JSAT or similar
+Solid grounding in data science and information management disciplines
+Understanding of Linux operating system and networking fundamentals.
+Problem solving and analysis skills
+Excellent written, verbal, interpersonal communication and time management skills
+With The Walt Disney Parks & Resorts Technology group, this intern will be expected to work on engineering and maintaining highly secure, highly available and highly performing BigData Hadoop platform in Cloud. They will work on provisioning the server instances, monitoring and maintaining the instances in Cloud. They will work on deploying various application code/modules on the platform and verifying the executions. Will also work on creating an automated monitoring process and reporting on the critical alerts.
+
+WDPR Technology seeks forward-thinking team members who are passionate about delivering a quality product and enjoy working closely with business partners on both strategic and tactical challenges. Candidate should have strong verbal and written communication skills, and be able to work independently as a self-starter, utilize good time management skills, and function well within a diverse team.Internship Eligibility:
+
+Must be enrolled in an accredited college/university taking at least one class in the semester/quarter (spring/fall) prior to participation in the internship program OR must have graduated from a college/university within 6 months OR currently participating in a Disney College Program or Disney Professional InternshipMust be at least 18 years of ageMust not have completed one year of continual employment on a Disney internship or program.Must possess unrestricted work authorizationMust provide full work availabilityMust provide own transportation to/from workCurrent Active Disney cast members must meet Professional Internship transfer guidelines (for Walt Disney World cast members this is no more than four points and one reprimand in the last six months; for Disneyland cast members this is six months of consecutive service and a performance record clear of any disciplinary issues (warnings, suspensions, etc.) for at least six months)
+Program Length: The approximate dates of this internship are August - December 2018. 564697PURPOSE, OBJECTIVES, FUNCTIONS: kaléo is looking for a Data Engineer to help maintain and expand a competitive advantage in the pharmaceutical market place by growing an in-house data management paradigm. The Data Engineering Team at kaléo serves a crucial function by creating a close connection between the data architecture and analyst teams. They serve as a liaison between functional areas in the company and technology. Using sophisticated coding techniques and a well-versed knowledge of the data and technology stacks behind the data, the data engineers deliver accessibility solutions across different teams. They will maintain and communicate an informed knowledge of the data and ensure data quality. The Data Engineer will also be responsible for coordinating data management across data vendors, understanding data relationships and enhancing database relationships through the understanding and development of well-managed metadata. The Data Engineer will work across horizontal departments, identifying data needs and opportunities, and will coordinate closely with Data Architecture and Data Analysts to enable a meaningful, accessible database on top of an adaptable code base.
+Essential Functions:
+Leads, in coordination with data architecture, the onboarding of new datasets as business strategy grows and evolves
+Leverage experience and knowledge to help shape the company?s data access strategy
+Understand business requirements, and translate those requirements into a meaningful adaptable data warehouse with meaningful metadata
+Manages data quality, communicating directly with outside vendors where needed for resolution
+Use object oriented coding techniques to create flexible accessibility solutions across the organization
+Use modern software, Tableau, Jasper, Dash, and others, to develop and maintain key reporting across different levels of users
+Continuously enhance codebase to maximize performance, accuracy and usability
+Contribute to and help maintain the company?s cloud-based big data environment (all AWS solutions)
+Contribute to data Extract, Transform and Load (ETL) scripts that integrate multiple disparate data sources automatically into company?s reporting data warehouse
+Utilize a suite of cloud-based data management capabilities to automate data transformation, QA and reporting
+Document all code to communicate utilized methodologies and design decisions
+Synthesize methodology and data into actionable business strategy and communicate findings to stakeholders POSITION QUALIFICATIONS:
+Bachelors in Technology Science, Statistics or Math degree preferred, Masters degree or higher a plus
+2+ years of experience working in the data analytics space with 1+ years in data engineering and 1+ years in data analysis/modeling
+Strong working experience with Python and object-oriented programming
+Strong working knowledge of SQL query language
+Significant experience implementing Amazon Web Services (AWS) product suite, including S3, EC2, Lambdas, etc.
+Experience working in a collaborative coding environment, experience with GitHub or Bitbucket
+Experience and knowledge of the pharmaceutical industry and industry-specific data and concepts a plus
+Ability to communicate complicated technical requirements/designs to audiences of various backgrounds and knowledge
+Excellent problem solving abilityWhat’s the Job?You’ll be joining our data science team as a Data Product Engineer. You’ll be responsible for testing, monitoring, and improving the data collection programs we have in production, as well as developing new software to capture data from the web and extract insights from third-party sources. You’ll be writing Python scripts deployed on AWS, and communicating with data scientists and infrastructure engineers.Required: 5+ Years professional experience with PythonPython data structures and best practicesAWS and Linux (Ubuntu/CentOS) , Bash scriptingProfessional experience with a SQL-based database, such as MySQLWrites organized code with appropriate exception handling and loggingUnderstanding of HTTP network requests and responsesUnderstanding of HTML and JSON formatsAbility to write technical documentation and comment codeAbility to write test suites and set up automation environmentsPlusses: Experience with scrapy, beautiful soup, requests, seleniumAmazon Redshift/ HadoopPrior experience as a front-end, back-end, or full-stack web developerJavascript / NodeJSPython Django/FlaskJob Type: Full-timeExperience:AWS: 2 yearsweb scraping: 1 yearBash: 2 yearsPython: 3 yearsRequired work authorization:United StatesDate engineer (Python)must be willing to relocate to Houston.Long-term contractI’m looking for people that have used python to build data services that pull data from databases (oracle, sqlserver, and memsql/MySQL).Anil609-606-5107akumar at everestglobalsolutionsinc comJob Type: ContractExperience:Python: 4 yearsGreen Card and US Citizens onlyLocation: Mclean, VADuration: 7 months CTHBig Data Engineer / Python Spark and R DeveloperREQUIRED SKILLS/EXPERIENCE:- Develop finance models using technologies such as Python, Spark, R, Scala on huge data sets.- Writing software to clean and investigate and identifying patterns of data- Work directly with Product Owners and end-users to develop solutions in a highly collaborative and agile environment.- At least 5 years of experience in Python, Spark, R, Scala- At least 5 years of experience with Unix/Linux systems with scripting experience in Shell or Python- At least 5 years of experience building data pipelines and fit for purpose data stores- At least 3 year experience in open source programming languages for large scale data analysis- Experience with data in various forms (data warehouses/SQL, unstructured data environments/PIG,HIVE, Impala)PREFERRED SKILLS/EXPERIENCE:- Master’s Degree- 5+ years of experience delivering analytical data warehouse solutions or fit for purpose data stores- 2+ years of experience working with AWS platforms and services- 3+ years of experience working with AngularJS or similar frameworks- 3+ years of experience working with automated build and continuous integration systemADDITIONAL INFORMATION:Strong likelihood of conversion for the right candidate. Must be eligible to work in the US without sponsorship.Job Types: Full-time, ContractSalary: $120,000.00 to $135,000.00 /yearWho We Are Dynasty Sports & Entertainment is the premier secondary market consolidator in the sport and live event space. We provide our partners with unmatched pricing and inventory strategies, a customized data and analytics platform, and proprietary technology and tools to maximize revenue yield while broadening distribution. Dynasty’s team of executives from both the primary and secondary market industries have crafted business plans that deliver our partners incremental revenue while protecting and strengthening the core of their business – the season subscriber. The South Florida based Dynasty office is the ideal landing spot for an applicant looking to work in an energetic and flexible workplace that emphasizes teamwork and personal growth. The Dynasty family is looking for a Pricing Analyst to add to our army of industry disruptors and continue to provide our teams and rights holders with best-in-class partnerships.
+
+Job Description
+Startup like environment, Dynasty Sports & Entertainment is looking for a skilled Data Engineer to join our data and tech team in Boca Raton, FL. This position provides the opportunity to explore emerging technologies and apply innovative approaches for data integration, data management, and visualization solutions. The individual is expected to possess a variety of skills in programming and database design with innate problem solving, curiosity, and creativity. This position requires the individual to work with project team members in a highly collaborative, fast-paced environment for the development and deployment of data-driven solutions.
+
+Requirements Basic Qualifications:
+
+BS in Software Engineering, Computer Science, or related discipline with 2+ years of relevant experience in analytics; OR Masters Degree in Software Engineering, Computer Science, or related discipline • Proficiency in MS SQL Server, SQL queries, scripting, and automation • Experience in ETL and data migration • Working knowledge in programming languages such as Python, R, and Java • Experience with visualization software such as PowerBI and Java script framework • Working knowledge of Hadoop, Spark Azure Data Services • Working knowledge statistical modeling and machine learning
+
+Responsibilities : • Design, develop, test, and deploy scalable data architecture and visualization solutions • Research, evaluate, and determine best fit of tools and techniques for data mapping, data mining, data transformation, and data integration • Develop complex queries or routines to extract data form disparate sources • Develop and troubleshoot SQL code, stored procedures, functions, tables, and views • Collaborate with external functional organizations for data and system understanding • Communicate project status and results to various levels of leadershipThe Data Engineer will collect and manage the data we receive from the field including casinos.
+
+Job Responsibilities:
+---------------------
+
+
+Builds and maintains ETL systems
+Collects and reviews the data from Native American tribes and makes changes to the data as needed
+Gathers, cleans, imports, and manages our performance data
+Enhances data collection procedures to include information that is relevant for building analytic systems
+Munges the data from a lot of data sources including processing, cleansing, and verifying the integrity of data used for analysis
+Builds a roadmap for the tools and processes we will use to manage our data as it grows exponentially
+Integrates new sources of data, such as competitive, geographic, weather, and calendar data
+
+Qualifications:
+---------------
+
+
+BS in Computer Science or Equivalent degree
+Solid knowledge of statistics including familiarity with statistical tests, distributions, maximum likelihood estimators, etc.
+Proficiency in using SQL
+Previous ETL and data integration experience
+Experience with Python or other scripting language
+Comfortable in a windows environment
+Excellent organizational and communication skills; must be detail oriented
+Occasional travel to various locations as needed
+Excellent skills in articulating ideas and information to clients in a clear manner
+High ethical standards and integrity
+Team player with high-performance standards
+
+Preferred Qualifications:
+-------------------------
+
+
+1-3 years of experience as a Data Engineer
+Strong customer service/support experience via phone, email, and in-person
+
+At Volusion, we make products that people love. Our teams are dedicated to providing SaaS ​e​commerce solutions and services for all business types, from startups to well-established companies. If you're a creative professional who loves working with teams, has a passion for driving positive change and wants to better the world with your ​ideas, we want to hear from you!
+
+The rundown:
+As a Data Engineer, you will assist in the development of data warehouse information architecture on both Google Cloud BigQuery and Microsoft SQL Server, optimize SQL performance, and provide operational support to our high availability Microsoft SQL Server Warehouse infrastructure. An ideal candidate will be a proficient warehouse developer versed in data integration services development, report development, data analysis, and database administration.
+
+You will:
+
+Assist in building and maintaining data warehouse data integrations leveraging both MS SQL Integration services and Python technologies
+Assist in the development of BigQuery Data Model
+Develop and Optimize SQL Queries leveraged by existing integration services ,reporting processes and data analysis reports
+Develop dashboards and visualizations for ongoing measurement and KPIs.
+Plan for non-transactional data storage for reporting and analytics
+Database Schema design and data flow architecture planning
+Maintain current reports in existing reporting platforms
+Profile source system data as needed to provide feedback for business requirements
+Analyze and verify Data Warehouse data
+Assist in the design, build and maintenance of SSAS cubes
+
+We are looking for someone with:
+
+MUST be a team player with excellent oral and written communication skills
+Bachelor’s degree in Computer Science or Engineering
+SQL Skills for data analysis is a strong must have
+2+ Years Microsoft SQL Server Integration Services development or similar Extract Transform Load development
+2+ years of experience Microsoft SQL Server database administration
+2+ years of experience with Python 2.7 or 3.x
+Strong experience with performance optimization and tuning with database applications is a MUST
+Python Scripting and .NET knowledge preferred
+Familiarity with Cloud Services. Google Cloud Platform (GCP) and the GCP Data Services experience is a plus
+Git experience is also a plus
+Highly organized, self-starter with an eye for detail who can maintain multiple ongoing projects simultaneously
+
+Who is also the embodiment of our culture code ( https://culture.volusion.com/ ) (we hope you are nodding your head in agreement as you browse through it!):
+
+
+Humble: Have humility and be respectful; no egos allowed.
+Effective: Get stuff done!
+Adaptable: Willing to fill any role, anytime. Going above/beyond the call of duty.
+Transparent: Open and honest to self and others.
+A founder: Think big, go fast and solve for the customer.
+
+Benefits & Perks:
+
+Competitive compensation packages
+Medical, Dental, Vision, and Voluntary Life Insurance
+Flexible Paid Time Off
+401(k) with Company Matching
+Paid Parental Leave
+On-site Fitness and Yoga Classes
+Casual Dress and Beer Fridays
+Endless Supply of Coffee and Snacks
+Two Volunteer Days Off
+Bring Your Dog to Work Days
+Chair Massages
+Team Sports and Team Outings
+
+Hi. We’re TiVo. At our core, we’re innovators who continuously seek to fuel the ultimate entertainment experience. We touch the lives of binge-watching, music-loving, entertainment fanatics every day by inventing and delivering beautiful user experiences and enable the world’s leading media and entertainment providers to nurture more meaningful relationships with their audiences.
+We work hard, celebrate success and challenge everyone in our organization to make an impact. If you are as passionate as we are about the intersection of technology and entertainment, join us today.
+The Senior Data Engineer will analyze, design, program, debug and modify software enhancements and/or new products. Lead development of both transactional and data warehouse designs with our team of Big Data engineers and Data Scientists. Design, implement and tune tables, queries, stored procedures, and indexes. Work in an agile Scrum driven environment to deliver new and innovative products for Analytics customers, and keep up-to-date with relevant technology in order to maintain and improve functionality for authored applications.
+
+Primary Job Responsibilities:
+Design and develop new data/ETL pipelines
+Understand, provide support to existing data/ETL pipelines and recommend improvements
+Analyze, debug and fix issues with data pipelines
+Collaborate with DevOps and Production Support teams
+Identify and Implement automation opportunities
+Document processes, issues, and resolutions as needed
+Participate in daily scrums to provide support and prepare for system upgrades
+Qualifications:
+5+ year experience implementing complex ETL pipelines
+BS/MS in CS or Engineering
+Write complex SQLs and ETL processes
+Knowledge of Big Data stack of technologies, including Hadoop, HDFS, Hive, Oozie and Hbase.
+Working knowledge with programming in Java, Scala/Spark and Python.
+Knowledge of AWS environment including at least one of the following: on-demand computing, S3, and/or equivalent cloud computing approach.
+Working with large data volumes, including processing, transforming and transporting large-scale data
+Excellent analytical and troubleshooting skills
+Nice to Haves:
+Experience working in an Agile/Scrum environment
+Build and release experience (CI/CD)
+Exposure to Scheduling, automation & orchestration software (Control-M, Cloud Formation, Puppet)
+
+Benefits & Perks
+Our employees and their families are important to us and our comprehensive pay, stocks and benefits programs reflect that. TiVo supports personal well-being, builds financial security, and enables employees to share in the success of TiVo. Rewards include:
+Competitive compensation (salary, equity, and bonuses) and comprehensive benefits designed to foster work-life balance, care for your health, protect your finances, and help you save and invest for the future.
+Generous paid time away from work including vacation, holidays, sick time, and 2 days of paid time off each year to serve and learn through TiVo Community Outreach.
+Great perks, which vary by location and can include: employee discounts, transportation reimbursements, subsidized cafes and fitness facilities, conveniences such as dry cleaning and car washes, and recycling programs.
+See more at https://www.tivo.com/jobs/culture/benefits-at-tivo
+
+TiVo Corporation is an Equal Employment Opportunity EmployerHi. We’re TiVo. At our core, we’re innovators who continuously seek to fuel the ultimate entertainment experience. We touch the lives of binge-watching, music-loving, entertainment fanatics every day by inventing and delivering beautiful user experiences and enable the world’s leading media and entertainment providers to nurture more meaningful relationships with their audiences.
+We work hard, celebrate success and challenge everyone in our organization to make an impact. If you are as passionate as we are about the intersection of technology and entertainment, join us today.
+The Senior Data Engineer will analyze, design, program, debug and modify software enhancements and/or new products. Lead development of both transactional and data warehouse designs with our team of Big Data engineers and Data Scientists. Design, implement and tune tables, queries, stored procedures, and indexes. Work in an agile Scrum driven environment to deliver new and innovative products for Analytics customers, and keep up-to-date with relevant technology in order to maintain and improve functionality for authored applications.
+
+Primary Job Responsibilities:
+Design and develop new data/ETL pipelines
+Understand, provide support to existing data/ETL pipelines and recommend improvements
+Analyze, debug and fix issues with data pipelines
+Collaborate with DevOps and Production Support teams
+Identify and Implement automation opportunities
+Document processes, issues, and resolutions as needed
+Participate in daily scrums to provide support and prepare for system upgrades
+Qualifications:
+5+ year experience implementing complex ETL pipelines
+BS/MS in CS or Engineering
+Write complex SQLs and ETL processes
+Knowledge of Big Data stack of technologies, including Hadoop, HDFS, Hive, Oozie and Hbase.
+Working knowledge with programming in Java, Scala/Spark and Python.
+Knowledge of AWS environment including at least one of the following: on-demand computing, S3, and/or equivalent cloud computing approach.
+Working with large data volumes, including processing, transforming and transporting large-scale data
+Excellent analytical and troubleshooting skills
+Nice to Haves:
+Experience working in an Agile/Scrum environment
+Build and release experience (CI/CD)
+Exposure to Scheduling, automation & orchestration software (Control-M, Cloud Formation, Puppet)
+
+Benefits & Perks
+Our employees and their families are important to us and our comprehensive pay, stocks and benefits programs reflect that. TiVo supports personal well-being, builds financial security, and enables employees to share in the success of TiVo. Rewards include:
+Competitive compensation (salary, equity, and bonuses) and comprehensive benefits designed to foster work-life balance, care for your health, protect your finances, and help you save and invest for the future.
+Generous paid time away from work including vacation, holidays, sick time, and 2 days of paid time off each year to serve and learn through TiVo Community Outreach.
+Great perks, which vary by location and can include: employee discounts, transportation reimbursements, subsidized cafes and fitness facilities, conveniences such as dry cleaning and car washes, and recycling programs.
+See more at https://www.tivo.com/jobs/culture/benefits-at-tivo
+
+TiVo Corporation is an Equal Employment Opportunity EmployerOverview
+**This position is based in Austin, TX.**
+
+Who you are: Do you like to build, tinker, tune, and optimize anything you can get your hands on? Are you a true believer in the power of using data to drive decisions? Are you an engineering-minded individual who’s passionate about constructing big, scalable systems and elegant solutions to gnarly problems? Spiceworks just might have your dream job! We’re looking for a data minded sr-level software engineer whose perfectly coded plumbing can keep our data systems running without a hitch. Sound like you? Time to apply now and join the team!
+
+Who we are: For over 10 years, Spiceworks has been helping the world’s businesses find, adopt, and manage the latest technologies. We’ve also been helping IT brands build, market, and sell better products and services. Millions of IT buyers and hundreds of brands later, we’ve built the platform they use to get their jobs done and make them better at what they do, every day.
+
+With our helpful tools, technical content, a global community of experts, and entertaining ways to blow off steam, we’ve got IT covered. And because we understand IT buyers and the businesses they represent, established brands like Microsoft, Dell, and CDW, to name a few, and the latest industry innovators including KnowBe4 and Scale Computing use our insights and technology platform to run smarter, more personalized campaigns.
+
+In short, we’re making IT easy – and dare we say FUN – for everyone. Best part: we’re just getting started!
+Responsibilities
+Your day-to-day (as a Senior Software Engineer, you’ll):
+
+Have a role in the design and development of our data platform — doing heavy lifting in the infrastructure and designing data pipelines
+Figure out how to make every system within our data pipeline faster and more scalable
+Zero in on areas where data can offer key insights to the business and help our users
+Work as part of a cross-functional self-organizing agile team to solve problems related to data-processing/manipulation
+Assist other departments in solving data-related dilemmas
+Be an advocate within the company for scalable architecture
+Qualifications
+What does it take to do this job?
+5+ years experience as a data, back-end, infrastructure, performance, or API engineer
+3 years experience building large-scale, distributed, high-volume systems
+Experience with one (or more) of the following languages: Scala, Python, Go, Java
+Experience with big data processing and streaming (Hadoop, Scalding, Hive, Storm, etc.)
+Experience with AWS cloud solutions
+Experience working with Agile teams (bonus points for working with Scrum framework)
+Bonus points if you’ve worked with Kafka, RocksDB, Akka, Cassandra, or HBase
+Passion for performance tuning
+Good communication skills: Being able to boil down and discuss complex ideas with other engineers required; confidence communicating with marketing and sales teams a plusPropertyRadar seeks a full-time developer with strong skills in curating data and developing data workflows. In this new position in our Data Operations team, you'll collaborate with a team of engineers to create unique, powerful, and useful tools that help realtors, investors, and government customers quickly make informed decisions. We're looking for a solid professional and proactive problem solver.PropertyRadar is an industry leader with an entrepreneurial start-up culture. We are profitable and growing within the expanding real estate technology market. PropertyRadar's headquarters are based in Truckee, CA near Lake Tahoe.PRIMARY RESPONSIBILITIESWork with a variety of tools and programming languages to automate data processes.Build solid mechanisms for handling incoming and outgoing data flow.Develop and monitor import routines and be prepared to handle unexpected failures manually.QUALIFICATIONS2+ years experience as data-oriented developer or database administrator with excellent skill in data and information modeling.Capable of implementing and maintaining data import scripts and applications, with the ability to leverage off-the-shelf ETL systems or write custom code when necessary.Ability to write code that interfaces with remote APIs and information services (e.g. REST, JSON, RDF, XML).Must be able to work with un-, semi-, or highly-structured data. Proficiency with SQL and Regular Expressions is critical. Experience with rule-based systems, custom parsers, and NLP tools is highly desirable.Skilled in one or more scripting/programming languages, minimally including Bash, Python and/or PHP in a Linux environment.Experience with MySQL, PostgreSQL, Oracle, column-store or non-relational databases.Comfortable working with large datasets consisting of hundreds of millions of records.Familiarity with open source software and culture.BA/BS in Information Science, Computer Science/Engineering or related field, or equivalent experience.We are looking for people with excellent communication skills who like to identify and prioritize problems and creatively solve them, and thrive within a collaborative, hands-on, do-it-yourself, start-up environment with minimal supervision.COMPENSATION & BENEFITSWe offer a flexible and fun work environment, competitive medical, dental, vision benefits, paid time off, and educational reimbursement. Salary is market-sensitive and commensurate to experience.HOW TO APPLYSend cover letter, resume, LinkedIn profile, and project links (if available) to resumes "at" propertyradar.com.Only full-time applicants please; no recruiters, contractors, or those seeking part-time work.Job Type: Full-timeEducation:Bachelor'sContract Sr. Software Engineer, Data & ETL - San Francisco, CAQuizlet’s mission is to help students (and their teachers) practice and master whatever they are learning. Quizlet is the world’s largest teacher online community. Every month over 30 million active learners from 130 countries practice and master more than 200 million study sets on every conceivable topic and subject. We are developing new learning experiences by modeling how students learn and by drawing upon knowledge acquisition, retention, and tracing pedagogy in cognitive science. We are always seeking to help students master any subject by optimizing study efficiency and engagement.We're looking for a senior data and ETL developer to help us empower our expanding analyst team. We take advantage of a modern data warehouse environment (BigQuery) and open-source BI tools like Airflow, Periscope and DataStudio. This is a 3-6 month contract with potential for full-time conversion at our San Francisco, CA office (convenient to Caltrain, BART and Muni).The RoleMeet with analysts, engineers, product managers and other business users to gather requirementsDesign, build, and maintain data pipelines that power analytics and research at QuizletBuild and maintain Python-based ETL code using BigQuery and running in AirflowAssist with production monitoring and debugging of our data pipelinesTimely troubleshooting of problems with nightly ETL executionQualifications and Experience4+ years experience as a BI/ETL or data engineerHighly proficient with SQLHighly proficient in Python programmingExperience with a major data warehouse and the desire and ability to learn BigQuery quicklyExperience dealing with DevOps concerns for data pipelinesPrefer candidates with experience in user-engagement and ecommerce domainsQuizlet’s Team CultureWe are here to make education better and more accessible. We strive to improve the lives of students and teachers at every stage and in every setting. We have a bias for action, take initiative, and hustle to deliver results. We make informed decisions whenever possible but are unafraid to take calculated risks on great ideas to promote learning. We embrace challenges and see effort as the path to mastery. We’re constantly seeking opportunities to learn and we embrace curiosity.Quizlet’s success as an online learning community depends on a strong commitment to diversity, equity and inclusion. We are actively building a team that is representative of the diverse communities we serve, and an open, inclusive work environment where all employees can thrive. As an equal opportunity employer and a tech company committed to societal change, we welcome applicants from all backgrounds. Women, people of color, members of the LGBTQ+ community, individuals with disabilities, and veterans are strongly encouraged to apply. Come join us!Job Type: ContractSalary: $90.00 to $120.00 /hourExperience:ETL: 3 yearsPython: 3 yearsSQL: 4 yearsBigQuery: 1 yearEducation:Bachelor'sLocation:San Francisco, CA 94107Are you interested in getting into big data?Luckily, we are a small company and interested in teaching trainable candidates and turning them into data engineers.We have fully funded roles available, and will train interested and motivated individuals to fit the needs of our clients.Preferred Tech:PythonBashApache SparkAWS RedshiftNecessary:U.S. CitizenshipGood Communication Skills**Contract to Hire**Dogs Encouraged at WorkJob Type: ContractSalary: $85,000.00 to $110,000.00 /yearExperience:data engineering: 1 yearEducation:Bachelor'sLocation:Stamford, CTRequired work authorization:United StatesJob Description
+Alexa is Amazon’s groundbreaking virtual assistant designed for voice interactions. We believe voice is the most natural interface for interacting with technology across many domains. We are looking for a Data Engineer to join our Analytics team located in beautiful Santa Barbara, CA.
+As a Data Engineer, you will build data pipelines, tools, and reports that enable analysts, knowledge engineers, software engineers, product managers, and executives improve Alexa’s answering capabilities across multiple information verticals: Sports, Business, History, Science, etc. In this highly visible role, you will work across teams to gather requirements for data logging, storing, transforming, and reporting, and will build scalable solutions under fast-paced environment.
+
+Key Responsibilities:
+You love building tools and data pipelines, can create clear and effective reports and data visualizations, and can partner with stakeholders to answer key business questions. You will also have the opportunity to display your skills in the following areas:
+Design, implement, and automate deployment of our distributed system for collecting and processing log events from multiple sources
+Design data schema and operate internal data warehouses and SQL/NoSQL database systems
+Write Extract-Transform-Load (ETL) jobs and Spark/Hadoop jobs to calculate business metrics
+Own the design, development, and maintenance of ongoing metrics, reports, analyses, dashboards, etc. to drive key business decisions
+Monitor and troubleshoot operational or data issues in the data pipelines
+Drive architectural plans and implementation for future data storage, reporting, and analytic solutions
+Basic Qualifications
+Bachelor's degree in Computer Science, Mathematics, Statistics, Finance, related technical field, or equivalent work experience
+3+ years of relevant work experience in analytics, data engineering, business intelligence or related field, and 3+ years professional experience
+2+ years of experience in implementing big data processing technology: Hadoop, Apache Spark, etc.
+Experience using SQL queries, experience in writing and optimizing SQL queries in a business environment with large-scale, complex datasets
+Detailed knowledge of data warehouse technical architecture, infrastructure components, ETL and reporting/analytic tools and environments
+Experience in data visualization software (Tableau/Qlikview) or open-source project
+Preferred Qualifications
+Graduate degree in Computer Science, Mathematics, Statistics, Finance, related technical field
+Strong ability to effectively communicate with both business and technical teams
+Demonstrated experience delivering actionable insights for a consumer business
+Proficiency with search technologies (Elasticsearch and the Elastic stack)
+Coding proficiency in at least one modern programming language (Python, Ruby, Java, etc)
+Experience with AWS technologies including Redshift, RDS, S3, EMR
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual OrientationOcto Telematics, NA, the global leader in telematic solutions is seeking a Data Engineer to join the team.We are looking for an experienced Data Administrator/ Engineer who will be responsible for the creation and maintenance of analytics infrastructure that enables almost every other function in the data world.You will be responsible for the development, construction, maintenance and testing of architectures, such as databases and large -scale processing system.We are a big-data company that works with some of the world’s largest insurers.Responsibilities:Build distributed ETL systems across a range of platforms and big data technologies like HDFS and Hive.Install, maintain, big databases and develop code using Python for big data databases.Solve complex performance problems, architectural challenges, and production issues.Set up scheduler jobs on Linux Servers for data automation and quality analysis.Responsible for ensuring high-availability ( >99.0%) of critical database systems and services and for development, implementation, and testing of failover and disaster recovery plans for all critical database systems.Write complex SQL queries for data extraction, automation, and data quality analysis.Participate in the setting of the objectives, strategies, plans, programs, performance standards/measures, and procedures as a member of the IT Operations team.Participate in on-call system administration support including but not limited to weekends, holidays and after-business hours s required to service the needs of the business.Follow company processes and procedures. May perform ad-hoc duties as needed such as collaborate with management to create reports about business and operative KPIs measurement and spreading awareness about data security and breach to all employees.Requirements:Bachelor’s Degree in Electronics Engineering, Computer Engineering, Information Systems, or a related field.3-5 years’ progressive post-baccalaureate experience as a database administrator or in a related role.Special Requirements:Experience in utilizing business intelligence tool tableau; and Database Administration, Database Architecture, Big Data Analytics, Python programming, Linux Server administration, and Complex SQL queries from Parstream and Oracle.Job Type: Full-timeExperience:experience as a data administrator: 3 yearsEducation:Bachelor'sRequired work authorization:United StatesThe Data Driven Modeling and Analysis Team within the Computational Sciences and Engineering Division at the Oak Ridge National Laboratory is seeking dynamic senior data engineers passionate about joining an interdisciplinary team of computer scientists, mathematicians, and engineers. You will have the opportunity to work on some of the most challenging and impactful research and development programs in healthcare informatics, bioinformatics, and computer science.Major Duties and Responsibilities: As a Data Engineer you wil be responsible for:Developing high-scale, robust data warehouses, and data lakes with special focus on the state-of-the-art solutions for healthcare, lifesciences, and genomics.Interfacing with research teams to understand data needs, and providing subject matter expertise to research teams, and other team members about the data models, query optimizations, and schema interpretation.Designing, building and launching new data/study marts for the major national research programs.Designing, building and launching new data quality, data extraction, transformation and loading processes.Designing and developing architectures for intake, curation, organization, and dissemination of data in support of data science and related disciplines.Designing and development of high-performance database architectures.Researching and evaluating the state-of-the-art data and information management technologies.Working on a variety of data assignments; collaborate with scientists and engineers, and expect to produce reliable data products and systems.Working in both classified and unclassified settings and on a wide variety of applied areas.*Basic Qualifications: B.S. in Computer Science, Information Systems, Engineering, or closely related field5+ years of experience in database design and development.This position requires the ability to obtain and maintain a clearance from the Department of Energy. As such, this position is a Workplace Substance Abuse program (WSAP) testing designed position which requires passing a pre-placement drug test and participation in an ongoing random drug testing program in which employees are subject to being randomly selected for testing. The occupant of this position will also be subject to an ongoing requirement to report to ORNL any drug-related arrest or conviction or receipt of a positive drug test result.Preferred Qualifications:M.S or Ph.D. degree in Computer Science, Information Systems, Engineering, or closely related field.*10+ years of experience in basic and advanced SQL, database programming, and scripting languages (Python preferred).10+ years of experience in data warehousing systems and database system administration.Expertise with SQL Server is strongly preferred.Experience in designing analytics data systems (OLTP, etc.).Familiarity with Big Data and NoSQL architectures.Demonstrated experience with collecting, organizing, storing, and preparing data analysis.Ability to conduct tasks independently and communicate effectively to team members and stakeholders.Experience with heath care informatics, and clinical data is highly desired.ORNL is an equal opportunity employer. All qualified applicants, including individuals with disabilities and protected veterans, are encouraged to apply.Job Type: Full-timeCompany ProfileWe are seeking a highly motivated and results oriented Data Engineer to join our fast-paced and rapidly growing company. TurningPoint is an innovative healthcare services and technology organization that is committed to developing advanced technical and clinical solutions that help to improve the quality and affordability of surgical care patients receive.What you will be doing: Develop scalable, high-performance, data systems based on SQL Server, Microsoft .Net as well as open sourced technologies and frameworks.Build data pipelines consuming large extracts and feeds from client systems to operational and analytical systems.Working with product stakeholders to collect and define requirements and then implement technical solutions.Ensure solutions meet a standard of high-quality by implementing release pipelines, unit tests and developing systems in a way that promote Continuous Delivery.Provide production support for systems by identifying, researching and resolving production and performance issues.What you will need: The drive to work in a fast-paced environment.Experience with Microsoft SQL Server.Experience with SQL Server Reporting Services (SSRS) or other reporting tools.Experience with SQL Server Integration Services (SSIS) or other ETL tools.Experience in a Windows .Net environment.Experience using secure application development patterns.Experience working directly with large SQL databases, including an understanding of query tuning and different data structures.Strong organizational skills; commitment to customer service; ability to solution complex problems.The ability to communicate effectively with other technical and non-technical business users both orally and written.Experience working within a team environment and the ability to work with internal and external clients and to translate requirements into solutionsWhat is even better: Experience with a Continuous Integration and Continuous Delivery environment, including the use of TFS (VSTS) and Release Management.Experience with PowerShell (4+) scripting language.Experience with R, Python, or other tools for statistical analysis.Experience with Microsoft Dynamics xRM.Knowledge of the Healthcare Industry.BenefitsTurningPoint offers a number of benefits to full-time employees including, but not limited to: medical, dental, vision, disability, life, PTO. All employees are eligible to participate in the 401(k) retirement savings plan.RequirementsMust be legally authorized to work in the United States.Must be willing to undergo a background check and pre-employment drug screening in accordance with local law/regulationsFor More Company Information, please visit TPSHEALTH.COMJob Type: Full-timeLocation:Lake Mary, FL 32746Job Description
+
+As a core contributor to the Data Engineering team, your primary goals will be building pipelines that gather data from disparate sources, cleaning the data, and loading the transformed data into structures that are tailored to each client’s challenges and analytic approaches. You should have a solid understanding of how to access and extract data through various means (web services, web crawlers, direct access to source database, etc). You will create and apply custom solutions for data wrangling and develop semi-automated and automated ETL and database solutions.
+
+Responsibilities
+Contribute to the design and development of our Python data workflow management platform
+Design and develop tools to wrangle datasets of small and large volumes of data into cleaned, normalized, and enriched datasets
+Build and enhance the Crux Data Engineering codebase for added efficiency and capacity
+Refine processes for normalization and performance-tuning analytics
+
+About Crux
+
+Crux helps people work in harmony with data. Our services empower companies to harness data with ease and delight. Here’s how we help our clients overcome the challenges of data:
+
+INFORMATICS PLATFORM
+We offer a secure, scalable platform where companies can store, explore, and transform data. This cloud environment helps our clients develop, implement, and manage business initiatives and workflows with much greater efficiency.
+
+DATA CONCIERGE SERVICE
+We offer a managed service for data engineering. Our team of skilled data engineers supports our clients by applying machine learning technologies to wrangle data at scale. These data concierges onboard, clean, and normalize raw data to bring our clients data that’s ready for action.
+
+DATA NETWORK
+Our network helps companies discover, evaluate, and harness high-quality data for success. We aggregate data from a wealth of sources, provide insights into vendors and datasets, and help companies gain access to data that can improve competitive advantage. Qualifications
+
+About You
+You love building elegant solutions that scale
+You bring deep experience in the architecture and development of quality backend production systems, specifically in Python
+You love working on high-performing teams, collaborating with team members, and improving our ability to deliver delightful experiences to our clients
+You are excited by the opportunity to solve challenging technical problems, and you find learning about data fascinating
+You understand Server, Network, and Hosting Environments, RESTful and other common APIs, common data distribution, and hosted storage solutions
+
+Must Have
+5+ years of full-time software development experience in a professional, production environment
+Expert in OO Python
+Experience working independently, or with minimal guidance
+Strong problem solving and troubleshooting skills
+Ability to exercise judgment to make sound decisions
+Proficiency in multiple programming languages
+Strong communications skills, interpersonal skills, and a sense of humor
+
+Even Better
+Data skills: RDBMS SQL and NOSQL, structured and unstructured data, BigQuery
+Proficiency in Jupyter, C24; familiarity with ETL, CDC, and workflow tools
+Big data and cloud processing experience, e.g. HDFS, Spark
+Experience working in a cloud-based environment, such as GCP or the AWS
+Additional Information
+
+At Crux, diversity is valued and and treatment of employees and applicants are based on merit, talent and qualification. We believe the key to success is bringing together unique perspectives and we never discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. For employment qualified applicants with criminal histories, consideration will be consistent with the requirements of the San Francisco Fair Chance Ordinance.
+All your information will be kept confidential according to EEO guidelines.Develops algorithms to automate mortgage-processing tasks to improve the speed, accuracy, controls, and auditability of the product. Works closely with or on teams that perform loan-processing to become acquainted with procedures and regulations specific to the product and systems. Writes code in language optimal for particular task or system with bias for high-level, common languages such as Python, LaTeX, R, C++, SQL, HTML, etc. Atomizes tasks and corresponding code, as well as produces descriptive pseudo-code and helpful overview documentation for to code, to ensure easy troubleshooting and maintainability. Collects, clean, transforms, and presents datasets to provide useful information to employees, managers, and executives. Makes careful recommendations for process improvement and business decisions. Learns new tools such as programming languages as necessary, and works collaboratively in teams. The ideal candidate is curious, passionate about data and programming, has a strong technical background, has the ability to look at problems in creative ways, enjoys building solutions and sharing information, is high-energy and enjoyable to work with.
+Qualifications
+Bachelor’s degree in a technical discipline such as computer science, information systems, statistics, mathematics, actuarial science, physics, quantitative finance, etc. Master’s degree or equivalent experience is preferred.
+Two years’ professional work experience in industry or academia, or equivalent time performing graduate work in technical discipline. Additional years’ experience preferred.
+Experience completing projects from inception to delivery
+Experience improving work-products such as code from others
+Advanced experience working in SQL, databases, and systems
+Advanced programming in vectorized languages or languages with vectorized packages such as R, Python Numpy, or Matlab
+Experience programming in presentation languages such as Latex, HTML, and JavaScript
+Advanced expertise working with large datasetsJob Functions
+The following job function statements describe the general nature and level of work being performed. They are not to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified. The job function statements reflect expectations of the fully trained, proficient incumbent who meets all performance criteria
+Develop & support Big Data and analytical solutions.
+Leverage Alliance standard technologies.
+Understand functional and technical requirements, participate in design, and develop software solutions that meet business requirements.
+Perform user story analysis, design and development of software applications in the Big Data Environment.
+Code, test, and implement data & analytics solutions in alignment with the project schedule(s).
+Create data flow diagrams and other living documents to support the data solutions.
+Understand logical & physical database design for Big Data solutions as provided by other team members and contribute to appropriate data flow design.
+Support the creation of automated processes & monitoring.
+Assist with maintenance of all relevant enterprise data catalog components/metadata, including the initial data intake process for BDE tenants.
+
+Minimum Qualifications
+The following qualification statements reflect the minimum skills and abilities required of the qualified applicant.
+
+Job Knowledge and Skill:
+Knowledge of data management concepts of data warehousing, ETL, data integration, etc.
+Experience with agile/scrum or other rapid application development methods.
+Demonstrable experience with object-oriented design, coding and testing patterns as well as experience in engineering (commercial or open source) software platforms and large-scale data infrastructures.
+Experience developing & implementing software & solutions in the enterprise Linux or Unix environment
+Understanding with various enterprise security solutions such as LDAP and/or Kerberos
+Understanding of network configuration, devices, protocols, speeds and optimizations
+Understanding of the Java ecosystem and enterprise offerings
+Ability to understand big data use-cases, and recognize standard design patterns commonly used in Hadoop-based deployments.
+
+Education/ Experience:
+Bachelor's degree in computer science, computer engineering, other technical discipline, or equivalent work experience.
+2-5 years of professional IS/IT experience overall
+1-3 years of software development and integration via data engineering, data science, or software engineering with a concentration on Big Data.
+Direct, hands-on design, development, deployment & support of software solutions with a recent emphasis on Hadoop solutions.
+
+Computer Skills:
+Hortonworks HDP Certified Developer credential (preferred)
+Experience designing data queries against data in the HDFS environment (Hive & HBase)
+Developer using different programming languages (ex. Java) and scripting tools such as bash shell scripts, Python/PySpark, and/or Perl
+Experience with R
+Comfortable writing to network-based APIs, preferably REST/JSON or XML/SOAP
+Experience in database design, modeling, and data integration on a variety of relational databases (DB2, Oracle, SQLServer, Postgres, etc.) and NoSQL databases.
+Experience with Hadoop ecosystem (Pig, Hive, Oozie, Kafka, Hue, Spark, Zeppelin, Atlas, Solr, LLAP, etc.)
+
+Physical Requirements
+The physical requirements described below are representative of those an employee must normally meet to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable otherwise qualified individuals with disabilities to perform the essential job functions.
+
+Travel: Approximately 0% day and overnight travel. Travel to one annual conference is expected, to support ongoing training & education and/or certification.Develop data solutions and provide technical support for data scientists and business analysts on the latest big data platforms. This role works directly with business functions, technical teams, and vendor partners to architect and build solutions that optimize business decisions and processes. Projects typically require innovation and rapid development.
+
+This role performs the following tasks for dozens of analytical teams and business units across the enterprise.
+
+Provide development and operations support for a Hadoop/Linux platform that supports
+analytics (R/Shiny, Python, Spark, H2O, SAS) and business intelligence (Tableau, Microsoft BI)
+
+Evaluate, implement and administer emerging data technologies, focusing on: big data
+analytics, OCR, search, data virtualization, data wrangling, business intelligence an
+visualization
+
+Train and enable data scientists and business analysts to self-service data wrangling and
+analysis
+
+Provide technical consulting to ensure understanding of solutions, standards and processes
+Qualifications
+
+Bachelor’s degree in a quantitative or scientific field, such as: Computer Science, Engineering or
+ a related discipline
+
+At least 2, typically 4 or more years of solid, diverse work experience in IT, database
+management, analytics or an equivalent combination of education and work experience
+
+At least 1 year of experience with reporting or database platforms, performing: data preparation,
+data warehousing operations (ETL, data aggregation, mining), or developing Analytics solutions
+
+At least 1 year of experience developing applications with languages, such as: Python, R, SQL
+or Java
+
+Ability to learn new technologies quickly, and perform major job responsibilities proficiently within
+6-12 months
+
+Strong analytical ability, problem analysis techniques, and broad knowledge of technology
+alternatives
+
+Excellent communication skills, and the ability to work effectively with business clients and IT
+resources
+
+PREFERRED
+
+At least 1 year of experience developing solutions with Hadoop technologies, such as: Hive, Pig,
+HBase or Kafka
+
+At least 1 year of experience with Linux scripting, or system administration
+
+Experience evaluating and administering software tools
+
+Experience training users to be proficient with software tools
+
+Understanding of insurance business functions
+
+Experience with analytics, machine learning algorithms, or statistical software, such as: SAS or
+R
+
+Experience with agile project management
+
+Proactive, responsive, flexible, continuous improvement mindset, team oriented,
+frequent/clear/concise communicator, positive attitude, customer focus, effective listener, good
+multitasking skills
+
+
+What Else Can You Tell Me?
+
+The Hartford is committed to the education and growth of our Information Technology Professionals. A number of IT Certifications are available to enhance your career and growth potential. IT Professionals at The Hartford may qualify for a stipend up to $1000 per year for additional certifications
+
+
+
+Equal Opportunity Employer/Females/Minorities/Veterans/Disability/Sexual Orientation/Gender Identity or Expression/Religion/Age
+
+
+** NO AGENCIES PLEASE **
+Job Function
+: Data Engineering
+Primary Location
+: United States
+Schedule
+: Full-time
+Job Level
+: Individual Contributor
+Education Level
+: Bachelor's Degree (±16 years)
+Job Type
+: Standard
+Shift
+: Day Job
+Employee Status
+: Regular
+Overtime Status
+: Exempt
+Travel
+: No
+Job Posting
+: Jun 12, 2018, 11:00:00 PM
+Remote Worker Option : NoSenior Data Engineer - (AWS, Python/Scala, Spark)Optomi, in partnership with a leading product manufacturer, is seeking a Senior Data Systems Engineer to create, maintain and optimize a new cloud based data architecture that will support multiple business lines and will make architectural and design recommendations in a highly dynamic team environment.This role will be part of a Center of Excellence team leading the evaluation and implementation data engineering technology, tools, and frameworks leveraging the Hadoop platform and cloud services supporting our data science, data warehousing and visualization investments. This role will have an emphasis on Data Engineering practices and will help drive the strategic vision for self-service reporting and decision support within the company.What the right professional will enjoy!!Establish best practices in big data technologies and data warehouse to collect and analyze large volumes of data advancing the state of the art in efficiency optimization, predictive analytics and BI self-reporting tools.Lead a technical team of data engineers delivering a wide array of big data and self-service reporting solutions that use cutting edge technologiesGuide the organization in efficient data and resource management best practices with cloud based big data, Data Warehouse and Reporting platforms and servicesApply today if your background includes: You have a Bachelor’s Degree in Computer Science (or related field) and have 4+ years of relevant work experience in business intelligence, data engineering, data warehousing, or a similar field.You have expertise level experience with SQL and/or PythonYou remain active in learning emerging practices and technologies in the BI/DW and data science space.You are comfortable and confident in your knowledge of multiple database programming languages and your knowledge of relational and columnar databases.You have experience integrating data from multiple data sources and have processed large amounts of unstructured data.You have experience with Cloud technologies (AWS preferred), Big Data Components (Apache Spark, Hadoop, Presto, etc.), and Continuous Integration tools (TeamCity, Octopus, Jenkins, etc.) is desired, but not required.Data Systems Engineer Job Responsibilities: Provide significant contributions to the growth of our Data infrastructureDesign, develop, test and deploy business intelligence solutionsDesign and document data structures/models and data flowsInteract with various business units and technical teams to gather requirementsReview, optimize and document current ETL processesEnsure data quality, completeness, and accuracyCollaborate with team members in code reviews, discovering better practices and patterns and continuous improvementsJob Type: Full-timeSalary: $125,000.00 to $135,000.00 /yearExperience:Python: 3 yearsBig Data: 5 yearsCloud Computing: 2 yearsEducation:High schoolLocation:Atlanta, GARequired work authorization:United StatesAt Volusion, we make products that people love. Our teams are dedicated to providing SaaS ​e​commerce solutions and services for all business types, from startups to well-established companies. If you're a creative professional who loves working with teams, has a passion for driving positive change and wants to better the world with your ​ideas, we want to hear from you!
+
+The rundown:
+As a Data Engineer, you will assist in the development of data warehouse information architecture on both Google Cloud BigQuery and Microsoft SQL Server, optimize SQL performance, and provide operational support to our high availability Microsoft SQL Server Warehouse infrastructure. An ideal candidate will be a proficient warehouse developer versed in data integration services development, report development, data analysis, and database administration.
+
+You will:
+
+Assist in building and maintaining data warehouse data integrations leveraging both MS SQL Integration services and Python technologies
+Assist in the development of BigQuery Data Model
+Develop and Optimize SQL Queries leveraged by existing integration services ,reporting processes and data analysis reports
+Develop dashboards and visualizations for ongoing measurement and KPIs.
+Plan for non-transactional data storage for reporting and analytics
+Database Schema design and data flow architecture planning
+Maintain current reports in existing reporting platforms
+Profile source system data as needed to provide feedback for business requirements
+Analyze and verify Data Warehouse data
+Assist in the design, build and maintenance of SSAS cubes
+
+We are looking for someone with:
+
+MUST be a team player with excellent oral and written communication skills
+Bachelor’s degree in Computer Science or Engineering
+SQL Skills for data analysis is a strong must have
+2+ Years Microsoft SQL Server Integration Services development or similar Extract Transform Load development
+2+ years of experience Microsoft SQL Server database administration
+2+ years of experience with Python 2.7 or 3.x
+Strong experience with performance optimization and tuning with database applications is a MUST
+Python Scripting and .NET knowledge preferred
+Familiarity with Cloud Services. Google Cloud Platform (GCP) and the GCP Data Services experience is a plus
+Git experience is also a plus
+Highly organized, self-starter with an eye for detail who can maintain multiple ongoing projects simultaneously
+
+Who is also the embodiment of our culture code ( https://culture.volusion.com/ ) (we hope you are nodding your head in agreement as you browse through it!):
+
+
+Humble: Have humility and be respectful; no egos allowed.
+Effective: Get stuff done!
+Adaptable: Willing to fill any role, anytime. Going above/beyond the call of duty.
+Transparent: Open and honest to self and others.
+A founder: Think big, go fast and solve for the customer.
+
+Benefits & Perks:
+
+Competitive compensation packages
+Medical, Dental, Vision, and Voluntary Life Insurance
+Flexible Paid Time Off
+401(k) with Company Matching
+Paid Parental Leave
+On-site Fitness and Yoga Classes
+Casual Dress and Beer Fridays
+Endless Supply of Coffee and Snacks
+Two Volunteer Days Off
+Bring Your Dog to Work Days
+Chair Massages
+Team Sports and Team Outings
+
+What’s the Job?You’ll be joining our data science team as a Data Product Engineer. You’ll be responsible for testing, monitoring, and improving the data collection programs we have in production, as well as developing new software to capture data from the web and extract insights from third-party sources. You’ll be writing Python scripts deployed on AWS, and communicating with data scientists and infrastructure engineers.Required: 5+ Years professional experience with PythonPython data structures and best practicesAWS and Linux (Ubuntu/CentOS) , Bash scriptingProfessional experience with a SQL-based database, such as MySQLWrites organized code with appropriate exception handling and loggingUnderstanding of HTTP network requests and responsesUnderstanding of HTML and JSON formatsAbility to write technical documentation and comment codeAbility to write test suites and set up automation environmentsPlusses: Experience with scrapy, beautiful soup, requests, seleniumAmazon Redshift/ HadoopPrior experience as a front-end, back-end, or full-stack web developerJavascript / NodeJSPython Django/FlaskJob Type: Full-timeExperience:AWS: 2 yearsweb scraping: 1 yearBash: 2 yearsPython: 3 yearsRequired work authorization:United StatesOverview
+**This position is based in Austin, TX.**
+
+Who you are: Do you like to build, tinker, tune, and optimize anything you can get your hands on? Are you a true believer in the power of using data to drive decisions? Are you an engineering-minded individual who’s passionate about constructing big, scalable systems and elegant solutions to gnarly problems? Spiceworks just might have your dream job! We’re looking for a data minded sr-level software engineer whose perfectly coded plumbing can keep our data systems running without a hitch. Sound like you? Time to apply now and join the team!
+
+Who we are: For over 10 years, Spiceworks has been helping the world’s businesses find, adopt, and manage the latest technologies. We’ve also been helping IT brands build, market, and sell better products and services. Millions of IT buyers and hundreds of brands later, we’ve built the platform they use to get their jobs done and make them better at what they do, every day.
+
+With our helpful tools, technical content, a global community of experts, and entertaining ways to blow off steam, we’ve got IT covered. And because we understand IT buyers and the businesses they represent, established brands like Microsoft, Dell, and CDW, to name a few, and the latest industry innovators including KnowBe4 and Scale Computing use our insights and technology platform to run smarter, more personalized campaigns.
+
+In short, we’re making IT easy – and dare we say FUN – for everyone. Best part: we’re just getting started!
+Responsibilities
+Your day-to-day (as a Senior Software Engineer, you’ll):
+
+Have a role in the design and development of our data platform — doing heavy lifting in the infrastructure and designing data pipelines
+Figure out how to make every system within our data pipeline faster and more scalable
+Zero in on areas where data can offer key insights to the business and help our users
+Work as part of a cross-functional self-organizing agile team to solve problems related to data-processing/manipulation
+Assist other departments in solving data-related dilemmas
+Be an advocate within the company for scalable architecture
+Qualifications
+What does it take to do this job?
+5+ years experience as a data, back-end, infrastructure, performance, or API engineer
+3 years experience building large-scale, distributed, high-volume systems
+Experience with one (or more) of the following languages: Scala, Python, Go, Java
+Experience with big data processing and streaming (Hadoop, Scalding, Hive, Storm, etc.)
+Experience with AWS cloud solutions
+Experience working with Agile teams (bonus points for working with Scrum framework)
+Bonus points if you’ve worked with Kafka, RocksDB, Akka, Cassandra, or HBase
+Passion for performance tuning
+Good communication skills: Being able to boil down and discuss complex ideas with other engineers required; confidence communicating with marketing and sales teams a plusAt Volusion, we make products that people love. Our teams are dedicated to providing SaaS ​e​commerce solutions and services for all business types, from startups to well-established companies. If you're a creative professional who loves working with teams, has a passion for driving positive change and wants to better the world with your ​ideas, we want to hear from you!
+
+The rundown:
+As a Data Engineer, you will assist in the development of data warehouse information architecture on both Google Cloud BigQuery and Microsoft SQL Server, optimize SQL performance, and provide operational support to our high availability Microsoft SQL Server Warehouse infrastructure. An ideal candidate will be a proficient warehouse developer versed in data integration services development, report development, data analysis, and database administration.
+
+You will:
+
+Assist in building and maintaining data warehouse data integrations leveraging both MS SQL Integration services and Python technologies
+Assist in the development of BigQuery Data Model
+Develop and Optimize SQL Queries leveraged by existing integration services ,reporting processes and data analysis reports
+Develop dashboards and visualizations for ongoing measurement and KPIs.
+Plan for non-transactional data storage for reporting and analytics
+Database Schema design and data flow architecture planning
+Maintain current reports in existing reporting platforms
+Profile source system data as needed to provide feedback for business requirements
+Analyze and verify Data Warehouse data
+Assist in the design, build and maintenance of SSAS cubes
+
+We are looking for someone with:
+
+MUST be a team player with excellent oral and written communication skills
+Bachelor’s degree in Computer Science or Engineering
+SQL Skills for data analysis is a strong must have
+2+ Years Microsoft SQL Server Integration Services development or similar Extract Transform Load development
+2+ years of experience Microsoft SQL Server database administration
+2+ years of experience with Python 2.7 or 3.x
+Strong experience with performance optimization and tuning with database applications is a MUST
+Python Scripting and .NET knowledge preferred
+Familiarity with Cloud Services. Google Cloud Platform (GCP) and the GCP Data Services experience is a plus
+Git experience is also a plus
+Highly organized, self-starter with an eye for detail who can maintain multiple ongoing projects simultaneously
+
+Who is also the embodiment of our culture code ( https://culture.volusion.com/ ) (we hope you are nodding your head in agreement as you browse through it!):
+
+
+Humble: Have humility and be respectful; no egos allowed.
+Effective: Get stuff done!
+Adaptable: Willing to fill any role, anytime. Going above/beyond the call of duty.
+Transparent: Open and honest to self and others.
+A founder: Think big, go fast and solve for the customer.
+
+Benefits & Perks:
+
+Competitive compensation packages
+Medical, Dental, Vision, and Voluntary Life Insurance
+Flexible Paid Time Off
+401(k) with Company Matching
+Paid Parental Leave
+On-site Fitness and Yoga Classes
+Casual Dress and Beer Fridays
+Endless Supply of Coffee and Snacks
+Two Volunteer Days Off
+Bring Your Dog to Work Days
+Chair Massages
+Team Sports and Team Outings
+
+What’s the Job?You’ll be joining our data science team as a Data Product Engineer. You’ll be responsible for testing, monitoring, and improving the data collection programs we have in production, as well as developing new software to capture data from the web and extract insights from third-party sources. You’ll be writing Python scripts deployed on AWS, and communicating with data scientists and infrastructure engineers.Required: 5+ Years professional experience with PythonPython data structures and best practicesAWS and Linux (Ubuntu/CentOS) , Bash scriptingProfessional experience with a SQL-based database, such as MySQLWrites organized code with appropriate exception handling and loggingUnderstanding of HTTP network requests and responsesUnderstanding of HTML and JSON formatsAbility to write technical documentation and comment codeAbility to write test suites and set up automation environmentsPlusses: Experience with scrapy, beautiful soup, requests, seleniumAmazon Redshift/ HadoopPrior experience as a front-end, back-end, or full-stack web developerJavascript / NodeJSPython Django/FlaskJob Type: Full-timeExperience:AWS: 2 yearsweb scraping: 1 yearBash: 2 yearsPython: 3 yearsRequired work authorization:United StatesAbout Telnyx
+Telnyx is building the global telco of the future. We have deployed an international private software-defined network, with multiple tier-1 interconnects, leveraging all major cloud service providers to deliver a voice and messaging solution with carrier-grade reliability. We sell our services in a totally automated fashion, allowing our users to programmatically scale their voice and messaging on-demand.
+In addition to providing service and software in major North American and European markets, we are expanding to Asia and are developing a wireless product that will provide licensed spectrum access to our infrastructure.
+Telnyx has seventy employees (75% engineers) between our Chicago, IL office, Dublin, Ireland office and remote team. We have actual revenue traction, meaningful sequential monthly growth, and a massive addressable market.
+
+Joining Our Team
+At Telnyx, we’re working to globally democratize access to real-time communications over the internet. We’re building a future where voice, messaging, and wireless services can act as building blocks to facilitate high-fidelity, secure, and modern modes of communication.
+No matter where you're based, or which team you work on, you’ll be part of a group of people working together to build solutions to mission-critical problems and a company that values the very best ideas. People rely on our products to communicate daily, which means they rely on us to build things with a high degree of resiliency and reliability.
+
+The Role
+As a Python Engineer at Telnyx, you will deploy groundbreaking applications to solve our customers’ hardest problems. Projects often start with a nebulous question and our Engineers lead the way in developing a solution, from high-level system design and prototyping to application development and data integration. As a Telnyx software engineer, you leverage everything around you: Telnyx products, open source technologies, and anything you and your team can build to drive real impact.
+
+You work with users around the globe, where you help our customers by solving their communications challenges. Each mission presents different challenges, from the regulatory environment to the nature of the data to the user population. You will work to accommodate all aspects of an environment to drive real technical outcomes.
+
+In this role, you will:
+
+Build Python products for the delivery of mission-critical global communications. These products are latency sensitive and must handle data at scale, all while maintaining an intuitive user experience.
+Create tools to automate critical aspects of production systems.
+
+Technologies we use
+
+A variety of languages including Python, Java, Elixir, Scala, Go, Angular, and React.
+Open-source technologies like Cassandra, Spark, and ElasticSearch.
+Industry-standard build tooling, including Docker, Consul, Jenkins, Ansible, and Github.
+
+What we value:
+
+Demonstrated ability to continuously learn, work independently, and make decisions with minimal supervision. You understand that making mistakes means you’re learning, and you actively seek opportunities to grow and develop.
+You want to work on software that is changing the world and you're passionate about creating intuitive, scalable products that magnify the analytical capabilities of our users.
+Familiarity with Twisted and Go is a plus.
+Experience building and operating scalable infrastructure software or distributed systems.
+Experience with large-scale production databases and major cloud services.
+Familiarity with micro-service architectures.
+Highly proficient in a Linux environment.
+Experience working with message queues (RabbitMQ).
+
+As part of State Street’s continued investment in technological transformation, we are seeking expertise in the field of Cloud Platform Development, Robotics Process Automation and Cognitive development. Any financial background is certainly a plus in our business, but not required.
+
+In the role as Data Scientist and Cognitive Engineer will work with other Cognitive agile team members through the phases of use-case data exploration and prototyping to the design, implementation and deployment of the resulting Cognitive services supporting the use-case.
+
+Responsibilities:
+Work with a team of data scientists, machine learning engineers, software engineers and QA engineers.
+Perform data collection, preprocessing, feature engineering, data visualization and analysis.
+Build automation of data collection and preprocessing.
+Build models to address business problems.
+Engage with lines of business, users and analysts to explore and prototype opportunities and use-cases exploiting data and the application of cognitive and machine learning technologies.
+Design, develop, test and support Cognitive microservices to operationalize and productize deployment of resulting models and cognitive solutions.
+
+Highly preferred skills and experience:
+Modern, object-oriented or functional programming experience, (Java, C++, Python, Scala, SQL, R)
+Data Science and Machine Learning Frameworks (“R”, Apache Spark / MLlib, TensorFlow, Scikit-learn, etc…)
+Natural Language Processing (NLTK, CoreNLP, Gensim, Spacy, etc..)
+Experience with Big-Data technologies and cloud (AWS, other)
+Linux / Bash scripting
+Relational databases (Oracle, PostgreSQL, MySQL, etc.)
+Agile development methodology
+CI/CD Development environments and tools (GIT, Maven, Jenkins, etc)
+RESTful Microservice APIs
+Strong analytical skills. Previous experience or education focused on statistics or data science is valuable.
+
+Qualifications:
+Bachelors degree in Computer Science or related degree.
+At least 1 year of experience through internships or field related work experience.
+Experience in working on an Open Source project a plus but not required.
+Good English language skills
+Appreciate the value of diversity (in all its forms) brings to our team and companyJob Description
+ToolBox@IBM is part of the IBM CIO organization that is helping to transform the way IBM works by making it possible for IBMers to use the best tools in the world which support modern best practices. We are dedicated to driving positive culture change throughout the company by providing tools and tool automations that make it easier for IBMers to do higher value work. Thanks to the size and scale of IBM, we are responsible for managing the largest instance in the world of each of our tools. We apply data engineering and data science techniques leverage the data inside these tools to tell us how IBM is transforming. We focus on providing a world-class user experience for IBMers and we treat security as a fundamental aspect of this user experience. We use several modern security services and tools to enable our secure engineering practices. And we use the latest techniques, practices and technology in the industry in order to successfully host large scale mission critical infrastructure. We strive to keep learning and improving, and we work to share the knowledge we have learned
+throughout IBM.
+
+We cultivate an open, healthy, diverse, and engaging work environment where team members are continuously gaining new skills which align with individual interests.
+
+We're hiring a data engineer/scientist to expand our team of analytics experts
+
+Responsibilities
+Work with stakeholders across organization to identify opportunities on driving growth of product/service/solution
+Provide data architecture and perform analytics tasks to optimize product/service operations
+Discover metrics and measurements from variety datasets by developing data models and algorithms
+Build and scale data processing and analytics platform to meet growing needs of data architecture
+Use machine learning techniques to improve decision making process of leadership
+
+Required Technical and Professional Expertise
+
+Excellent time management and interpersonal skills
+Familiarity with Agile methodologies and principles, experience in an Agile team
+Understanding of DevOps practices (Continuous Integration/Delivery/Monitoring/etc)
+Excellent communication skills, both verbal and written
+Ability to work with cross functional teams
+Fearlessness in the face of the unknown
+
+Preferred Tech and Prof Experience
+
+Data Engineering
+Python programming skills. Experience with Pandas is preferred
+Experience with big data tools: Apache Hive/Spark
+Data processing and analytics skills with structured/unstructured large datasets (TBs)
+Experience with data stores like SQL/NoSQL databases, data warehouse or object storage service
+Working knowledge of and experience with cloud services. AWS/GoogleCloud/Azure/IBM-cloud, etc.
+Data Science
+Strong problem solving, discovery skills with advanced degree (Master or above) on Computer
+Science, Statistics or related Engineering fields.
+Data processing computer language experience like Python/R/SQL etc.
+Knowledge of advanced statistical techniques and concepts.
+Familiarity with machine learning techniques
+Real-world problem solving experience.
+Experience on data architecture. E.g., datastore, analytics platform, data processing pipeline
+
+EO Statement
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.FloSports is looking for an experienced Data Engineer to join our Data Warehouse Development team in the fast-paced and exciting world of sports media. FloSports, headquartered in Austin, Texas, operates a fast-growing network of dedicated sports sites.
+ABOUT THE JOB
+This role is located near downtown/east Austin. As a data engineer at FloSports, you’ll be helping us leverage our rich and interesting dataset to make smarter decisions. Your goal will be to develop and own the ETL pipelines, interfacing with various databases and APIs. Your data solutions will support the insights and analysis critical for all our decision making needs whether it’s related to product design, driving subscriber conversion and retention, or helping users discover more great content. In this role, you will learn a lot about user behavior and FloSports as a business and have an impact on business and production decisions. If you love making an impact through data, come join our team!
+WHAT YOU’LL DO
+Design, build, and launch ETL processes to integrate data sources from internal/external providers into our data warehouse
+Collaborate with subject matter experts across a wide variety of business units to design, implement, and deliver comprehensive analytic solutions.
+Explore potential data sets that can enrich our warehouse and enable meaningful insights
+Develop our framework to pursue data quality and outlier detection
+Optimize ETL workflows to mitigate costs, improve reliability, and drive performance
+WHO YOU ARE
+2-5 years of data engineering experience
+Experience with AWS (Redshift, Athena, Spectrum, S3, EC2, etc.)
+History of building, maintaining, and automating reliable ETL pipelines
+A solid foundation in SQL to create/tune queries and scale out our BI architecture
+Experience developing with object-oriented programming using Python
+Be comfortable in experimenting and demoing new technologies
+Bachelor’s / Master’s Degree in Computer Science, Information Systems or related field
+BONUS
+Familiarity with Spark, Lambda, or Firehose
+Worked with data sources/analytics such as Segment, Payment Data (e.g. Stripe), Event Tracking (Kissmetrics, Mixpanel, etc).
+Experience with workflow management tools (Airflow, Glue, etc.)
+
+ABOUT FLOSPORTS
+FloSports, a global leader in live digital sports and original coverage, partners with event rights holders and governing bodies to unlock a world of sports coverage that true fans have been waiting for. Through live streaming of premier events, original video programming, and weekly studio shows, FloSports is growing the sports, the athletes, and the fans. Current verticals under the FloSports header are Wrestling, Grappling, Rugby, Cycling, MMA, Elite Fitness, Softball, Gymnastics, Marching, Basketball, Volleyball, Rodeo, Cheerleading, Dance and Track.Company Profile
+
+Morgan Stanley is
+a leading global financial services firm providing a wide range of investment
+banking, securities, investment management and wealth management services. The
+Firm's employees serve clients worldwide including corporations, governments and
+individuals from more than 1,200 offices in 43 countries.
+
+As a market
+leader, the talent and passion of our people is critical to our success.
+Together, we share a common set of values rooted in integrity, excellence and
+strong team ethic. Morgan Stanley can provide a superior foundation for
+building a professional career - a place for people to learn, to achieve and
+grow. A philosophy that balances personal lifestyles, perspectives and needs is
+an important part of our culture.
+
+Technology
+
+Technology works
+as a strategic partner with Morgan Stanley business units and the world's
+leading technology companies to redefine how we do business in ever more
+global, complex, and dynamic financial markets. Morgan Stanley's sizeable
+investment in technology results in quantitative trading systems, cutting-edge
+modelling and simulation software, comprehensive risk and security systems, and
+robust client-relationship capabilities, plus the worldwide infrastructure that
+forms the backbone of these systems and tools. Our insights, our applications
+and infrastructure give a competitive edge to clients' businesses—and to our
+own.
+
+Position Description:
+The Securitized Products Technology Group (SPG) is
+responsible for all aspects of the company’s core applications that help
+traders manage positions and trades, calculate P&L;, assess bond valuations,
+and calculate risk. This group is responsible a set of credit analysis tools
+that help identify trading opportunities, and we are building a team of NLP/ML
+professionals to build a platform of tools to enable trading/sales in revenue
+generation.
+
+The successful candidate will perform groundbreaking work in
+Natural Language Processing and Machine Learning methods, and will tailor them
+to front-office applications involving credit analysis, trading strategies,
+pricing models, and more. Projects may involve applying NER and sentiment
+analysis techniques to analyze corporate financial documents and news articles;
+or using state-of-the-art parsing methods to extract bond covenant information,
+and then using a training model to derive bond behavior under stressed
+scenarios.
+
+The ideal candidate for this would possess a combination of
+research and professional experience in the fields related to Natural Language
+Processing and Machine Learning. The person should be on the forefront of
+NLP/ML technologies, and be able to translate theory to projects that are
+deliverable on the commercial scale.
+
+Skills Required:
+
+MS at a minimum, PhD preferred in Natural Language Processing, Machine Learning,
+
+or related field
+
+5+ years, a combination of professional and/or research
+
+experience
+
+Apply different NLP techniques to areas such as sentiment
+
+analysis, classification, data/knowledge extraction, disambiguation
+
+Expertise in NLP methods such as LSA, LDA, Semantic
+
+Hashing, Word2Vec, LSTM, BiDAF
+
+ML experience with different supervised and unsupervised
+
+learning algorithms
+
+Expertise in one or more programming languages: Java 8,
+
+Scala, Python, R, willing to consider others
+
+Experience working with large, complex and diverse data
+
+sets from a variety of sources
+
+StanfordCoreNLP/GATE experience a plus
+Experience with Spark, or similar frameworks a plus
+Publications on ML/NLP a big plus
+
+We love coming up with huge ideas and figuring out ways to bring them to life. Our team spans RF engineering, hardware architecture, firmware, UX, UI, software, industrial design, marketing, branding, and communications. And one thing we all share is an intense desire to make something beautiful. Something that makes a real dent.
+About Starry:
+Starry is reinventing how people connect to and experience the internet. Our mission focuses on two things — first, on being an internet service provider committed to simplicity, transparency, and delight, and second, on providing high-speed internet to underserved communities both locally, nationally and globally. We approach our mission with a cutting-edge wireless technology, user experience designed to delight, and a diverse and intellectually curious company culture.
+Why you'll love working here:
+
+Starry is a fast-growing company, with incredible ambition to build new markets, and new products and services. At Starry, autonomy and creativity are rewarded; you’ll have control of your own time and the opportunity to develop your ideas and initiatives. The team is tightly-knit, highly collaborative, and very driven.
+What you’ll be doing:
+Own data infrastructure and security as we continue to leverage and integrate new data sources across the business
+Iterate on our data warehousing strategy as the volume of our data increases, optimizing for data availability and efficient use of resources
+Architect and engineer tools to monitor the flow and quality of data moving through our data pipeline
+Continue to build out our ETL system to move data across a variety of different data sources and endpoints
+Work with analytics team to adjust their data model as needed to improve the performance of reports and common queries
+Be instrumental in the design and build out of our big data strategy as the volume of our data increases
+
+
+Qualifications:
+BS or MS in Computer Science
+Strong experience with both AWS Redshift and NoSQL databases such as MongoDB
+Experienced in building systems with the complexities of integrating with third parties
+Expert in Python and is ready to pick up other languages as the situation requires
+Experienced with big data processing tools
+Proficiency in Node.js a plus
+We work hard, so we take care of our team members and try to enjoy ourselves along the way. We have:
+Premium medical, dental, and vision coverage with no employee contribution required
+12 weeks of paid parental leave
+Catered lunches every Monday & cocktails on Friday during our weekly company meeting
+Wine, beer, spirits, and snacks always on hand
+Groups for skiing, biking, running, climbing, stretching, shuffleboard, darts, and more
+Happy Interneting!
+Disclaimer: This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee.
+Starry, Inc. is an equal employment opportunity employer and does not discriminate against any applicant because of race, creed, color, age, national origin, ancestry, religion, gender, sexual orientation, disability, genetic information, veteran status, military status, application for military service or any other class protected by state or federal law.
+Qualified Applicants must be legally authorized for employment in the United States. Qualified Applicants will not require employer sponsored work authorization now or in the future for employment in the United States.What part will you play?
+The Turbine studio is looking for an ambitious, creative and data savvy Data Engineer to join their Product Management team working on Game of Thrones: Conquest.
+
+The Data Engineer will work closely with the Data Analysts and the Product Managers to design, build, and maintain scalable data schemas from the rich data set from Game of Thrones: Conquest. Data is hosted on a fast cluster with tens of billions of rows of data, configured to deliver a smooth performance to our analysts.
+
+Reduce big data to simple accessible schemas which will enable stockholders and analysts to move quickly.
+Manage a mixed/conflicting workload environment to deliver near-real time streaming data, ELT processing, and Looker and Tableau-submitted queries.
+Provide recommendations on the way that schemas should be designed to optimize analysis for speed and accuracy.
+Maximize performance & reduce costs by developing a robust data architecture as well as efficient SQL and ETL processes.
+What do we require from you?
+At least 2 years of experience processing data with Python and Pandas.
+Advanced SQL skills.
+Proven ability to optimize queries for different warehousing strategies.
+Proven ability to reduce big data into simple accessible schemas Experience writing ETLs that interface with AWS Redshift.
+Experience working with DAG management solutions for developing data ETLs.
+Experience optimizing ETL processes alongside database operations.
+Experience with pagerDuty, Datadog / Librato (or similar monitoring tool).
+Nice to Have:
+Experience with Apache Airflow.
+Experience with Looker.
+Scala experience.Job Description
+
+We are looking for candidates between entry-level with project work to mid-level data engineers. As a data engineer, you will get the opportunity to work on large and extremely diverse data sets. You will work closely with product managers, software engineers and data scientists to aid in the development of our data pipeline. You will primarily be responsible for designing and implementing custom monitoring and alert systems to improve the quality of our data.
+
+Responsibilities:
+Design and implement monitoring and alert systems
+Investigate anomalies in data pipeline
+Analyze the impact of system issues on data and report on findings to stakeholders
+Help evaluate data from new sources
+
+Skills & Requirements:
+1-3 years of professional experience or portfolio projects using Python and Pandas
+1-3 years of professional experience or portfolio projects using SQL
+Experience with scrum or agile development, distributed version control systems, test-driven development, automated deployment and provisioning
+
+Nice-to-Haves:
+Experience working on monitors and alert systems
+Experience producing data visualizations
+AWS environment familiarity
+Knowledge of statistical methodologiesVoloridge Investment Management is an award winning, quantitative investment management firm based in Jupiter, FL, managing over $1B in assets. We are seeking an enthusiastic, self-motivated Data Engineer to serve internal research and operations clients.
+
+Top Reasons why you want to work for Voloridge Investment Management:
+
+401k retirement plan, $1 for $1 match up to 4% of compensation
+
+Regular in-office massages, weekly lunches, stocked kitchens with snacks, fruit and drinks
+
+Work off the Intracoastal and 3 minutes from the beach
+
+Work in an office chosen by South Florida Business Journal as one of the top 10 Coolest Offices in South Florida in May 2016
+
+Profit Sharing Bonus
+
+Summary of Job Functions
+
+Understand the data-related needs of all internal parties, especially our Research team
+
+Build datasets, continually strive to improve them, including increased automation, usability, transparency, documentation, and QA
+
+Develop and maintain prototype ETL processes for new datasets, including initial data modeling, with an emphasis on rapid deployment balanced with stability and consistency
+
+Obtain and document requirements for new datasets
+
+Study new topics and gain domain knowledge related to data ingestion, storage and delivery
+
+Have a consultant mindset, always striving to understand and fulfill the needs of our researchers and traders
+
+Communicate and collaborate effectively with all internal associates, including research, management, development, and other operations personnel
+
+Investigate and troubleshoot data anomalies
+
+Represent the Strategy Data Group in internal forums for planning and collaboration
+
+Assist with technical skill development and mentorship of junior personnel
+
+Perform other duties and responsibilities as assigned
+
+Minimum Requirements
+
+Bachelor’s degree
+
+7 + years of data engineering work experience in a field such as accounting, finance, business intelligence, or hard sciences
+
+Expertise using Transact-SQL, and familiarity with other data technologies and tools
+
+Experience with both transactional databases and data warehouses
+
+Excellent oral and written communication skills
+
+Must be able to demonstrate strong problem solving skills, and flexibility to consider new ideas and approaches
+
+The ability to work daily, onsite in our Jupiter, FL office
+
+Preferred Skills and Previous Experience
+
+Experience using Visual Studio and SQL Server Management Studio to create/manage SSIS/ ETL packages, esp. with high volume data
+
+Experience in performance tuning, server monitoring, and query optimization
+
+Strong focus on data quality and attention to detail
+
+Able to independently bring projects to successful completion
+
+Experience working with trading / financial / investment / accounting data
+
+Experience with master data management and data governance
+
+Experience with data analysis tools such as Tableau, Excel
+
+Programming experience, such as Python, Java, C#, VB.net, C, C++
+
+Experience with leadership of small teams and/or projects
+
+Demonstrated ability to work efficiently in a demanding, team-oriented and fast-paced environment
+
+Compensation and Benefits
+
+Highly competitive base salary
+
+Profit sharing bonus
+
+Health, dental, vision, life, and disability insurance
+
+401K
+
+Credit and Identity Monitoring Service
+
+Additional Information
+
+Voloridge Investment Management is an SEC registered investment advisor. A private investment company founded in 2009, our mission is to deliver superior risk-adjusted returns for qualified investors, using advanced proprietary modeling technology, conservative investment tactics and sophisticated risk management. Our market neutral equities strategy takes both long and short positions in the most actively traded equities, and is designed to capture alpha while limiting exposure to directional markets risks. Our futures strategy takes both long and short positions in the most actively traded global futures, and is also built to maximize alpha captured across all futures markets traded while capping exposure to any particular sector at a given time.
+
+Voloridge Investment Management is an Equal Opportunity Employer. All qualified applicants are encouraged to apply and will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other legally protected characteristic or status.Overview
+The Orchard is an independent music and film distribution company distributing music from artists such as AWOLNATION, Kelsea Ballerini, and Skepta as well as films like Cannes Grand Prix Winner BPM (Beats Per Minute), and Sundance Jury Prize winner Dina, and The Hero. With our industry-leading technology and operations, we partner with companies of all sizes to make their music, films and videos available across hundreds of digital outlets and physical retailers around the world. At The Orchard, the focus is to provide a comfortable, social and engaging environment to encourage productivity and creativity.
+
+The Orchard is looking for a Data Engineer to join our NYC (East Village) development team.
+Responsibilities
+Create and maintain systems to load and transform very large data sets from digital media retailers (iTunes, Spotify, YouTube, etc) as well as social media sources.
+Work with a cross-functional team to create data-driven insights and reports for business stakeholders.
+Work with the Software Engineering team to create customer-facing analytics tools and visualizations.
+Deliver hundreds of million of rows of analytics to end users daily.
+Take advantage of our continuous integration and deployment
+Participate in technical design and peer review for new projects
+Qualifications
+Experience with AWS ecosystem. Some preferred services are Redshift, RDS, S3, SWF.
+Proven experience with ETL frameworks (Airflow, Luigi, or our own open sourced garcon).
+Expertise with at least one distributed data store (Redshift, Cassandra, Snowflake).
+Familiarity with noSQL technologies (mongoDB, DynamoDB).
+Proficient in scripting language of choice. Python is strongly preferred, PHP a plus.
+Highly proficient in writing SQL for a relational datastore (MySQL, PostgreSQL).
+Knowledge of technologies that can deal with Big Data is a Big Plus (Kafka, Spark, Hive, Hadoop/MapReduce).
+Ability to write automated tests (unit, functional, and integration) to ensure code works as expected.
+Desire to collaborate with other engineers through peer code reviews.
+Deep understanding of data structures and schema design.
+Detail-oriented, proactive problem solving skills.
+
+The Orchard is a pioneering music, film and video distribution company operating in more than 30 global markets. With a holistic approach to sales and marketing combined with industry-leading technology and operations, The Orchard amplifies reach and revenue across hundreds of digital, physical and mobile outlets around the world. The Orchard streamlines content owners' business complexity with an intuitive client dashboard, comprehensive rights management and tailored client support. Founded in 1997, The Orchard empowers businesses and creators in the entertainment industry. For further information, please visit www.theorchard.com.
+
+The Orchard is committed to providing equal employment opportunity for all persons regardless of age, disability, national origin, race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, veteran or military status, genetic information or any other status protected by applicable federal, state, or local law.Contract Sr. Software Engineer, Data & ETL - San Francisco, CAQuizlet’s mission is to help students (and their teachers) practice and master whatever they are learning. Quizlet is the world’s largest teacher online community. Every month over 30 million active learners from 130 countries practice and master more than 200 million study sets on every conceivable topic and subject. We are developing new learning experiences by modeling how students learn and by drawing upon knowledge acquisition, retention, and tracing pedagogy in cognitive science. We are always seeking to help students master any subject by optimizing study efficiency and engagement.We're looking for a senior data and ETL developer to help us empower our expanding analyst team. We take advantage of a modern data warehouse environment (BigQuery) and open-source BI tools like Airflow, Periscope and DataStudio. This is a 3-6 month contract with potential for full-time conversion at our San Francisco, CA office (convenient to Caltrain, BART and Muni).The RoleMeet with analysts, engineers, product managers and other business users to gather requirementsDesign, build, and maintain data pipelines that power analytics and research at QuizletBuild and maintain Python-based ETL code using BigQuery and running in AirflowAssist with production monitoring and debugging of our data pipelinesTimely troubleshooting of problems with nightly ETL executionQualifications and Experience4+ years experience as a BI/ETL or data engineerHighly proficient with SQLHighly proficient in Python programmingExperience with a major data warehouse and the desire and ability to learn BigQuery quicklyExperience dealing with DevOps concerns for data pipelinesPrefer candidates with experience in user-engagement and ecommerce domainsQuizlet’s Team CultureWe are here to make education better and more accessible. We strive to improve the lives of students and teachers at every stage and in every setting. We have a bias for action, take initiative, and hustle to deliver results. We make informed decisions whenever possible but are unafraid to take calculated risks on great ideas to promote learning. We embrace challenges and see effort as the path to mastery. We’re constantly seeking opportunities to learn and we embrace curiosity.Quizlet’s success as an online learning community depends on a strong commitment to diversity, equity and inclusion. We are actively building a team that is representative of the diverse communities we serve, and an open, inclusive work environment where all employees can thrive. As an equal opportunity employer and a tech company committed to societal change, we welcome applicants from all backgrounds. Women, people of color, members of the LGBTQ+ community, individuals with disabilities, and veterans are strongly encouraged to apply. Come join us!Job Type: ContractSalary: $90.00 to $120.00 /hourExperience:ETL: 3 yearsPython: 3 yearsSQL: 4 yearsBigQuery: 1 yearEducation:Bachelor'sLocation:San Francisco, CA 94107PropertyRadar seeks a full-time developer with strong skills in curating data and developing data workflows. In this new position in our Data Operations team, you'll collaborate with a team of engineers to create unique, powerful, and useful tools that help realtors, investors, and government customers quickly make informed decisions. We're looking for a solid professional and proactive problem solver.PropertyRadar is an industry leader with an entrepreneurial start-up culture. We are profitable and growing within the expanding real estate technology market. PropertyRadar's headquarters are based in Truckee, CA near Lake Tahoe.PRIMARY RESPONSIBILITIESWork with a variety of tools and programming languages to automate data processes.Build solid mechanisms for handling incoming and outgoing data flow.Develop and monitor import routines and be prepared to handle unexpected failures manually.QUALIFICATIONS2+ years experience as data-oriented developer or database administrator with excellent skill in data and information modeling.Capable of implementing and maintaining data import scripts and applications, with the ability to leverage off-the-shelf ETL systems or write custom code when necessary.Ability to write code that interfaces with remote APIs and information services (e.g. REST, JSON, RDF, XML).Must be able to work with un-, semi-, or highly-structured data. Proficiency with SQL and Regular Expressions is critical. Experience with rule-based systems, custom parsers, and NLP tools is highly desirable.Skilled in one or more scripting/programming languages, minimally including Bash, Python and/or PHP in a Linux environment.Experience with MySQL, PostgreSQL, Oracle, column-store or non-relational databases.Comfortable working with large datasets consisting of hundreds of millions of records.Familiarity with open source software and culture.BA/BS in Information Science, Computer Science/Engineering or related field, or equivalent experience.We are looking for people with excellent communication skills who like to identify and prioritize problems and creatively solve them, and thrive within a collaborative, hands-on, do-it-yourself, start-up environment with minimal supervision.COMPENSATION & BENEFITSWe offer a flexible and fun work environment, competitive medical, dental, vision benefits, paid time off, and educational reimbursement. Salary is market-sensitive and commensurate to experience.HOW TO APPLYSend cover letter, resume, LinkedIn profile, and project links (if available) to resumes "at" propertyradar.com.Only full-time applicants please; no recruiters, contractors, or those seeking part-time work.Job Type: Full-timeEducation:Bachelor'sHi. We’re TiVo. At our core, we’re innovators who continuously seek to fuel the ultimate entertainment experience. We touch the lives of binge-watching, music-loving, entertainment fanatics every day by inventing and delivering beautiful user experiences and enable the world’s leading media and entertainment providers to nurture more meaningful relationships with their audiences.
+We work hard, celebrate success and challenge everyone in our organization to make an impact. If you are as passionate as we are about the intersection of technology and entertainment, join us today.
+The Senior Data Engineer will analyze, design, program, debug and modify software enhancements and/or new products. Lead development of both transactional and data warehouse designs with our team of Big Data engineers and Data Scientists. Design, implement and tune tables, queries, stored procedures, and indexes. Work in an agile Scrum driven environment to deliver new and innovative products for Analytics customers, and keep up-to-date with relevant technology in order to maintain and improve functionality for authored applications.
+
+Primary Job Responsibilities:
+Design and develop new data/ETL pipelines
+Understand, provide support to existing data/ETL pipelines and recommend improvements
+Analyze, debug and fix issues with data pipelines
+Collaborate with DevOps and Production Support teams
+Identify and Implement automation opportunities
+Document processes, issues, and resolutions as needed
+Participate in daily scrums to provide support and prepare for system upgrades
+Qualifications:
+5+ year experience implementing complex ETL pipelines
+BS/MS in CS or Engineering
+Write complex SQLs and ETL processes
+Knowledge of Big Data stack of technologies, including Hadoop, HDFS, Hive, Oozie and Hbase.
+Working knowledge with programming in Java, Scala/Spark and Python.
+Knowledge of AWS environment including at least one of the following: on-demand computing, S3, and/or equivalent cloud computing approach.
+Working with large data volumes, including processing, transforming and transporting large-scale data
+Excellent analytical and troubleshooting skills
+Nice to Haves:
+Experience working in an Agile/Scrum environment
+Build and release experience (CI/CD)
+Exposure to Scheduling, automation & orchestration software (Control-M, Cloud Formation, Puppet)
+
+Benefits & Perks
+Our employees and their families are important to us and our comprehensive pay, stocks and benefits programs reflect that. TiVo supports personal well-being, builds financial security, and enables employees to share in the success of TiVo. Rewards include:
+Competitive compensation (salary, equity, and bonuses) and comprehensive benefits designed to foster work-life balance, care for your health, protect your finances, and help you save and invest for the future.
+Generous paid time away from work including vacation, holidays, sick time, and 2 days of paid time off each year to serve and learn through TiVo Community Outreach.
+Great perks, which vary by location and can include: employee discounts, transportation reimbursements, subsidized cafes and fitness facilities, conveniences such as dry cleaning and car washes, and recycling programs.
+See more at https://www.tivo.com/jobs/culture/benefits-at-tivo
+
+TiVo Corporation is an Equal Employment Opportunity EmployerOverview
+**This position is based in Austin, TX.**
+
+Who you are: Do you like to build, tinker, tune, and optimize anything you can get your hands on? Are you a true believer in the power of using data to drive decisions? Are you an engineering-minded individual who’s passionate about constructing big, scalable systems and elegant solutions to gnarly problems? Spiceworks just might have your dream job! We’re looking for a data minded sr-level software engineer whose perfectly coded plumbing can keep our data systems running without a hitch. Sound like you? Time to apply now and join the team!
+
+Who we are: For over 10 years, Spiceworks has been helping the world’s businesses find, adopt, and manage the latest technologies. We’ve also been helping IT brands build, market, and sell better products and services. Millions of IT buyers and hundreds of brands later, we’ve built the platform they use to get their jobs done and make them better at what they do, every day.
+
+With our helpful tools, technical content, a global community of experts, and entertaining ways to blow off steam, we’ve got IT covered. And because we understand IT buyers and the businesses they represent, established brands like Microsoft, Dell, and CDW, to name a few, and the latest industry innovators including KnowBe4 and Scale Computing use our insights and technology platform to run smarter, more personalized campaigns.
+
+In short, we’re making IT easy – and dare we say FUN – for everyone. Best part: we’re just getting started!
+Responsibilities
+Your day-to-day (as a Senior Software Engineer, you’ll):
+
+Have a role in the design and development of our data platform — doing heavy lifting in the infrastructure and designing data pipelines
+Figure out how to make every system within our data pipeline faster and more scalable
+Zero in on areas where data can offer key insights to the business and help our users
+Work as part of a cross-functional self-organizing agile team to solve problems related to data-processing/manipulation
+Assist other departments in solving data-related dilemmas
+Be an advocate within the company for scalable architecture
+Qualifications
+What does it take to do this job?
+5+ years experience as a data, back-end, infrastructure, performance, or API engineer
+3 years experience building large-scale, distributed, high-volume systems
+Experience with one (or more) of the following languages: Scala, Python, Go, Java
+Experience with big data processing and streaming (Hadoop, Scalding, Hive, Storm, etc.)
+Experience with AWS cloud solutions
+Experience working with Agile teams (bonus points for working with Scrum framework)
+Bonus points if you’ve worked with Kafka, RocksDB, Akka, Cassandra, or HBase
+Passion for performance tuning
+Good communication skills: Being able to boil down and discuss complex ideas with other engineers required; confidence communicating with marketing and sales teams a plusPropertyRadar seeks a full-time developer with strong skills in curating data and developing data workflows. In this new position in our Data Operations team, you'll collaborate with a team of engineers to create unique, powerful, and useful tools that help realtors, investors, and government customers quickly make informed decisions. We're looking for a solid professional and proactive problem solver.PropertyRadar is an industry leader with an entrepreneurial start-up culture. We are profitable and growing within the expanding real estate technology market. PropertyRadar's headquarters are based in Truckee, CA near Lake Tahoe.PRIMARY RESPONSIBILITIESWork with a variety of tools and programming languages to automate data processes.Build solid mechanisms for handling incoming and outgoing data flow.Develop and monitor import routines and be prepared to handle unexpected failures manually.QUALIFICATIONS2+ years experience as data-oriented developer or database administrator with excellent skill in data and information modeling.Capable of implementing and maintaining data import scripts and applications, with the ability to leverage off-the-shelf ETL systems or write custom code when necessary.Ability to write code that interfaces with remote APIs and information services (e.g. REST, JSON, RDF, XML).Must be able to work with un-, semi-, or highly-structured data. Proficiency with SQL and Regular Expressions is critical. Experience with rule-based systems, custom parsers, and NLP tools is highly desirable.Skilled in one or more scripting/programming languages, minimally including Bash, Python and/or PHP in a Linux environment.Experience with MySQL, PostgreSQL, Oracle, column-store or non-relational databases.Comfortable working with large datasets consisting of hundreds of millions of records.Familiarity with open source software and culture.BA/BS in Information Science, Computer Science/Engineering or related field, or equivalent experience.We are looking for people with excellent communication skills who like to identify and prioritize problems and creatively solve them, and thrive within a collaborative, hands-on, do-it-yourself, start-up environment with minimal supervision.COMPENSATION & BENEFITSWe offer a flexible and fun work environment, competitive medical, dental, vision benefits, paid time off, and educational reimbursement. Salary is market-sensitive and commensurate to experience.HOW TO APPLYSend cover letter, resume, LinkedIn profile, and project links (if available) to resumes "at" propertyradar.com.Only full-time applicants please; no recruiters, contractors, or those seeking part-time work.Job Type: Full-timeEducation:Bachelor'sWhat’s the Job?You’ll be joining our data science team as a Data Product Engineer. You’ll be responsible for testing, monitoring, and improving the data collection programs we have in production, as well as developing new software to capture data from the web and extract insights from third-party sources. You’ll be writing Python scripts deployed on AWS, and communicating with data scientists and infrastructure engineers.Required: 5+ Years professional experience with PythonPython data structures and best practicesAWS and Linux (Ubuntu/CentOS) , Bash scriptingProfessional experience with a SQL-based database, such as MySQLWrites organized code with appropriate exception handling and loggingUnderstanding of HTTP network requests and responsesUnderstanding of HTML and JSON formatsAbility to write technical documentation and comment codeAbility to write test suites and set up automation environmentsPlusses: Experience with scrapy, beautiful soup, requests, seleniumAmazon Redshift/ HadoopPrior experience as a front-end, back-end, or full-stack web developerJavascript / NodeJSPython Django/FlaskJob Type: Full-timeExperience:AWS: 2 yearsweb scraping: 1 yearBash: 2 yearsPython: 3 yearsRequired work authorization:United StatesShipt is improving lives by giving people back more of their time, the most valuable resource. Be a part of building an amazing grocery delivery experience. Our culture is high energy, entrepreneurial, and autonomous.
+
+Shipt has a wide variety of data partners and as our data volumes
+
+increase dramatically in a national rollout, we’re looking to grow the Data Engineering team to help expand and develop our large-scale data processing platform, pipelines, and tools.
+
+Data Engineering at Shipt primarily focuses on retailer catalog and general product data for e-commerce purposes.
+
+The team focuses on developing pipeline frameworks; specific processes to ingest, clean, and normalize a variety of data sources; and tools to improve data quality and fidelity. As catalog data is fundamental to the grocery delivery experience, our team plays a large part in the Shipt marketplace on a daily basis and helps facilitate the company’s growth plans.
+
+Responsibilities:
+
+Develop and maintain pipelines
+
+responsible for ingesting large amounts of data from various sources
+
+
+Develop and scale our data processing platform and services so that we can quickly and reliably process large amounts of data
+Help evolve our data model for new retailers and new retail verticals
+Work with other teams in the organization (e.g., Engineering, Catalog) to build tools and solutions that support and help manage data within the Shipt ecosystem
+Collaborate with other teams across the organization (e.g., Partner Success, Data Science) to enable the better use and understanding of data
+Keep the big picture in mind so that our architectural patterns can better consume and validate source data
+Build and experiment with different tools and tech, and share your learnings with the broader organization
+
+Qualifications:
+
+2+ years of data engineering experience
+Proficiency in Python is required (this is our primary language)
+Proficiency in SQL is required (we use PostgreSQL and Redshift)
+A keen attention to detail
+Experience with queues and/or streams (we primarily use AWS SNS + SQS)
+Experience with key-value stores (we primarily use Redis and DynamoDB)
+Experience with a large-scale framework (e.g., Spark) is a plus
+Experience with any/all of Go, Scala, Java, or Ruby is a major plus
+A Bachelor’s Degree in a technical field or equivalent work experience
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.About Hopper
+
+Hopper is the smart way to book travel on your phone. Combining massive amounts of data and advanced machine learning algorithms, Hopper predicts and analyzes airfare and accommodation to save users money and enable them to travel more often.
+
+Since its launch in 2015, Hopper has become one of the fastest growing travel apps ever with over 25 million installs to date. It is now the most downloaded flights booking app in North America and travelers have booked hundreds of millions of dollars in flights and hotels around the world using Hopper.
+
+The app has received accolades such as Fast Company’s Most Innovative Company in Travel 2018, the Google Play Award for Standout Startup of 2016, and Apple’s App Store Best of 2015.
+
+Who we need
+
+You care deeply about formalism & correctness; you have strong software and data modeling skills. Data is at the core of what we do at Hopper, both in providing data-driven travel advice to our users, and in analyzing our user behaviour to improve the product experience and enable us to best manage our business.
+
+Our data warehouse team works closely with our product engineers, data scientists, and analysts to understand and improve user experience, grow our business, and optimize our systems. You’ll work with a highly skilled and motivated team and your efforts and expertise will have a direct impact on framing and solving some of the most challenging problems in mobile commerce at a scale and complexity that few organizations can match.
+
+As a Data Engineer, you will:
+
+Design, implement, enhance and scale the data processing pipeline software that feeds our data warehouse.
+Design high-performance database schemas and optimize SQL queries.
+Establish and maintain high data quality standards in our core data pipelines, datasets and databases.
+Interface with large, distributed no-SQL databases
+Investigate data problems and identify patterns
+Work closely with business stakeholders to support Hopper’s analytics community in data-driven decision making.
+
+A perfect candidate has:
+
+University degree in Computer Science, Mathematics or Statistics
+Experience with designing and building large scale data pipelines in distributed environments with technologies such as Hadoop, Cassandra, Kafka, Spark, HBase, etc.
+Demonstrable experience with SQL, HQL, CQL, etc.
+Backend development experience with Scala, Java, Python, unix shell scripting
+3+ years relevant experience in the field
+Excellent written and spoken communication skills
+
+Not required, but great if you have:
+
+Working knowledge of basic analytics and machine learning concepts
+Experience with BI administration and report authoring, e.g. Tableau, BIRT, Qlik etc
+Masters or PhD degree
+
+Benefits
+
+
+Well-funded and proven startup with larger ambitions, competitive salary and stock options
+Dynamic and entrepreneurial team where pushing limits is everyday business
+Access to comprehensive medical, dental, vision, disability and life insurance, all on us
+In Cambridge, work in a historic factory building near Kendall Square; in Montreal, work in an artist’s loft in the Mile End
+Easy commute with a paid-for public transportation or paid parking
+IATA Travel Agent Card for discounts in the travel industry
+Fully stocked kitchen with: coffee/tea, beer, bagels and healthy snacks
+Team lunches, off-site activities and much more!
+
+Achievements
+
+
+Google’s “Most Beautiful Apps” of 2016
+Google Play Award 2016 - Standout Startup
+Webby Award 2016 + 2018 - Mobile Travel + People’s Choice
+Fast Company’s Innovation by Design Award 2016 - Nominee
+Apple App Store Best of 2015 - #7 Best App of the Year
+
+We, at Flywire, are looking for a smart, analytical thinker who’s excited to empower data-driven decision making at an exciting and fast-growing organization! As our Data Engineer, you will work within the Data Analytics team to ensure that our organization has access to reliable, accurate, and timely data to be used in various reporting, business intelligence, and analytical solutions. Great data aptitude is a must for this role, but we’re also looking for someone that’s willing to work across Flywire teams to understand real business problems and design solutions that will ultimately provide insights into the performance of the company, improve process efficiencies, and contribute to our company’s ability to provide a world-class cross-border payment solution
+
+Key responsibilities:
+
+Own the maintenance and ongoing development of Flywire’s analytical data infrastructure
+Develop production-grade data pipelines and ETL processes to support analytics projects, business intelligence reporting, and machine-learning solutions
+Continuously identify and implement data process improvements (e.g., optimize data delivery, re-design for scalability, implement testing and alerting systems to assure data quality, etc.)
+Own maintenance of documentation and data dictionaries for various internal data sources
+
+Minimum Qualification Criteria:
+
+BS in Computer Science, Mathematics, or related field
+5+ years of experience of data engineering, database administration, or related work
+Experience with AWS/Amazon Redshift and/or Google Cloud Platform is required
+Experience in building data extraction and manipulation scripts in Python
+General understanding of the broader data landscape, trends, and emerging technologies
+Hunger and excitement for learning new tools and techniques
+Excellent problem-solving skills: You may not know the solution to all the problems you’ll face, but you have the ability to research available technologies/strategies and figure out a solution or a path forward
+Strong communication skills: You can make even the most complex data and technical problems easy to comprehend
+
+Preferred Criteria:
+
+Experience in Business Intelligence development (Tableau, Looker, etc.)
+Demonstrated ability of building streaming data applications
+Practical understanding of classification, regression, and other statistical methods
+Familiarity with Apache Spark
+Proficiency with Spanish
+
+Flywire is an equal opportunity employer.Requisition ID: 42745
+Sponsorship Available: No
+Relocation Assistance Available: Yes
+Goodyear. More Driven.
+
+About the Position
+
+This is an exciting opportunity for a dynamic individual to join our Innovation Technology department. You can look forward to becoming a desired addition to our rapidly maturing global Data Science and Analytics group, at the Goodyear Innovation Center in Akron, Ohio.
+
+Since its inception, Data Science and Analytics group’s project portfolio has continuously expanded to include projects in areas of business, tire manufacturing, and technology. The group’s members come from a broad range of backgrounds: Computer Science, Mechanical, Electrical, Chemical, and Industrial Engineering; Mathematics, Statistics, Cognitive Linguistics, Astrophysics, Entomology/Biology, and of course - Data Science.
+
+This diverse expertise comes together to develop innovative tools and methods for simulating, modeling and analyzing complex processes throughout our company. We’d like you to help us build the bridges between our complex and varied data; further develop the underlying data infrastructure; and help data scientists to utilize it.
+
+Responsibilities
+
+We think you’ll be excited about having opportunities to:
+Lead the effort to create and maintain data workflows across manufacturing, analytics, and corporate centers
+Help integrate our legacy data and new data pipelines into cloud computing environments across the organization, to support internal and external project development
+Work closely with other data scientists to scale up platforms for Big Data across diverse business and manufacturing applications
+Share and present your ideas and successes with IT professionals and business stakeholders throughout the company
+Have an impact by helping us drive “best data practices” within the global organization
+
+Education and Requirements
+M.Sc. in Computer Science or similar technical field
+3+ years of experience in Big Data infrastructure
+Experience working with at least one subject in each of the following technology groups:
+Big Data technology (e.g. HDInsight/EMR, Hive/Pig, HDFS/Spark, S3/blob, Kafka/Storm/Kinesis)
+Database design (e.g. SQL/NoSQL, knowledge of database normalization, graph database)
+Data flows tools (e.g. Python, R, Java/Scala, C++, git, CI/CD, CloudWatch, Apache Airflow, REST API)
+
+Demonstrated knowledge of:
+Data science tools (e.g. knowledge of machine learning algorithms, distributed computing, GPU computing, model serving)
+Preferred
+PhD in Computer Science or related field
+
+Skills and Abilities
+Good teamwork skills : ability to network across a global organization; ability to convince and lead; active listening skills; ability to prioritize and follow through; ability to communicate and agree on expectations; ability to work in a team environment and deliver results on time. We also value a good sense of humor.
+Strong communication skills : capable of conveying information concisely to diverse audiences; experience with communicating dynamics of complex systems in a concise and clear manner. Knowledge of foreign languages would be a plus.
+
+Goodyear is one of the world’s largest tire companies. It employs about 65,000 people and manufactures its products in 48 facilities in 22 countries around the world. Its two Innovation Centers in Akron, Ohio and Colmar-Berg, Luxembourg strive to develop state-of-the-art products and services that set the technology and performance standard for the industry. For more information about Goodyear and its products, go to www.goodyear.com/corporate .
+Goodyear is an Equal Employment Opportunity and Affirmative Action Employer. All qualified applicants will receive consideration for employment without regards to that individual’s race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, age, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.
+Click here for more information about Equal Employment Opportunity laws, and here for additional supplementary information.Overview:
+---------------
+
+Snagajob is working to transform the hourly job seeking experience. We have an unparalleled level of access to America’s hourly workforce -- and the employers who are desperately looking for their help to make their businesses grow. As a Data Engineer, your job is to drive the connections between these complex data entities and their underlying systems which power our marketplace.
+
+Data Engineers work to build and maintain systems that process amounts of generated platform data optimizing ingest pipelines and database systems that support our data platform. Data Engineers are the glue between our latent data and our machine learning systems which build rich intelligence to power our business.
+
+What We'll Expect:
+------------------
+
+
+Work on a high performance Big Data environment processing 100 million events per day
+Share ownership of an app portfolio with a highly collaborative development team that includes dedicated API and QA resources
+Explore new technologies and frameworks to drive our architecture and processes forward
+Use Agile development practices to focus on engineering craftsmanship, quality and best practices
+Teach and learn with the team (check out the Snagajob Engineering Blog ( http://engineering.snagajob.com/ ))
+
+What You'll Bring:
+------------------
+
+
+2+ years writing software (we currently use java, c# and python)
+2+ years working on Big Data platforms such as hadoop, spark, flink, beam or other similar systems.
+2+ years working with NoSQL databases such as MongoDB, Cassandra, Dynamo or other similar systems.
+2+ years working with relational databases such as MSSQL or Postgres.
+Experience with machine learning / data processing toolkits such as scikit-learn, pandas, juypter notebooks a plus.
+Willingness to collaborate, explore and share
+Desire to build inspiring data centric experiences that thrill our users
+Commitment to remaining curious, open and active in your pursuit of the best practices
+Degree in Computer Science or equivalent experience
+
+What You Can Expect from Snag:
+------------------------------
+
+Snag offers a highly competitive compensation and benefits package including medical, dental, vision, and life insurance, 401k plan, health and fitness incentives, 20 days of PTO to start and 2 days of paid community service time, and a casual fun work environment with an award winning culture. At Snag, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our team, our products, and our community. Snag is proud to be an equal opportunity workplace.
+
+About Snag:
+-----------
+
+Snag is the largest platform for hourly work with 90 million registered hourly workers and 450,000 employer locations nationwide. With Snag, employers staff up faster, hire smarter and keep shifts filled. Snag’s platform for hiring and managing teams allows people to land the right work while ensuring employers find the right workers when and where they need them. Snag’s flexible work platform, Snag Work, launched in 2017 and provides a network of workers the opportunity to select the shifts they want, when they want, from a variety of employers and locations, and helps employers optimize their shifts.
+
+With offices in Arlington, VA; Richmond, VA; and Charleston, SC, Snag has been named to Fortune Magazine's Great Place to Work® list for eight years in a row.Although not a household name, State Street is one of the world’s largest and most important financial services institutions, providing round-the-clock services to the global investment community. We touch $33 trillion in assets every day, and are the world’s third largest investment manager with over $2.8 trillion in assets under management. To do this we manage as much data as one of the internet giants on nearly as large a technical footprint.
+
+In January 2018, we launched one of the industry’s largest technical transformation projects, in effect building a new bank from the ground up. This project isn’t greenfield in the way most banks claim projects are; we’ve started with a blank sheet of paper both operationally and technically. We’re using the same technologies that Silicon Valley giants are using: aggressive use of multiple public clouds, building our own private cloud to achieve even better performance, pushing out microservices into what will be one of the largest Kubernetes installations in the world, leveraging immutable storage to process and store hundreds of terabytes of data a day, transforming our industry through application of distributed ledger technology and cognitive computing, aggressively participating in open source communities driving our systems.
+
+This intern will work side by side with innovators in the industry. You will be working closely with both experienced professionals and fresh, entry level talent. It is an opportunity to make your mark and be your true self. This is a chance to push your technical skills with people more comfortable in a technology firm than an investment bank, but solving real problems that affect anyone with any form of savings worldwide (not just trying to get people to click on ads).
+
+This Role
+
+During this internship, you will join the teams working day-to-day implementing the technology to support our global transformational effort.
+You will join that team as a full participant, learning from more senior members of the team
+You will have the chance to work in any of the major technology streams based on your aptitude and desire
+All streams will require some programming abilities, although different teams use different languages and toolchains. Ideally you will know Python, Go, one of the JVM languages, or JavaScript.
+You will be an active member of any open source communities for technologies you work with on a daily basis
+You will work on technology from cradle to grave in a true devops fashion: one day you may be coding a new feature, the next day you may be debugging a production issue
+
+Requirements
+
+Successful candidates will:
+Pursuing a technical degree from a major university and an ability to program in a modern programming language
+Demonstrate evidence of technical contribution outside of your university coursework, though internships or Open Source contributions (have a GitHub account? Make sure it’s on your CV!)
+Possess the ability to communicate effectively in English both writing and speaking, and the ability to communicate technical subjects effectively through diagramming
+Appreciate the value diversity (in all its forms) brings to our firmThe Players’ Tribune envisions a new sports media landscape where fans and players are connected more deeply and directly than ever before, and we’re looking for an ambitious data scientist who can help turn that vision into reality. The key element in this vision is leveraging our unique relationship with players to gather, produce, and evaluate data at a scale and depth that enables a precise understanding of athlete branding, audience engagement, and the type of content that accelerate the growth of both.
+
+In this role, you will:
+
+Communicate current and future data capabilities to TPT Product and Tech
+Collaborate with engineers and designers to produce data-focused experiments, proof of concepts, and MVPs.
+Implement, test and maintain data pipelines composed of:
+ingestion: sourced from external APIs and internal crawlers
+persistence: leveraging scalable and stable database(s)
+consumption (dynamic): for variant ML training datasets on demand
+consumption (static): for APIs used by user-facing products
+Create and maintain tooling for internal use of pipelines and APIs
+Create and maintain documentation of pipelines and APIs
+Configure and maintain a cluster of GPU VMs for parallel ML training
+Collaborate with data-scientist to optimize ML models for production use
+
+Experience
+
+
+6+ years of industry experience in a data engineering role, or a backend engineering role with a focus on data
+Strong Python, SQL, skills
+Familiarity with the vendor universe around web tracking
+
+Engineer - Data focus
+
+Door is expanding its Engineering team and is searching for a full-time Software Engineer passionate about data. We are looking for cross-functional software practitioners who are involved in delivery across the full stack and the full lifecycle, with a focus on data retention, access, and reporting. Door is heavily invested in AWS, and this role will be responsible for:
+
+
+Developing schemas and storage solutions for structured and semi-structured data
+Deploying data solutions via CloudFormation
+Working with various storage backends, possibly including Postgres, Redshift, DynamoDB, and Snowflake
+Contributing to Docker services in node.js and Python
+Modeling and documenting a consistent view of persistent and transient data
+Ensuring the security, maintainability and robustness of the data and schema
+Ensuring the quality and correctness of data access
+
+The ideal candidate
+
+
+Must have SQL and NoSQL database experience
+Must have experience designing and changing data models
+Must have experience with a reporting and visualization tool
+Should have node.js or Python experience
+Should have exposure to AWS services, AWS certification a plus
+Should have exposure to Security practices, IAM experience a plus
+Should be a polyglot developer, interested in new languages, tools, and technologies
+Should be passionate about delivering quality software to quality people
+
+This role reports to Engineering Lead in our Dallas, TX office.Applecart deploys proprietary technology to run smarter advertising campaigns. We work with some of the nation’s most prominent corporations, non-profit organizations, and political candidates to activate and communicate with key target audiences at a scale and level of efficacy previously thought impossible.
+
+Our core offering is a proprietary social graph that leverages publicly-available data to map real-world relationships between individuals at national scale. Our roots are in politics, where we have tested and honed our methods at every level, in high-impact circumstances. We have branched out beyond political campaigns to tackle new advertising challenges in which determining “who knows whom” provides decisive advantages for our clients.
+
+Applecart’s political work has been featured by The Colbert Report, CNN, The Washington Post, The Associated Press, USA Today, The Huffington Post, Bloomberg, among other prominent news outlets.
+
+As a Quantitative Data Engineer for the modeling team, you will be responsible for productizing data science applications of Applecart’s social graph. Your work will directly affect our clients in the form of election outcomes, increasing political and non-profit fundraising yields and optimizing advertising spends and risk assessments.
+
+Responsibilities:
+Implement, enhance and manage evolving machine learning pipelines
+Productize new data science offerings from prototypes and analysis
+Design, build and launch modeling team ETLs for various applications
+Develop internal and external analytical tooling for extracting supplemental value, quality assurance and actionable insights from existing data products
+Build expertise and quality controls for data in allocated areas of ownership
+Interface with engineers, product managers, analysts and data scientists to understand data needs
+Incrementally architect data infrastructure as products and use cases expand
+
+Qualifications:
+Bachelor's, Master’s or PhD in computer science, engineering, mathematics or related discipline with excellent academic credentials
+2+ years of experience in a Data Engineer or similar role
+Proficiency with PySpark (e.g. RDDs, dataframes and SparkSQL)
+Advanced working SQL knowledge and experience with relational databases
+A strong knowledge of math and statistics
+You write clean, well-structured, production-quality code in Python
+Experience processing large and complex datasets
+Ability to adapt to new languages/technologies as infrastructure evolvesNote: By applying to this position your application is automatically submitted to the following locations: San Bruno, CA, USA; New York, NY, USA
+The Google Technical Services Partners team empowers Google’s consumer products ecosystem to make Google’s products work. We provide end-to-end technical and operations support for partners for most of Google properties. This includes influencing product strategy, developing scalable product tools, helping onboard new partners, providing technical implementation services to some of the most strategic partners and ongoing partner management.
+The YouTube Measurement Program (YTMP) is responsible for ensuring that YouTube is represented fairly in third-party reporting tools, and that internal data feeding those tools is accurate and consistent. We provide partner technical support, analytical services, and thought leadership to several initiatives changing the long term direction of YouTube.
+As a Data Engineer for the YouTube Measurement Program, you are the integration manager responsible for the success of some of our most important third-party measurement partnerships. You will take responsibility for optimizing and scaling our validation programs, drive cross functional buy-in on roadmaps, and bring thought leadership to an important and highly visible ecosystem. You are a creative thinker who thrives in a fast-paced and market-driven environment. You are a self-motivated individual to looking leverage your solid technical experience to support major business initiatives.
+YouTube has grown into a community used by over 1 billion people across the globe to access information, share video, and shape culture. The YouTube team helps budding creators build careers, creates products like YouTube Kids, YouTube Music, and YouTube Gaming, and engages communities around shared passions and global conversations. Together, we empower the world to create, broadcast, and share.
+Responsibilities
+Manage partner technical integration projects, and ensure the prompt and proper resolution of technical challenges.
+Develop and maintain third-party data validation methodologies, including building and maintaining automated and scalable technical infrastructure.
+Guarantee the technical aspects of a partner’s integration (both new and ongoing) by providing technical guidance and documentation.
+Identify, drive and optimize new third-party reporting opportunities by leveraging YouTube technologies.
+Write and maintain a few hundred lines of code (Python/C++, etc.) to support your own small to medium scale ETL pipelines.
+Qualifications
+Minimum qualifications:
+Bachelor's degree in Computer Science, or a related technical field, or equivalent practical experience.
+2 years of experience in client-facing technical roles.
+Experience in working with one or more of the following: C/C++, Java, Go, Python, Unix/Linux systems, with scripting experience in Shell, Perl or Python.
+Experience in troubleshooting using common web technologies such as XML, HTML and/or JavaScript.
+
+Preferred qualifications:
+MBA, MS or other advanced degree.
+Experience in driving highly cross-functional initiatives that range from structured project management to ambiguous thought leadership.
+Experience in successfully navigating large organizations in order to complete both individual and collaborative projects.
+Demonstrated data abilities, in both quantitative and qualitative situations.
+Detail orientated, with effective project management and organizational skills.
+
+At Google, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know.
+To all recruitment agencies: Google does not accept agency resumes. Please do not forward resumes to our jobs alias, Google employees or any other company location. Google is not responsible for any fees related to unsolicited resumes.Contract Sr. Software Engineer, Data & ETL - San Francisco, CAQuizlet’s mission is to help students (and their teachers) practice and master whatever they are learning. Quizlet is the world’s largest teacher online community. Every month over 30 million active learners from 130 countries practice and master more than 200 million study sets on every conceivable topic and subject. We are developing new learning experiences by modeling how students learn and by drawing upon knowledge acquisition, retention, and tracing pedagogy in cognitive science. We are always seeking to help students master any subject by optimizing study efficiency and engagement.We're looking for a senior data and ETL developer to help us empower our expanding analyst team. We take advantage of a modern data warehouse environment (BigQuery) and open-source BI tools like Airflow, Periscope and DataStudio. This is a 3-6 month contract with potential for full-time conversion at our San Francisco, CA office (convenient to Caltrain, BART and Muni).The RoleMeet with analysts, engineers, product managers and other business users to gather requirementsDesign, build, and maintain data pipelines that power analytics and research at QuizletBuild and maintain Python-based ETL code using BigQuery and running in AirflowAssist with production monitoring and debugging of our data pipelinesTimely troubleshooting of problems with nightly ETL executionQualifications and Experience4+ years experience as a BI/ETL or data engineerHighly proficient with SQLHighly proficient in Python programmingExperience with a major data warehouse and the desire and ability to learn BigQuery quicklyExperience dealing with DevOps concerns for data pipelinesPrefer candidates with experience in user-engagement and ecommerce domainsQuizlet’s Team CultureWe are here to make education better and more accessible. We strive to improve the lives of students and teachers at every stage and in every setting. We have a bias for action, take initiative, and hustle to deliver results. We make informed decisions whenever possible but are unafraid to take calculated risks on great ideas to promote learning. We embrace challenges and see effort as the path to mastery. We’re constantly seeking opportunities to learn and we embrace curiosity.Quizlet’s success as an online learning community depends on a strong commitment to diversity, equity and inclusion. We are actively building a team that is representative of the diverse communities we serve, and an open, inclusive work environment where all employees can thrive. As an equal opportunity employer and a tech company committed to societal change, we welcome applicants from all backgrounds. Women, people of color, members of the LGBTQ+ community, individuals with disabilities, and veterans are strongly encouraged to apply. Come join us!Job Type: ContractSalary: $90.00 to $120.00 /hourExperience:ETL: 3 yearsPython: 3 yearsSQL: 4 yearsBigQuery: 1 yearEducation:Bachelor'sLocation:San Francisco, CA 94107At Volusion, we make products that people love. Our teams are dedicated to providing SaaS ​e​commerce solutions and services for all business types, from startups to well-established companies. If you're a creative professional who loves working with teams, has a passion for driving positive change and wants to better the world with your ​ideas, we want to hear from you!
+
+The rundown:
+As a Data Engineer, you will assist in the development of data warehouse information architecture on both Google Cloud BigQuery and Microsoft SQL Server, optimize SQL performance, and provide operational support to our high availability Microsoft SQL Server Warehouse infrastructure. An ideal candidate will be a proficient warehouse developer versed in data integration services development, report development, data analysis, and database administration.
+
+You will:
+
+Assist in building and maintaining data warehouse data integrations leveraging both MS SQL Integration services and Python technologies
+Assist in the development of BigQuery Data Model
+Develop and Optimize SQL Queries leveraged by existing integration services ,reporting processes and data analysis reports
+Develop dashboards and visualizations for ongoing measurement and KPIs.
+Plan for non-transactional data storage for reporting and analytics
+Database Schema design and data flow architecture planning
+Maintain current reports in existing reporting platforms
+Profile source system data as needed to provide feedback for business requirements
+Analyze and verify Data Warehouse data
+Assist in the design, build and maintenance of SSAS cubes
+
+We are looking for someone with:
+
+MUST be a team player with excellent oral and written communication skills
+Bachelor’s degree in Computer Science or Engineering
+SQL Skills for data analysis is a strong must have
+2+ Years Microsoft SQL Server Integration Services development or similar Extract Transform Load development
+2+ years of experience Microsoft SQL Server database administration
+2+ years of experience with Python 2.7 or 3.x
+Strong experience with performance optimization and tuning with database applications is a MUST
+Python Scripting and .NET knowledge preferred
+Familiarity with Cloud Services. Google Cloud Platform (GCP) and the GCP Data Services experience is a plus
+Git experience is also a plus
+Highly organized, self-starter with an eye for detail who can maintain multiple ongoing projects simultaneously
+
+Who is also the embodiment of our culture code ( https://culture.volusion.com/ ) (we hope you are nodding your head in agreement as you browse through it!):
+
+
+Humble: Have humility and be respectful; no egos allowed.
+Effective: Get stuff done!
+Adaptable: Willing to fill any role, anytime. Going above/beyond the call of duty.
+Transparent: Open and honest to self and others.
+A founder: Think big, go fast and solve for the customer.
+
+Benefits & Perks:
+
+Competitive compensation packages
+Medical, Dental, Vision, and Voluntary Life Insurance
+Flexible Paid Time Off
+401(k) with Company Matching
+Paid Parental Leave
+On-site Fitness and Yoga Classes
+Casual Dress and Beer Fridays
+Endless Supply of Coffee and Snacks
+Two Volunteer Days Off
+Bring Your Dog to Work Days
+Chair Massages
+Team Sports and Team Outings
+
+Hi. We’re TiVo. At our core, we’re innovators who continuously seek to fuel the ultimate entertainment experience. We touch the lives of binge-watching, music-loving, entertainment fanatics every day by inventing and delivering beautiful user experiences and enable the world’s leading media and entertainment providers to nurture more meaningful relationships with their audiences.
+We work hard, celebrate success and challenge everyone in our organization to make an impact. If you are as passionate as we are about the intersection of technology and entertainment, join us today.
+The Senior Data Engineer will analyze, design, program, debug and modify software enhancements and/or new products. Lead development of both transactional and data warehouse designs with our team of Big Data engineers and Data Scientists. Design, implement and tune tables, queries, stored procedures, and indexes. Work in an agile Scrum driven environment to deliver new and innovative products for Analytics customers, and keep up-to-date with relevant technology in order to maintain and improve functionality for authored applications.
+
+Primary Job Responsibilities:
+Design and develop new data/ETL pipelines
+Understand, provide support to existing data/ETL pipelines and recommend improvements
+Analyze, debug and fix issues with data pipelines
+Collaborate with DevOps and Production Support teams
+Identify and Implement automation opportunities
+Document processes, issues, and resolutions as needed
+Participate in daily scrums to provide support and prepare for system upgrades
+Qualifications:
+5+ year experience implementing complex ETL pipelines
+BS/MS in CS or Engineering
+Write complex SQLs and ETL processes
+Knowledge of Big Data stack of technologies, including Hadoop, HDFS, Hive, Oozie and Hbase.
+Working knowledge with programming in Java, Scala/Spark and Python.
+Knowledge of AWS environment including at least one of the following: on-demand computing, S3, and/or equivalent cloud computing approach.
+Working with large data volumes, including processing, transforming and transporting large-scale data
+Excellent analytical and troubleshooting skills
+Nice to Haves:
+Experience working in an Agile/Scrum environment
+Build and release experience (CI/CD)
+Exposure to Scheduling, automation & orchestration software (Control-M, Cloud Formation, Puppet)
+
+Benefits & Perks
+Our employees and their families are important to us and our comprehensive pay, stocks and benefits programs reflect that. TiVo supports personal well-being, builds financial security, and enables employees to share in the success of TiVo. Rewards include:
+Competitive compensation (salary, equity, and bonuses) and comprehensive benefits designed to foster work-life balance, care for your health, protect your finances, and help you save and invest for the future.
+Generous paid time away from work including vacation, holidays, sick time, and 2 days of paid time off each year to serve and learn through TiVo Community Outreach.
+Great perks, which vary by location and can include: employee discounts, transportation reimbursements, subsidized cafes and fitness facilities, conveniences such as dry cleaning and car washes, and recycling programs.
+See more at https://www.tivo.com/jobs/culture/benefits-at-tivo
+
+TiVo Corporation is an Equal Employment Opportunity Employer

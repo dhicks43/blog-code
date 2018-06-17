@@ -1,0 +1,2395 @@
+Data Engineer - Analytics - 18123100
+
+Hill-Rom is a $2.7B leading worldwide manufacturer and provider of medical technologies and related services for the health care industry, including patient support systems, safe mobility and handling solutions, non-invasive therapeutic products for a variety of acute and chronic medical conditions, medical equipment rentals, surgical products and information technology solutions. Hill-Rom's comprehensive product and service offerings are used by health care providers across the health care continuum and around the world in hospitals, extended care facilities and home care settings to enhance the safety and quality of patient care.
+
+Description
+
+The QA/RA Engineer - Metrics will manage key corporate metrics to drive business decisions and implement sound data-driven business solutions with an emphasis on quality system compliance. The primary function is to lead Hill-Rom’s global efforts to collect, analyze, and track the resolution of key data related to entity quality and performance indicators by interfacing with key business partners across the corporation. The incumbent will manage a dashboard of Key Performance Indicators for Executive Management that provides consistent timely analysis and publication of quality and key performance indicator metrics. Trend analysis will be performed to identify and mitigate critical quality issues along with the corresponding level of risk. The incumbent will promote a culture that Quality Matters to everyone in the corporation.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES – Other duties may be assigned:
+Manage the evaluation of quality systems to determine how metrics and measures can be used to drive business decisions.
+Provide leadership to monitoring and analyzing key elements of quality performance to identify product and process quality trends, quality system integrity and compliance with internal, as well as external standards and guidelines. Intervene when necessary to implement solutions and drive continuous improvement.
+Lead the Quality Improvement Program for Hill-Rom including identifying state-of-the-art quality standards and practices; quality system planning and implementation; and influencing strategic planning.
+Manage defined KPI’s/other metrics to identify process efficiency and improvement items.
+Coordinate Executive Management Review and quality scorecards.
+Recommend goals and objectives for quality performance as part of annual and long range business plans.
+Manage a set of best practices on what Hill-Rom should consider when defining quality system outcomes/best practices based on proven successes within the medical device industry.
+Lead the review of quality process issues and determine the best solution approach using a combination of people training, transformation, process updates, service improvements or technology changes.
+Provide oversight to the development of queries and reports from various data sources and data warehouse activities.
+Ensuring standardization, harmonization and reuse of information across the global corporation.
+Support the escalation process when compliance issues cannot be resolved at the local level.
+Provide training and support to department staff and business users on the use of metrics.
+#INDHR
+
+Qualifications
+
+Must possess sound knowledge of analytical data interpretation and trending tools.
+Must be articulate in both verbal and written communication skills, including strong questioning and listening skills and ability to look beyond obvious answers and understand the impact on other areas.
+Ability to understand and apply mathematical concepts especially as they relate to statistics and trending.
+Ability to define problems, collect data, establish facts, and draw valid conclusions.
+Proven presentation skills are required.
+Must be adept at independent decision-making.
+Strong leadership skills, strong interpersonal skills, and the ability to deal effectively with system users, is required.
+Strong data analysis skills and creativity in identifying new opportunities and evaluating alternatives is required.
+The proven ability to prioritize and manage multiple projects and meet deadlines is required.
+Must have the capability of developing effective working relationships with staff at all levels in the organization.
+Willing to travel (5%-10%) as business responsibilities require.
+
+EDUCATION AND/OR EXPERIENCE:
+Bachelors degree in a business or technical discipline or relevant experience
+Knowledge of Quality Systems, Business Process Management and Process Improvement is preferred.
+Experience in statistical analysis is required (the ability to understand and apply data to the business is extremely important).
+Experience with the creation and ability to influence business processes using KPIs and metrics is required.
+Must be capable of working on several projects concurrently under tight deadlines and be able to prioritize to meet organizational goals, with attention to regulatory requirements.
+Demonstrated proficiency with Microsoft systems (Excel, PowerPoint, Word, Access, Project, SharePoint); Cognos BI; Minitab; SAP and JD Edwards is preferred
+
+Hill-Rom is an equal employment employer F/M/Disability/Vet/Sexual Orientation/Gender Identity
+
+Job: Quality
+
+Primary Location: United States-Indiana-Batesville
+
+Other Locations: United States-Illinois-Chicago, IL
+
+Schedule: Full-time
+
+Travel: Yes, 10 % of the Time
+
+Posting Entity: Hill-RomLAN/WAN Data Engineer in Denver, CO.
+
+General Purpose and Scope:
+You are authentic, like working with people and love technology. As an experienced engineer you will be a key member of our wide area network deployment team with focus on insuring our data core which carries our entire customer base traffic. Our wireless network is complicated with 2G/3G/4G technologies running in multiple countries and your job will be to ensure that our wide area network data core which carries all of our customer’s traffic is as efficient and as fault tolerant as possible. Our customers like their data service to be fast and always on and it will be your responsibility to make sure that they are delighted with our service. Big part of this job is troubleshooting at the routing and switching level, and the ability to come up with creative solutions so if you like wearing your thinking cap this job might be for you.
+
+Duties and Responsibilities
+Design and implementation of core to edge network architecture and routing protocols on Juniper platforms.
+Operational Support of Data Network including troubleshooting routing and switching issues
+LAN/WAN Responsibilities including IP address management and documentation
+Engineering for growth and sustainability of the network.
+Education and training of other individuals within the company regarding network routing.
+Engineering and support of other systems supported by the Data Network Organization.
+Analysis for root cause determination of issues including recommendations for improvements.
+Write, review, and implement Methods of Procedure.
+Working directly with equipment vendors
+Other duties as assigned by management.
+
+Minimum Job Entry Requirements
+Bachelor’s degree in related field and 2 years of experience; or Associates Degree and at least 3 years work experience in related field or equivalent related work experience.
+Knowledge of Juniper networks gained through relevant experience, vendor training, and/or college or technical/vocational school coursework.
+Proficient in understanding of TCP/IP and routing protocols to include BGP and MPLS.
+Strong computer skills; proficient in MS Office.
+Strong analytical skills to resolve problems.
+Strong oral and written communication skills to coordinate repair efforts and prepare reports.
+Strong interpersonal skills to coordinate efforts effectively between multiple groups.
+Ability to manage multiple tasks in a fast paced environment.
+Self starter with attention to detail and ability to maintain focus over long periods of time.
+Ability to work on call support as needed.
+
+
+Desired Qualifications
+Previous experience as Data Network Engineer.
+Experience with SNMP
+Experience with Mobile IP, and L2TP
+Certifications: (JNCIA, JNCIS, JNCIP, etc)
+Working exposure to wireless data network deployment.
+Experience with some of the following standards & protocols: MEF, Ethernet, BGP, IBGP, OSPF, QoS, CoS, MPLS, VRF, VLANS, and VPNs
+Experience with mobile wireless protocols, specifically CDMA, GSM, LTE, or IS-835What’s the Job?You’ll be joining our data science team as a Data Product Engineer. You’ll be responsible for testing, monitoring, and improving the data collection programs we have in production, as well as developing new software to capture data from the web and extract insights from third-party sources. You’ll be writing Python scripts deployed on AWS, and communicating with data scientists and infrastructure engineers.Required: 5+ Years professional experience with PythonPython data structures and best practicesAWS and Linux (Ubuntu/CentOS) , Bash scriptingProfessional experience with a SQL-based database, such as MySQLWrites organized code with appropriate exception handling and loggingUnderstanding of HTTP network requests and responsesUnderstanding of HTML and JSON formatsAbility to write technical documentation and comment codeAbility to write test suites and set up automation environmentsPlusses: Experience with scrapy, beautiful soup, requests, seleniumAmazon Redshift/ HadoopPrior experience as a front-end, back-end, or full-stack web developerJavascript / NodeJSPython Django/FlaskJob Type: Full-timeExperience:AWS: 2 yearsweb scraping: 1 yearBash: 2 yearsPython: 3 yearsRequired work authorization:United StatesOverview
+Engineer will provide RAMS/LCC system/product demonstration and validation so that the performance of the system is measured and formally documented. The engineer manages the Environmental, Fire, and Smoke requirements of developed and purchased products. These activities are primarily for embedded electronics and mechanical products developed for Railway brake and coupler systems.
+Responsibilities
+Target Responsibilities:
+Derive, validate and document failure rates, modes and effects at product level.
+Derive, validate and document maintainability/LCC data for products.
+Provide detailed failure rate analysis on systems, subsystems and components or equipment level - reliability prediction based on standard model, test data and field data.
+Perform qualitative & quantitative analysis with focus on failure rate allocations.
+Support impact analysis of design change requests on RAMS/LCC targets.
+Setup and schedule interaction with customers to collect reliability data in a systematic and structured manner resulting in improved and updated understanding of field performance.
+Track/Analyze field and test data for contractual compliance, producing reliability reports and updates to RAMS database.
+Review and understand the Environmental, Fire and Smoke (F&S) industry regulations and customer requirements for the railway market.
+Support RAMS/LCC Systems Engineer with the development of Environmental and F&S documentation.
+Manage and update the F&S database, checking validity and expiration date.
+Qualifications
+
+Target Qualifications:
+BS Engineering, 2 to 7 years of experience in RAMS analysis.
+Working knowledge in industry standards and analysis techniques (IEC 61508, EN50126/8/9, MIL 756).
+Experience with Reliability and Maintainability demonstrations.
+Experience with conformity to Flame/Smoke/Environmental regulations for product design.
+Understanding of problem solving, root cause analysis and experience with segregating reliability failures from manufacturing defects and misdiagnosis.
+Background with development of product maintainability and reliability prediction through test data, field data analysis, standard model calculations.
+Working knowledge of PHA, SHA, SSHA, OSHA, FMECA, FTA, Reliability and Maintainability Analysis is preferred.
+Demonstrate Engineering design skills with RAMS/LCC focus.
+Good writing and verbal communication skills related to technical items and reporting.
+Functional knowledge of Reliability, Maintainability (RM) processes and tools, and skilled with graphical presentation, databases, spreadsheets and word-processing software.
+Knowledgeable of RAMS tools and techniques.
+Preferred working engineering knowledge of pneumatics, embedded control electronics, mechanical systems.
+Preferred experience in transit or rail industry.
+US Citizenship.
+Code: IN-123
+
+#LI-123Sumo.com is used by over 160,000 websites daily, reaching over 65,000,000+ people. Every month, 1 in 7 people in the world visit a site that uses Sumo!
+
+Duties:
+
+Analyze and understand past data and share findings with the team
+Design, build, optimize, and support systems for storing, aggregating, and analyzing large amounts of data
+Assist with rollouts by monitoring KPIs and communicating with the Product Owner and Lead Engineers
+Study and recognize trends in data by improving and maintaining pipeline infrastructure
+Help steer strategy of the firm through the aggregation and distribution of data insights
+Identify and understand key metrics pertaining to demographics of our clients
+
+Minimum Qualifications:
+
+Experience with MySQL or PostgreSQL
+Experience with Redis
+Experience with Elasticsearch
+Experience with RedShift
+Experience scripting and development
+
+Preferred Qualifications:
+
+Experience with Kinesis or Kafka
+Experience with Google analytics
+Experience with Business Intelligence Suites
+Experience with Hadoop
+Experience with Dynamodb
+Experience with NoSQL
+Experience with Cassandra
+Experience with R
+Development experience in Node.js
+
+Coupang is one of the largest and fastest growing e-commerce platforms on the planet. Our mission is to create a world in which Customers ask “How did I ever live without Coupang?” We are looking for passionate builders to help us get there. Powered by world-class technology and operations, we have set out to transform the end-to-end Customer experience -- from revolutionizing last-mile delivery to rethinking how Customers search and discover on a truly mobile-first platform. We have been named one of the “50 Smartest Companies in the World” by MIT Technology Review and “30 Global Game Changers” by Forbes.
+
+Coupang is a global company with offices in Beijing, Los Angeles, Seattle, Seoul, Shanghai, and Silicon Valley.
+
+About the role:
+
+Keep improving our platform stability and performance and achieve zero downtime and smooth operations.
+Implement the ELK project and support Kafka configuration and streaming.
+Handle daily operation, monitor the DB metrics/alerts , trouble shoot the issues if any
+Ensure adherence to continuous improvement practices as required to meet quality.
+
+What we're looking for:
+
+Strong programming skills in Java and Python, or other similar programming skill sets
+Solid knowledge in relational database, such as Oracle, MySQL, and Postgres databases.
+Passion in data engineering work, include daily data operation, backup and recovery, tuning, etc.
+Understand the Automation and tools build for modern database monitoring and deployment, etc.
+Understand the concept of database as service, etc
+Bachelors degree in computer science, information management or similar major.
+Ideally have one or two years in SRE or database management industry working experience. will also consider fresh graduate with strong skill programming and higher grade.
+
+Perks:
+
+Autonomy to make decisions in a rapidly growing company
+Free medical, dental, and vision insurance
+18 days PTO + 12 national holidays off
+401K matching
+Pre-IPO stock options
+Mobile & fitness reimbursement
+Flexible working hours
+Catered lunch
+
+It is the policy of Coupang Global LLC to afford equal opportunity for employment to all individuals regardless of race, color, age, national origin, physical or mental disability, history of disability, ancestry, citizenship status, political affiliation, religion, gender, transgender, gender identity, marital status, status as a parent, sexual orientation, veteran status, genetic information or other factors prohibited by law, and to prohibit harassment or retaliation based on any of these factors.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------DraftKings is a leading sports entertainment brand that creates the most exciting digital sports competitions and experiences on the planet. Our goal is to transform the way fans experience sports. Our mission is to make sports better – and make better sports fans – by bringing them closer to the games they love. We are the signature tech startup of our generation in Boston.
+
+We are seeking a dynamic and experienced Data Engineer. DraftKings' growth and success is directly related to the quality of our data and our ability to apply analytics to make business decisions. We are investing in building out a world class data analytics platform. The Data Engineer will be at the center of this with responsibility for developing and supporting our data infrastructure.
+
+Responsibilities
+
+
+Designs and develops systems and processes to transform, consolidate and analyze structured and unstructured data
+Develops, maintains and optimizes data pipelines and ETL processes for both streaming and batch to cleanse, integrate and evaluate data across multiple, disparate sources
+Builds analytics and data delivery tools that use the data to provide actionable insights into key business performance metrics.
+Designs processes supporting data transformation, data structures, metadata, dependency and workload management
+Focuses on performance analysis, optimization and tuning
+Responsible for requirements gathering, internal customer support, and continuous improvement
+Solves problems, prioritizes deliverables and manages technical scope
+Participates in on-call responsibility
+
+Qualifications
+
+
+Above all else, you must have a passion for all aspects of business intelligence and data engineering from data warehousing to data delivery to data operations.
+Experience building and optimizing ‘big data’ data pipelines, transformations, architectures and data sets.
+Proficient in a variety of data engines – SQL Server, MySQL, Redshift
+Strong understanding of dimensional modelling
+Proficient in SQL (complex queries and procedures), Python
+Proven ability to analyze and solve large unstructured problems to maximize business value
+Strong written and verbal communication skills
+Strong project management and organizational skills
+Experience working in AWS, big plus
+Experience working with EMR, Spark, a plus
+Experience supporting and working with cross-functional teams in a dynamic environment.
+
+Fusion is currently seeking an entry-level Data Engineer to join our fast-growing software development team. The data engineering team is responsible for developing and maintaining the data processes for our clients. Tasks will include import and export of data, data migration from legacy systems, interface development, reporting development, as well as maintenance and support for all our existing data projects.
+
+About Us:
+Fusion was founded in 2006, and has since become a major disruptor in the Corrections and Public Health sectors of government. Recognized by INC magazine as one of the fastest growing private companies in the United States, Fusion is looking to expand its hand-picked team to include a candidate through this job placement.
+
+From a company culture perspective, we are a vibrant and young group who have come together to be leaders in healthcare IT and software for government agencies. The office provides open working spaces, several meeting areas as well as a café & gym on premise.
+
+Because of the niche Fusion belongs in as well as the business model we operate with, we are looking for not only skilled and qualified candidates, but also candidates who have an outgoing personality and fit well with our other team members.
+
+To date, Fusion has a phenomenal retention of our team members. Our fundamental belief is that employee satisfaction is critical to achieving our mission, so we provide competitive compensation, professional development, career advancement opportunities, and a supportive team-based atmosphere. We also provide a full range of health related benefits, including medical, dental, vision and 401K. And we offer work-life enhancements like flexible hours, business casual dress code, and an easy-going corporate structure.
+
+Fusion has been recognized by Inc. 5000 List of Fastest-Growing Private Companies – thanks to the tireless efforts of our team. If you are a talented professional and our mission speaks to you, please speak to us!
+
+Job Roles:
+Communicate with partner companies to develop and support bi-direction data communication.
+Migrate data for new clients from old systems to new systems.
+Create meaningful insight with data to help our customers meet compliance standard.
+Develop reports to allow customers to view their data in the format they request.
+Meet with government clients to understand their environment and work with Project Managers to determine the optimal solution for their needs.
+Work with Project Managers to create and execute a technical implementation plan for larger client roll outs.
+Work closely with product management to understand current and new product features so they may be implemented correctly.
+
+Required Experience:
+Javascript
+SQL (Plus if it is SQL Server)
+Crystal Reports or any comparable reporting tool
+C#
+Windows Network Experience
+Familiarity with most common structured or delimited file formats (CSV, XML, JSON, etc)
+Familiarity with data transfer methods (sFTP, HTTP, TCP, SOAP, REST, etc)
+
+Qualifications:
+Bachelor’s Degree in Computer Science or any IT-related field.
+
+Working Hours:
+Standard hours for this role are M-F start between 8 and 9, expected to put in 8 hours.
+Willingness to provide weekly on-call coverage, rotationally.
+
+Additional Notes:
+It is not expected that applicants have any familiarity with Fusion’s proprietary applications, GE Healthcare software, or Corrections/Public Health business processes. Qualified candidates will be able to demonstrate experience in this role as well a demonstration of working well with the Fusion team.
+This is an On-Site, Full-Time salaried position.About You:
+
+You enjoy working in a team; collaboration and learning are acts that you embrace.
+You have at least two years of engineering experience
+You are fluent in Python and SQL
+You have experience with SQL databases/warehouses
+You love building robust systems
+
+About the Role:
+PlanGrid is looking for a data engineer to grow our analytics infrastructure. Data at PlanGrid is relied upon for decision-making and reporting by major teams in the company: Product, Sales, Marketing, and Finance. It is the data team's job to ensure that the data is always fresh and available.
+
+As a data engineer, you will help scale the data team's infrastructure as well as improve its fault tolerance, working on projects such as:
+
+Writing tooling to enable real-time monitoring of our data dependency graph, illustrating active nodes, stale ones, and their respective sources.
+Extending our in-house SQL-table dependency graph build tool.
+Migrating our existing data warehouse to an architecture that flexibly scales computation resources under load
+Creation of an independent code, pipeline, and storage path for testing purposes
+Refactoring our existing pipeline code to use better abstractions
+
+PlanGrid is on a mission to build the future faster by creating beautiful software for construction, one of the oldest an largest industries on the planet. We’re changing that by building tools that automate the mundane tasks around collaboration, planning and version control (think version control for blueprints). Our users are building some of the most amazing construction projects in the world, and our platform is their central information point.
+
+Perks:
+
+Located in San Francisco’s Mission District just one block from BART, among local shops, bars, and restaurants
+Flexible vacation
+Dog-friendly office
+Clipper Cards (for public transportation) funded by PlanGrid
+Construction site tours of the biggest projects in San Francisco using PlanGrid
+Volunteer time off: We encourage employees to give back to our local communities. We organize volunteer days and have worked with organizations such as Glide, SF/Marin Food Bank, Muttville, Family Dog Rescue, and Bryant Elementary School (as part of PlanGrid’s commitment with Circle the Schools).
+Catered lunches
+Premium medical, dental, and vision coverage for full-time employees and their dependents
+401k
+Equity
+Office is wheelchair accessible
+We provide paid parental leave for both parents
+
+PlanGrid is the leader in construction productivity software. Used on more than 1 million projects around the world, PlanGrid's value extends over numerous phases of construction, building a massive and accurate history of every jobsite through everyday use that creates a data-rich record set at turnover that is essential to long-term operations.
+
+PlanGrid is the first construction productivity software that allows contractors and owners in commercial, heavy civil, and other industries to collaborate easily from their mobile devices and desktop. PlanGrid is used in more than 79 countries by thousands of customers including DPR, Granite, NVIDIA, Target Corporation, and Tutor Perini. PlanGrid was a member of Y Combinator’s 2012 Winter Class, and has secured over $69 million in funding from Sequoia, Tenaya Capital Founders Fund, GV, 500 Startups, Box, Northgate, and Spectrum 28.
+
+For more information, please visit: https://www.plangrid.com/
+[https://www.plangrid.com/].
+
+PlanGrid is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, age, protected veteran or disabled status, or genetic information
+
+As part of GDPR compliance procedures, we have posted our Recruiting Privacy
+Notice [https://www.plangrid.com/recruiting-privacy-notice] on our website.At Globant (www.globant.com) we strive daily to deliver powerful innovative software solutions for our clients through our unique Digital Journey approach. Our passion for technology reverberates in every area of our organization and drives our creativity. Working for us means being at the convergence of engineering, design, innovation and scale. It means being part of a tightly knit and driven team whose work directly affects the products and bottom line of our clients.
+
+Our bar is high, but so are the results we achieve.
+
+We are seeking for a SQL and Data Engineer to join the finance team of one of the biggest and most innovative data companies in the market. This position is the seed of a rapidly growing automation of many tasks using the top edge technologies before they are even in the market. The position will also involve dealing with different teams, to understand, design and implement solutions to their problems and needs.
+
+Responsibilities:
+
+Work with stakeholders and a cross-functional teams to understand requirements and business rules
+Understand the set of technologies available and already implemented solutions by other teams to adapt them
+Be aware of new internal and external technologies in order to suggest innovative solutions and analyze the possibilities they could bring
+Replace existing manual processes with automated and more reliable versions
+Create processes to extract and clean data into different databases
+Design and create ETL pipelines to automate big data processes
+Create SQL queries and other languages scripting to manipulate medium and large volumes of data
+Analyze and optimize queries and pipelines
+Understand the securities and compliance policies to execute proper implementations that protect the data and their users
+Lead the analysis and design of quality technical solutions.
+Be part of a high performance engineering culture becoming the referent in Data and a key player in the team.
+
+Requirements:
+
+Computer Science studies or related technical field or equivalent combination of education/experience
+A minimum of 3 years of experience data manipulation
+Experience analyzing domain models for relational schemas, data warehouses and/or storage strategies.
+Strong SQL skills and data analysis
+Proficient in at least one scripting language for automation purposes (Python, Bash, among others)
+Demonstrate ability to understand new datasets and data structures.
+Proactive attitude to understand new business rules and think about the challenges they could bring, proposing solutions
+Great problem solving and analytical skills
+Excellent verbal and written communication skills
+Ability to manage and develop multiple projects in parallel is a plus
+Familiarity with finance industry is a plus
+
+We are interested in hard-working, fast-learning talents and we have the know-how and scale to help you make your own career path. If you seek an entrepreneurial, flexible and team-oriented culture, come join us.
+
+We are ready.Job Description
+
+We are seeking a talented data engineer to join us. As an engineer on the Suplari team, you will design, build, and operate cloud native, data pipelines and data lakes. You will implement feature extraction, transformations, data cleansing and normalization procedures and integrate with data science and machine learning algorithms to drive valuable insights into our customer datasets.
+You will use modern data platforms and technologies including Python, Elastic Search, PostgresQL, Spark, Tensorflow and many others. We are looking for passionate engineers that want to be part of a company that’s going to change the way enterprise businesses interact with their suppliers. Qualifications
+
+Expectations and Responsibilities:
+While you don’t need to have experience in every technology we use, as a startup, we do expect you to be comfortable contributing anywhere throughout the stack. Here are some of the heavy-hitters that we rely on daily: Python, Javascript, RESTful web services, OData, PostgreSQL, Go
+You will work with data science, product management, and customer success teams to understand data requirements.
+You will work with other cloud service engineers as well as web application developers to build the Suplari platform and application suite.
+Attributes we find important:
+Experience in scripting languages, such as Python, R, or Javascript/NodeJS.
+Experience in text processing toolkits, such as NLTK or Stanford-NLP.
+Experience in data querying languages, such as SQL or ElasticSearch.
+Experience with creating & maintaining training datasets for ML algorithms.
+Experience working with large, semi-structured datasets like legal documents, application logs, and product invoices.
+Rigor in automated testing, continuous integration, DevOps and other engineering best practices.
+Additional Information
+
+Great Benefits:
+Competitive compensation package
+Ownership through equity and options
+Cool work space with great views, showers, and bike racks
+Great coffee and awesome snacks
+Early stage company experience
+Comprehensive health and dental benefits
+Location:
+This position will be located in the Seattle area.
+We are not interviewing remote employees at this time.
+Suplari will not offer visa sponsorship for this position.We’re looking for a seasoned Big Data engineer to help us build and scale the next generation of near-realtime data processing and warehousing platform. You’ll use big data technologies to power critical big data processing needs of Ads, Analytics, BI, and anti-spam teams. You’ll join a technically strong team that is laying the foundation to revamp Pinterest’s data infrastructure.
+
+What you’ll do:
+
+Build and scale our stream processing platform using the latest open-source technologies to process petabytes of data daily
+Support and build critical data pipelines for specific use-cases like machine learning and stream processing
+Design and build near-realtime data warehouse to power numerous data processing, data discovery, machine learning, and internal business intelligence and analytics use cases
+Contribute to the team’s technical vision and long-term roadmap
+Provide thought leadership to the entire Data org on how data can be stored and processed more efficiently, reliably, quickly, and at scale
+
+What we’re looking for:
+
+5+ years of experience with Data Warehouse and open-source Big Data technologies
+Experience building infrastructure to support realtime or offline data pipelines processing petabytes of data
+Experience with Mesos, Spark, Hive, Hadoop, SQL, Kafka, Parquet, HDFS, or HBase
+Proficiency in multiple systems languages (Scala, Java, Python)
+
+#LI-VW1As a Data Engineer on the Logging Platform team you'll work on large Kafka deployment to enable the rest of the company to collect log messages and derive insights for product decisions. You’ll be part of the data engineering team, working on some of the most interesting infrastructure challenges with a world-class team of engineers towards the mission of enabling data-driven products and insights at Pinterest.
+
+What you’ll do:
+
+Work in an agile environment to manage and operationalize Kafka and Zookeeper deployment.
+Lead the responsibility of monitoring, turning, and partitioning Kafka deployment at large scale.
+Drive Kafka performance issues out of Operations, in collaboration with various internal organizations.
+
+What we're looking for:
+
+2+ years of solid experience in managing, monitoring, scaling and troubleshooting performance issues with Kafka and Zookeeper.
+4+ years of experience with Java, Python, Puppet, bash in a Linux/UNIX data center environment.
+Knowledge or experience with large scale distributed systems.
+Knowledge of Docker and Kubernetes is a plus.
+Experience as a systems/operations engineer or system administrator is a plus
+
+Virgil is seeking a Data Engineer to architect, design, implement, enhance and maintain highly scalable, available, secure and elastic cloud ready data solutions based on industry best practices by using cutting edge technologies.
+About Virgil
+Virgil is a Chicago-based startup that has developed a revolutionary recruiting and career navigation platform. Virgil enables job seekers to assess their competitiveness for any career in < 90 seconds, delivers them a personalized skill development roadmap, and connects them to employment opportunities. We currently operate one of the nation’s largest job boards. We are not your typical startup. We have all the characteristics of a 15-person startup, yet we are highly profitable, private-equity backed and have a client list of 4,000 customers.
+About the Role
+The Data Engineer will be responsible for designing, creating, deploying, enhancing, maintaining and managing the organization's data architecture and data stores.
+The Data Engineer must have hands-on experience with frameworks, tools and data modelling and design techniques.
+The Data Engineer will develop detailed designs and become an expert of the underlying data as well as business events within the enterprise. He will be the subject matter expert (SME) on content, current and potential future uses of data, and the quality and relationships between core elements of the data stores and data products.
+The Data Engineer will be also hands on monitoring, optimizing and troubleshooting current data stores to guarantee optimal performance and scalability.
+The Data Engineer will be actively working to understand how the information will be captured, retained and exploited
+Requirements
+Basic Qualifications:
+
+Degree in computer science, computer engineering or equivalent
+8+ years of experience in requirements analysis, data architecture, integrated database design, data security, performance tuning, back-up and recovery specifications
+Additional Qualifications:
+Expert knowledge of relational databases (Postgres, MySQL, SQL Server)
+Experience with scalable cloud storage solutions
+Experience in handling large data volumes, deep understanding of data marts, data warehouse architecture, multidimensional databases, data lakes, and data migration
+Experience with cloud infrastructure and data analytics offerings including Apache Spark, Compose, Elastic Search, MongoDB, and/or Redis
+Experience working with agile teams
+Experience writing complex SQL scripts with optimal performance
+Experience in developing web services technologies (SOAP and RESTful)
+Experience working with data models using Erwin or equivalent
+Knowledge of various data structures such as Relational, XML, JSON, NOSQL, Tuple Store, Columnar, in-memory and Graph DB
+Knowledge of Big Data technologies (e.g. Hadoop, Spark, Pig, Hive)
+Experience with log monitoring systems (e.g. Splunk, ELK)
+Experience troubleshooting design and performance issues with online transactional processing databases
+Preferred Skills
+Hands of scripting experience in Python.
+Experience with Enterprise Data Warehouses and migrating data from relational databases to cloud enabled databases
+Experience in building data pipelines and ETL jobs using tools such as Infosphere Information Server (DataStage)
+Hands-on experience with migration of on-prem data to AWS
+Experience with streaming analytics Kafka,
+Differentiating Skills
+PhD or Masters in Computer Science
+Experience developing dashboards and data platforms for complex event processing and analytics components in a big data environment
+Benefits
+Compensation is competitive based on experience with equity participation
+Benefits include: medical, dental, vision, 401k
+VIRGIL INC IS AN EQUAL OPPORTUNITY EMPLOYER – EOEAt Volusion, we make products that people love. Our teams are dedicated to providing SaaS ​e​commerce solutions and services for all business types, from startups to well-established companies. If you're a creative professional who loves working with teams, has a passion for driving positive change and wants to better the world with your ​ideas, we want to hear from you!
+
+The rundown:
+As a Data Engineer, you will assist in the development of data warehouse information architecture on both Google Cloud BigQuery and Microsoft SQL Server, optimize SQL performance, and provide operational support to our high availability Microsoft SQL Server Warehouse infrastructure. An ideal candidate will be a proficient warehouse developer versed in data integration services development, report development, data analysis, and database administration.
+
+You will:
+
+Assist in building and maintaining data warehouse data integrations leveraging both MS SQL Integration services and Python technologies
+Assist in the development of BigQuery Data Model
+Develop and Optimize SQL Queries leveraged by existing integration services ,reporting processes and data analysis reports
+Develop dashboards and visualizations for ongoing measurement and KPIs.
+Plan for non-transactional data storage for reporting and analytics
+Database Schema design and data flow architecture planning
+Maintain current reports in existing reporting platforms
+Profile source system data as needed to provide feedback for business requirements
+Analyze and verify Data Warehouse data
+Assist in the design, build and maintenance of SSAS cubes
+
+We are looking for someone with:
+
+MUST be a team player with excellent oral and written communication skills
+Bachelor’s degree in Computer Science or Engineering
+SQL Skills for data analysis is a strong must have
+2+ Years Microsoft SQL Server Integration Services development or similar Extract Transform Load development
+2+ years of experience Microsoft SQL Server database administration
+2+ years of experience with Python 2.7 or 3.x
+Strong experience with performance optimization and tuning with database applications is a MUST
+Python Scripting and .NET knowledge preferred
+Familiarity with Cloud Services. Google Cloud Platform (GCP) and the GCP Data Services experience is a plus
+Git experience is also a plus
+Highly organized, self-starter with an eye for detail who can maintain multiple ongoing projects simultaneously
+
+Who is also the embodiment of our culture code ( https://culture.volusion.com/ ) (we hope you are nodding your head in agreement as you browse through it!):
+
+
+Humble: Have humility and be respectful; no egos allowed.
+Effective: Get stuff done!
+Adaptable: Willing to fill any role, anytime. Going above/beyond the call of duty.
+Transparent: Open and honest to self and others.
+A founder: Think big, go fast and solve for the customer.
+
+Benefits & Perks:
+
+Competitive compensation packages
+Medical, Dental, Vision, and Voluntary Life Insurance
+Flexible Paid Time Off
+401(k) with Company Matching
+Paid Parental Leave
+On-site Fitness and Yoga Classes
+Casual Dress and Beer Fridays
+Endless Supply of Coffee and Snacks
+Two Volunteer Days Off
+Bring Your Dog to Work Days
+Chair Massages
+Team Sports and Team Outings
+
+Hi. We’re TiVo. At our core, we’re innovators who continuously seek to fuel the ultimate entertainment experience. We touch the lives of binge-watching, music-loving, entertainment fanatics every day by inventing and delivering beautiful user experiences and enable the world’s leading media and entertainment providers to nurture more meaningful relationships with their audiences.
+We work hard, celebrate success and challenge everyone in our organization to make an impact. If you are as passionate as we are about the intersection of technology and entertainment, join us today.
+The Senior Data Engineer will analyze, design, program, debug and modify software enhancements and/or new products. Lead development of both transactional and data warehouse designs with our team of Big Data engineers and Data Scientists. Design, implement and tune tables, queries, stored procedures, and indexes. Work in an agile Scrum driven environment to deliver new and innovative products for Analytics customers, and keep up-to-date with relevant technology in order to maintain and improve functionality for authored applications.
+
+Primary Job Responsibilities:
+Design and develop new data/ETL pipelines
+Understand, provide support to existing data/ETL pipelines and recommend improvements
+Analyze, debug and fix issues with data pipelines
+Collaborate with DevOps and Production Support teams
+Identify and Implement automation opportunities
+Document processes, issues, and resolutions as needed
+Participate in daily scrums to provide support and prepare for system upgrades
+Qualifications:
+5+ year experience implementing complex ETL pipelines
+BS/MS in CS or Engineering
+Write complex SQLs and ETL processes
+Knowledge of Big Data stack of technologies, including Hadoop, HDFS, Hive, Oozie and Hbase.
+Working knowledge with programming in Java, Scala/Spark and Python.
+Knowledge of AWS environment including at least one of the following: on-demand computing, S3, and/or equivalent cloud computing approach.
+Working with large data volumes, including processing, transforming and transporting large-scale data
+Excellent analytical and troubleshooting skills
+Nice to Haves:
+Experience working in an Agile/Scrum environment
+Build and release experience (CI/CD)
+Exposure to Scheduling, automation & orchestration software (Control-M, Cloud Formation, Puppet)
+
+Benefits & Perks
+Our employees and their families are important to us and our comprehensive pay, stocks and benefits programs reflect that. TiVo supports personal well-being, builds financial security, and enables employees to share in the success of TiVo. Rewards include:
+Competitive compensation (salary, equity, and bonuses) and comprehensive benefits designed to foster work-life balance, care for your health, protect your finances, and help you save and invest for the future.
+Generous paid time away from work including vacation, holidays, sick time, and 2 days of paid time off each year to serve and learn through TiVo Community Outreach.
+Great perks, which vary by location and can include: employee discounts, transportation reimbursements, subsidized cafes and fitness facilities, conveniences such as dry cleaning and car washes, and recycling programs.
+See more at https://www.tivo.com/jobs/culture/benefits-at-tivo
+
+TiVo Corporation is an Equal Employment Opportunity EmployerHi. We’re TiVo. At our core, we’re innovators who continuously seek to fuel the ultimate entertainment experience. We touch the lives of binge-watching, music-loving, entertainment fanatics every day by inventing and delivering beautiful user experiences and enable the world’s leading media and entertainment providers to nurture more meaningful relationships with their audiences.
+We work hard, celebrate success and challenge everyone in our organization to make an impact. If you are as passionate as we are about the intersection of technology and entertainment, join us today.
+The Senior Data Engineer will analyze, design, program, debug and modify software enhancements and/or new products. Lead development of both transactional and data warehouse designs with our team of Big Data engineers and Data Scientists. Design, implement and tune tables, queries, stored procedures, and indexes. Work in an agile Scrum driven environment to deliver new and innovative products for Analytics customers, and keep up-to-date with relevant technology in order to maintain and improve functionality for authored applications.
+
+Primary Job Responsibilities:
+Design and develop new data/ETL pipelines
+Understand, provide support to existing data/ETL pipelines and recommend improvements
+Analyze, debug and fix issues with data pipelines
+Collaborate with DevOps and Production Support teams
+Identify and Implement automation opportunities
+Document processes, issues, and resolutions as needed
+Participate in daily scrums to provide support and prepare for system upgrades
+Qualifications:
+5+ year experience implementing complex ETL pipelines
+BS/MS in CS or Engineering
+Write complex SQLs and ETL processes
+Knowledge of Big Data stack of technologies, including Hadoop, HDFS, Hive, Oozie and Hbase.
+Working knowledge with programming in Java, Scala/Spark and Python.
+Knowledge of AWS environment including at least one of the following: on-demand computing, S3, and/or equivalent cloud computing approach.
+Working with large data volumes, including processing, transforming and transporting large-scale data
+Excellent analytical and troubleshooting skills
+Nice to Haves:
+Experience working in an Agile/Scrum environment
+Build and release experience (CI/CD)
+Exposure to Scheduling, automation & orchestration software (Control-M, Cloud Formation, Puppet)
+
+Benefits & Perks
+Our employees and their families are important to us and our comprehensive pay, stocks and benefits programs reflect that. TiVo supports personal well-being, builds financial security, and enables employees to share in the success of TiVo. Rewards include:
+Competitive compensation (salary, equity, and bonuses) and comprehensive benefits designed to foster work-life balance, care for your health, protect your finances, and help you save and invest for the future.
+Generous paid time away from work including vacation, holidays, sick time, and 2 days of paid time off each year to serve and learn through TiVo Community Outreach.
+Great perks, which vary by location and can include: employee discounts, transportation reimbursements, subsidized cafes and fitness facilities, conveniences such as dry cleaning and car washes, and recycling programs.
+See more at https://www.tivo.com/jobs/culture/benefits-at-tivo
+
+TiVo Corporation is an Equal Employment Opportunity EmployerLAN/WAN Data Engineer in Denver, CO.
+
+General Purpose and Scope:
+You are authentic, like working with people and love technology. As an experienced engineer you will be a key member of our wide area network deployment team with focus on insuring our data core which carries our entire customer base traffic. Our wireless network is complicated with 2G/3G/4G technologies running in multiple countries and your job will be to ensure that our wide area network data core which carries all of our customer’s traffic is as efficient and as fault tolerant as possible. Our customers like their data service to be fast and always on and it will be your responsibility to make sure that they are delighted with our service. Big part of this job is troubleshooting at the routing and switching level, and the ability to come up with creative solutions so if you like wearing your thinking cap this job might be for you.
+
+Duties and Responsibilities
+Design and implementation of core to edge network architecture and routing protocols on Juniper platforms.
+Operational Support of Data Network including troubleshooting routing and switching issues
+LAN/WAN Responsibilities including IP address management and documentation
+Engineering for growth and sustainability of the network.
+Education and training of other individuals within the company regarding network routing.
+Engineering and support of other systems supported by the Data Network Organization.
+Analysis for root cause determination of issues including recommendations for improvements.
+Write, review, and implement Methods of Procedure.
+Working directly with equipment vendors
+Other duties as assigned by management.
+
+Minimum Job Entry Requirements
+Bachelor’s degree in related field and 2 years of experience; or Associates Degree and at least 3 years work experience in related field or equivalent related work experience.
+Knowledge of Juniper networks gained through relevant experience, vendor training, and/or college or technical/vocational school coursework.
+Proficient in understanding of TCP/IP and routing protocols to include BGP and MPLS.
+Strong computer skills; proficient in MS Office.
+Strong analytical skills to resolve problems.
+Strong oral and written communication skills to coordinate repair efforts and prepare reports.
+Strong interpersonal skills to coordinate efforts effectively between multiple groups.
+Ability to manage multiple tasks in a fast paced environment.
+Self starter with attention to detail and ability to maintain focus over long periods of time.
+Ability to work on call support as needed.
+
+
+Desired Qualifications
+Previous experience as Data Network Engineer.
+Experience with SNMP
+Experience with Mobile IP, and L2TP
+Certifications: (JNCIA, JNCIS, JNCIP, etc)
+Working exposure to wireless data network deployment.
+Experience with some of the following standards & protocols: MEF, Ethernet, BGP, IBGP, OSPF, QoS, CoS, MPLS, VRF, VLANS, and VPNs
+Experience with mobile wireless protocols, specifically CDMA, GSM, LTE, or IS-835What’s the Job?You’ll be joining our data science team as a Data Product Engineer. You’ll be responsible for testing, monitoring, and improving the data collection programs we have in production, as well as developing new software to capture data from the web and extract insights from third-party sources. You’ll be writing Python scripts deployed on AWS, and communicating with data scientists and infrastructure engineers.Required: 5+ Years professional experience with PythonPython data structures and best practicesAWS and Linux (Ubuntu/CentOS) , Bash scriptingProfessional experience with a SQL-based database, such as MySQLWrites organized code with appropriate exception handling and loggingUnderstanding of HTTP network requests and responsesUnderstanding of HTML and JSON formatsAbility to write technical documentation and comment codeAbility to write test suites and set up automation environmentsPlusses: Experience with scrapy, beautiful soup, requests, seleniumAmazon Redshift/ HadoopPrior experience as a front-end, back-end, or full-stack web developerJavascript / NodeJSPython Django/FlaskJob Type: Full-timeExperience:AWS: 2 yearsweb scraping: 1 yearBash: 2 yearsPython: 3 yearsRequired work authorization:United StatesOverview
+Engineer will provide RAMS/LCC system/product demonstration and validation so that the performance of the system is measured and formally documented. The engineer manages the Environmental, Fire, and Smoke requirements of developed and purchased products. These activities are primarily for embedded electronics and mechanical products developed for Railway brake and coupler systems.
+Responsibilities
+Target Responsibilities:
+Derive, validate and document failure rates, modes and effects at product level.
+Derive, validate and document maintainability/LCC data for products.
+Provide detailed failure rate analysis on systems, subsystems and components or equipment level - reliability prediction based on standard model, test data and field data.
+Perform qualitative & quantitative analysis with focus on failure rate allocations.
+Support impact analysis of design change requests on RAMS/LCC targets.
+Setup and schedule interaction with customers to collect reliability data in a systematic and structured manner resulting in improved and updated understanding of field performance.
+Track/Analyze field and test data for contractual compliance, producing reliability reports and updates to RAMS database.
+Review and understand the Environmental, Fire and Smoke (F&S) industry regulations and customer requirements for the railway market.
+Support RAMS/LCC Systems Engineer with the development of Environmental and F&S documentation.
+Manage and update the F&S database, checking validity and expiration date.
+Qualifications
+
+Target Qualifications:
+BS Engineering, 2 to 7 years of experience in RAMS analysis.
+Working knowledge in industry standards and analysis techniques (IEC 61508, EN50126/8/9, MIL 756).
+Experience with Reliability and Maintainability demonstrations.
+Experience with conformity to Flame/Smoke/Environmental regulations for product design.
+Understanding of problem solving, root cause analysis and experience with segregating reliability failures from manufacturing defects and misdiagnosis.
+Background with development of product maintainability and reliability prediction through test data, field data analysis, standard model calculations.
+Working knowledge of PHA, SHA, SSHA, OSHA, FMECA, FTA, Reliability and Maintainability Analysis is preferred.
+Demonstrate Engineering design skills with RAMS/LCC focus.
+Good writing and verbal communication skills related to technical items and reporting.
+Functional knowledge of Reliability, Maintainability (RM) processes and tools, and skilled with graphical presentation, databases, spreadsheets and word-processing software.
+Knowledgeable of RAMS tools and techniques.
+Preferred working engineering knowledge of pneumatics, embedded control electronics, mechanical systems.
+Preferred experience in transit or rail industry.
+US Citizenship.
+Code: IN-123
+
+#LI-123Engineer - Data focus
+
+Door is expanding its Engineering team and is searching for a full-time Software Engineer passionate about data. We are looking for cross-functional software practitioners who are involved in delivery across the full stack and the full lifecycle, with a focus on data retention, access, and reporting. Door is heavily invested in AWS, and this role will be responsible for:
+
+
+Developing schemas and storage solutions for structured and semi-structured data
+Deploying data solutions via CloudFormation
+Working with various storage backends, possibly including Postgres, Redshift, DynamoDB, and Snowflake
+Contributing to Docker services in node.js and Python
+Modeling and documenting a consistent view of persistent and transient data
+Ensuring the security, maintainability and robustness of the data and schema
+Ensuring the quality and correctness of data access
+
+The ideal candidate
+
+
+Must have SQL and NoSQL database experience
+Must have experience designing and changing data models
+Must have experience with a reporting and visualization tool
+Should have node.js or Python experience
+Should have exposure to AWS services, AWS certification a plus
+Should have exposure to Security practices, IAM experience a plus
+Should be a polyglot developer, interested in new languages, tools, and technologies
+Should be passionate about delivering quality software to quality people
+
+This role reports to Engineering Lead in our Dallas, TX office.What​ ​we​ ​do:
+Uptake harnesses the power of underutilized data to empower businesses to make informed
+decisions. We partner with industry leaders to build a predictive analytics software platform that
+grows smarter in one industry because of what we learn in another. The result is a powerful platform
+that identifies problems before they happen, ultimately saving money, time and lives.
+
+What​ ​you’ll​ ​do:
+As a Big Data Engineer, you’ll be responsible for the architecture of a complex analytics platform
+that is already changing the way large industrial companies manage their assets. A Big Data
+Engineer understands cutting-edge tools and frameworks, and is able to determine what the best
+tools are for any given task. You will enable and work with our other developers to use cutting-edge
+technologies in the fields of distributed systems, data ingestion and mapping, and machine learning,
+to name a few. We also strongly encourage Engineers to tinker with existing tools, and to stay up to
+date and test new technologies—all with the aim of ensuring that our existing systems don’t stagnate
+or deteriorate.
+
+Responsibilities:
+As a Big Data Engineer, your responsibilities may include, but are not limited to, the following:
+
+
+Build a scalable Big Data Platform designed to serve many different use-cases and requirements
+Build a highly scalable framework for ingesting, transforming and enhancing data at web scale
+Develop data structures and processes using components of the Hadoop ecosystem such as Avro, Hive, Parquet, Impala, Hbase, Kudu, Tez, etc.
+Establish automated build and deployment pipelines
+Implement machine learning models that enable customers to glean hidden insights about their data
+
+Qualifications:
+
+Bachelor's degree in Computer Science or related field
+6+ years of system building experience
+4+ years of programming experience using JVM based languages
+A passion for DevOps and an appreciation for continuous integration/deployment
+A passion for QA and an understanding that testing is not someone else’s responsibility
+Experience automating infrastructure and build processes
+Outstanding programming and problem solving skills
+Strong passion for technology and building great systems
+Excellent communication skills and ability to work using Agile methodologies
+Ability to work quickly and collaboratively in a fast-paced, entrepreneurial environment
+Experience with service-oriented (SOA) and event-driven (EDA) architectures
+Experience using big data solutions in an AWS environment
+Experience with javascript or associated frameworks
+
+Preferred​ ​skills:
+We value these qualities, but they’re not required for this role:
+
+
+Masters or Ph.D. in related field
+Experience as an open source contributor
+Experience with Akka, stream processing technologies and concurrency frameworks
+Experience with Data modeling
+Experience with Chef, Puppet, Ansible, Salt or equivalent
+Experience with Docker, Mesos and Marathon
+Experience with distributed messaging services, preferably Kafka
+Experience with distributed data processors, preferably Spark
+Experience with Angular, React, Redux, Immutable.js, Rx.js, Node.js or equivalent
+Experience with Reactive and/or Functional programming
+Understanding of Thrift, Avro or protocol buffers
+
+If you think you would be a good fit for this role, and are interested in joining the best engineering team in Chicago, please provide your resume with a cover letter.Who is Blueprint?
+
+Blueprint Technologies is a group of solution-minded thinkers changing the face of Technology in Bellevue, WA. We follow a Mission, Vision, and Core Values that allow us to function as a collaborative unit.
+
+What are our Solutions?
+
+Blueprint is a technology solutions firm that connects strategy, product and delivery. We help companies digitally transform. We have a special focus in cloud and infrastructure, data platform and engineering, data science and analytics, organizational modernization and customer experience optimization.
+
+Why you want to be a part of Blueprint?
+
+We are innovators. Motivators. Thought Provokers. And coffee drinkers. Our collective backgrounds bring diverse perspectives that enable us to consistently think differently. Our people are our solutions. We want you to bring your biggest and best ideas to help positively impact our culture, clients and the community around us. We believe in the importance of a healthy and happy team, which is why our benefits include full medical, dental and vision coverage, as well as paid time off, 401k, paid volunteer hours and tuition reimbursement.
+
+Blueprint is looking for Big Data Engineers to join us as we build cutting-edge technology solutions!
+
+Basic Qualifications:
+
+Bachelor’s or Master’s degree in Computer Science, Computer Engineering or related discipline.
+Advanced Experience with Software development, in an open source environment (5+ years)
+Experience with Spark and/or Scala (3+ years)
+Experience with Hadoop (2-4 years)
+Experience with GitHub and/or other versioning tools
+Ability to quickly learn new technologies, application domains, and adapt to changes.
+Excellent critical thinking and problem-solving skills.
+Ability to develop simple, elegant solutions to complex problems.
+Excellent verbal and written communication skills, team player.
+Ability to handle multiple competing priorities in a fast-paced environment.
+
+Preferred Qualifications:
+
+Experience with a distributed cloud (preferably Azure)
+Experience with agile software development methodology and continuous delivery models
+Experience with team building and mentoring
+
+FLSA - Job Classification: Exempt, Full-Time Position.
+
+Department: Big DataAvenue Code is the leading software consultancy focused on delivering end-to-end development solutions for digital transformation across every vertical. We’re privately held, profitable, and have been on a solid growth trajectory since day one. We care deeply about our clients, our partners, and our people. We prefer the word ‘partner’ over ‘vendor’, and our investment in professional relationships is a reflection of that philosophy. We pride ourselves on our technical acumen, our collaborative problem-solving ability, and the warm professionalism of our teams.
+
+About the Opportunity:
+We are seeking an energetic and talented Data Engineer to deliver high value, high-quality business capabilities to our data technology platform. With a background in both software development and machine learning, you will collaborate with software engineers, data scientists and domain experts in Supply Chain and Inventory management to develop data and machine learning products to support our company. You will be an integral member engineering team delivering across multiple business functional areas. You will build data analysis infrastructure for effective prototyping and visualization of various data-driven approaches
+
+Key Responsibilities:
+
+Partner in building the infrastructure required for optimal extraction, transformation, visualization, and loading of data from a wide variety of data sources using SQL and big data technologies.
+Improve our Machine Learning systems by contributing to all phases of algorithm development including ideation, prototyping, design and production
+Scale our data processing pipelines to handle and maintain complex processes in an efficient and reliable way that are available, scalable, and fault tolerant.
+Build scalable production systems for data collection, data transformation, feature extraction, model training, and scoring, using distributed software tools
+Work with data science to define data ingestion standards and assist with data-related technical issues
+Partner with product development team to understand various opportunities and use cases.
+Maintain specifications and metadata; create and maintain documentation
+Build Communities-of-Practice in key data technologies
+
+Technical Skills/Qualifications:
+
+5+ years’ experience building and maintaining large-scale analytics systems
+5+ years’ experience in software development and delivery
+Expertise in one or more programming languages such as Python, Scala, Java, Javascript, etc. and related frameworks (Flask, Django, Spring, AngularJS, React).
+Good knowledge of architecting, developing, and maintaining of cloud technologies (AWS, Azure, GCP)
+Experience with Big Data stack (Kafka, Hadoop, Storm, Spark, Hive, Airflow, ElasticSearch, TensorFlow).
+Experience with relational (Postgres, MySQL) and/or non-relational (Cassandra, MongoDB) databases.
+Strong machine learning or stats knowledge a plus
+Experience in Supply Chain / Retail / eCommerce
+Excellent communication skill and a strong team player.
+BS/MS in Computer Science, Computer Engineering or related technical discipline
+Strong analytical and quantitative problem-solving ability
+
+Does this sound like you? Apply now to become an Avenue Coder!Who is Trace3?
+
+At Trace3, our mission is to remain the leading Transformative IT Authority, providing unparalleled IT solutions and consultation services to our clients.
+
+We began our humble journey in 2002 – as a traditional VAR. Fast forward to today: we have evolved to be a leader in the IT space – solidifying us as a force to be reckoned with. We integrate IT products and services with insightful consultation in order to provide total business transformation for our clients. Equipped with elite engineering and dynamic innovation, we empower executives and organizations to keep pace within the IT/corporate landscape through the transformative power of IT.
+
+Our culture at Trace3 embodies the spirit of a startup with the advantage of a scalable business. We offer competitive compensation and awesome perks like onsite workout classes, stocked kitchen with snacks/beverages, and a focus on a healthy work-life balance. As a part of Trace3, we want you to have the opportunity to grow your career and have fun while doing it.
+
+Trace3’s HQ campus is located in Irvine, CA with office locations in San Diego, Los Angeles, Denver, Northern California and Phoenix.
+
+Ready to discover the possibilities that live in technology?
+
+Ideal candidates will have qualities true to our core…
+
+Street -Smart You are flexible and resilient in a fast changing environment. You know how your job affects the whole mission. You get the bigger picture. You understand why your job matters to Trace3 and how to help grow the business. You exercise good business judgment in making high quality decisions in a timely manner.
+
+Entrepreneurial Spirit You think like an entrepreneur. You constantly innovate, come up with solutions and drive change. You solve problems for the betterment of the company. You look for new and productive ways to make an impact. You find better ways to sell or provide solutions and are good at it.
+
+Juice You are a well-respected achiever that gets things done and drives results. You “bring the weather” by demonstrating leadership, character and passion. You lead without a title, empowering others and inspiring trust. You treat others with respect, admit mistakes, give credit where it’s due and demonstrate transparency. You hug people in their trials, struggles and failures, not just their success.
+
+About the Role:
+The Data Engineer will be responsible for leveraging new and emerging technologies to solve key technical challenges for our clients. The Data Engineer will act as an expert and trusted advisor who develops, implements, troubleshoots, and optimizes data solutions across many platforms. This role will work closely with clients, partners and other business units to ensure consulting engagements are successful.
+
+What You’ll Do:
+
+Responsible for design, development, and hands-on implementation of data intelligence solutions including data platform build-up, proof of concepts or pilot implementation, software development, software integration, and documentation
+Perform hands on development of apache, big data technologies, and framework
+Serve as a data intelligence technical resource in team’s efforts to determine the needs of our client’s businesses that will simplify and automate the applications as well as make them more efficient
+Align solutions with standards and best practices working with cross-functional engineering and consulting teams
+Collaborate and communicate with Sales and Account Management team to ensure smooth and successful delivery and assist with the identification of additional Advanced Services and Sales opportunities within the customer’s environment
+Establish strong and lasting relationships with key stakeholders and decision makers in client organizations
+Contribute to the development of internal best practices as well as new innovative consulting services offerings that we can take to market
+Build a community and following around our company solutions and brand awareness
+
+Qualifications & Interests:
+
+Bachelor’s degree from an accredited university required
+Previous experience working for a consulting or services organization strongly preferred
+5+ years of software development experience in distributed systems and building large-scale applications
+5+ years of experience in building large scale, high performance, high availability systems and Strong Computer Science fundamentals (algorithms, data structures)
+Hadoop, NoSQL or other Big Data certifications are a huge plus
+Experience with Big Data technologies (SPARK, HDFS, HBase, Cloudera, MAPR, Hadoop and other frameworks in Hadoop ecosystem
+Deep knowledge of Hadoop tools (MapReduce, SPARK, Oozie, ELK, KAFKA, HUE, HBase)
+Fluency in several programming languages such as Python, Scala, or Java, with the ability to pick up new languages and technologies quickly
+Intermediate knowledge with software engineering best practices
+Must be able to quickly understand technical and business requirements and be able to translate them into technical implementations
+Ability to mix deep technical expertise with simple, everyday language to deliver a story that is memorable, educational and useful
+Highly organized, detail-oriented, excellent time management skills and able to effectively prioritize tasks in a fast-paced, high-volume, and evolving work environment
+Ability to approach customer and sales requests with a proactive and consultative manner; listen and understand user requests and needs and effectively deliver
+Comfortable managing multiple and changing priorities, and meeting deadlines in an entrepreneurial environment
+Motivated self-starter who loves to troubleshoot and solve challenging problems and feels comfortable working directly with customers
+
+The Perks:
+
+Competitive Compensation
+Comprehensive medical, dental and vision plans for you and your dependents
+401(k) retirement plan, 529 college savings plan, life insurance, and AD&D;
+Training and development programs
+Stocked kitchen with snacks and beverages
+Collaborative and cool office culture
+Work-life balance (where we don’t encourage fun and relaxation time; we actually require it)
+Unlimited vacation to relax, restore and refresh
+
+***To all recruitment agencies: Trace3 does not accept unsolicited agency resumes/CVs. Please do not forward resumes/CVs to our careers email addresses, Trace3 employees or any other company location. Trace3 is not responsible for any fees related to unsolicited resumes/CVs.At Datto our mission is to be a hero to the companies we serve, 24/7/365. Datto solutions safeguard businesses from IT disasters, human error, and malicious activity. With Datto defending business data, we promise our partners business continuity with uninterrupted access to data on-site, in transit, and in the cloud. Whether it's helping them over the phone or sending our Disaster Response Team to the rescue we are committed to keeping data safe, recoverable, and accessible. It's this commitment that has made us the world’s leading provider of MSP delivered IT solutions. Datto is headquartered in Norwalk, CT, with offices worldwide. #datto
+
+Does this describe you:
+
+A go-getter
+Logical
+An innovator
+
+A look inside the job:
+
+Participate in the architecting, installation, and operation of various Big Data systems including Hadoop, Cassandra, Elasticsearch, and Redis
+Create, automate, provision, and deploy Linux-based Big Data systems
+Ensure system stability, scalability, security, and performance
+Create and maintain documentation surrounding our infrastructure
+Think out of the box and solve complex scaling challenges
+Work with developers to construct solutions to analytics problems
+
+Does your profile include:
+
+3+ years of experience with Linux administration; Ubuntu preferred
+Basic knowledge of at least one Big Data technology: Cassandra, Elasticsearch, Hadoop
+Solid configuration management skills; Puppet preferred but Ansible/Chef/Salt acceptable
+Experience with scripting and system automation (Bash, Python, Perl, Awk, etc.)
+The ability to work effectively under pressure in a fast-paced environment
+Strong verbal and written communication skills—documentation skills mandatory
+Good diagnostic expertise including problem investigation, root-cause analysis, and resolution skills
+The desire and ability to see a problem through to a complete solution
+The ability to quickly acquire new skills and thrive in a team-based environment. Datto is willing to train, but you must bring a passion to learn!
+The ability to effectively manage time and push multiple projects at once
+Being willing to travel on a limited basis and having on-call responsibilities
+
+At Datto we believe YOU are our greatest strength! We know that exceptional results rarely come from ordinary effort and our work hard, play hard attitude creates an atmosphere where you can do your life’s work. Be inquisitive! Be irreverent! Be bold! Datto believes in building a foundation that helps each other succeed. We are a team that respects and trusts each other and we do the right thing by putting our customers first. We also believe in work life balance. Go on a vacation using your unlimited time off. Sign up for a class on us with our education reimbursement program. Try that new gym everyone’s been talking about. We’ll help with our fitness reimbursement program. To see our full listing of open positions check out datto.com/careers today!As a Data Engineer on the Data Analytics team you'll provide necessary intelligence to the rest of the company that will enable making better product decisions. You'll make use of the latest advances in large scale data processing, machine learning, and data visualization to uncover insights in data. You’ll be part of the data engineering team, working on some of the most interesting datasets with a world-class team of engineers towards the mission of enabling data-driven products and insights at Pinterest.
+
+What you’ll do:
+
+Build scalable OLAP backend storage for data in PB scale.
+Build robust data pipelines that collect, process, and compute business metrics from activity data using Spark
+Work with business analysts and data engineers to build new analysis tools and metrics for measuring product engagement
+
+What we're looking for:
+
+Minimum 3 years of industry experience
+Degree in computer science, machine learning, or statistics
+Extensive programming experience in Python/Scala/Java
+Extensive experience with one or more of the follow frameworks. (Spark, Druid, Hadoop, HBase, Kafka)
+
+#LI-VW1Who We Are:
+Do you crave innovation? At Bandwidth, we live for it. We power some of the most exciting brands and technology on the internet with our developed products in intelligent voice, messaging, 9-1-1 access, and phone number services—backed by Bandwidth's own nationwide, all-IP voice network. Simply changing the way people communicate, connect and do business.
+
+What We Are Looking For:
+We are looking for a Data Engineer (Data Warehouse) who has the passion for data and data technologies to join our Data Services Team. As a member of this team, you will play a key role in building innovative data solutions and help take our applications to the next level. You will be given diverse responsibilities with the freedom and the potential to make an immediate impact as well as contributing to a larger project initiative to build out our big data platform.
+
+What You'll Do:
+
+Maintain and manage backend database systems to meet application uptime and performance
+Participate in design and development of data pipelines for data warehouse using ETL tools
+Provide DB support to development teams during the development phase
+Collaborate and work closely with the team in building big data platform on Hadoop.
+Safeguarding of company confidential data through appropriate IT security
+
+What You Need:
+
+B.S. in Computer Science/Engineering or equivalent relevant experience.
+Strong CS fundamentals and problem-solving skills
+Experience with extract-transform-load (ETL) Tools
+Strong experience in building scalable ETL/ELT pipelines using ETL Tools
+Experience working with relational databases such as MariaDB/MySQL, PostgreSQL
+Strong expertise in writing SQL code
+Experience in designing and building reports & visualizations using BI tools
+Familiarity with DB administration
+Experience working with large and complex data sets with multi-terabyte scale
+Must be a team player with positive attitude and ability to collaborate effectively
+
+Extra Credit:
+
+Familiarity with Hadoop ecosystem
+Experience with Amazon Web Services (Redshift, S3, EMR), Kafka
+Familiarity with NoSQL database systems
+Interests in Machine Learning
+
+The Whole Person Promise:
+We make a “Whole Person” promise to our team. You can have both meaningful work PLUS a full life at Bandwidth. We focus on accomplishing our mission as “whole people.” That means we take care of our people—in body, mind, and spirit.
+
+
+Health: We pay 100% for benefits coverage including Medical, Dental, Vision, Prescription, Life, and Disability. Corporate chaplains, EAP and 401K match.
+Fitness: 90-minute fitness lunch with a paid gym membership with shuttle service available for workouts. On-site cardio gym, locker room/showers, classes, and sponsored sports and leagues. Nutritionist and personal trainer on-site.
+Volunteer: We have a program dedicated to providing volunteer opportunities to employees, Bandwidthcares.
+
+A Little About Us:
+LendingTree was founded in 1996 by CEO Doug Lebda to help people comparison shop and get a great deal on the single biggest transaction of their lives: their mortgage. Since then, we’ve facilitated over 65 million loan requests, while becoming a household name and today we do much more than mortgages. We are the #1 online marketplace in the US for consumers to comparison shop for mortgages, personal loans, credit cards, student loans, auto loans and insurance.
+
+Headquartered in Charlotte, North Carolina and with offices in the Bay Area, Chicago, New York City, and Charleston –we’re looking for talented individuals that will continue making great products and increase our technology footprint.
+
+A sample of what you might be doing:
+Interested in building a world class CRM platform? Want to be a part of the solution rather than just a service to business?
+
+This role will provide a direct opportunity to work with marketing team and impact customer experience as the team executes communication and personalization via email and other channels. Building 360 CRM platform means integrating every app through which users communicate with LendingTree and partner systems. The role will involve creating and using API’s and Big Data Technologies -Kafka, Nifi, Spark, HBASE, Hive and Pig to build streaming data pipes into the customer platform
+
+Requirements:
+
+3+ yrs. of professional software engineering experience
+Computer Science or related degree
+Proven track record of delivering data-driven solutions
+Well-rounded engineer, with strong object-oriented design and data modeling skills
+Hands-on experience with Kafka, Nifi, Spark, HBASE, Hive, Pig, and Scala
+Effective communication skills, both written and verbal
+
+Why LendingTree?
+
+
+Chance to work with top Software Engineers with a focus for all things tech – Our DevOps team includes a member who literally wrote the book on Ansible and IT Automation and our staff also includes a resident IoT expert with IMDB credit to his name.
+Unique entrepreneurial environment. We’re a start-up company in a publicly traded suit Read: we have a lot of fun and can afford the grown-up toys.
+We’re making a real difference in the financial lives of millions of consumers. The work we do here matters.
+Dress code – we don’t have one. (Flip flops, shorts, jeans… whatever.)
+We don't even keep track of how many paid vacation days you take! (of course, your manager's approval is needed before you take off on that family vacation.)
+
+This is an opportunity for full-time employment. Please no third parties or Corp to Corp.-----------------------------------------------------
+Calling all Bay Area engineers passionate about data!
+-----------------------------------------------------
+
+We are looking for an experienced developer working mostly in AWS (EMR), Spark, Python, and Airflow. This engineer will take part in developing and testing various ETL applications. Building these applications requires team work, and to deliver these solutions, the engineer will collaborate with an interdisciplinary team of experts in machine learning, data visualization & design, business process optimization, and software engineering. Candidates for this role should have extensive knowledge and experience working with Spark using Airflow, Python, Jinja templating, AWS EMR, AWS S3, AWS CLI. Ideally, this person also has the ability to tune the ETL applications under various conditions using Spark.
+
+As an early member of the Noodle.ai Data Engineering team, this engineer will work closely with senior leadership and will have an important impact on shaping the future of the product, the culture, the company, and the many industries that will be reshaped by the emergence of Enterprise AI. We have an adventure ahead, and we are going to have a lot of fun along the way!
+
+The results we are working towards:
+-----------------------------------
+
+
+Write custom ETL applications using Spark in Python/Java that follow a standard architecture.
+Success will be defined by the ability to meet requirements/acceptance criteria, delivery on-time, number of defects, and clear documentation.
+Perform functional testing, end-to-end testing, performance testing, and UAT of these applications and code written by other members of the team.
+Proper documentation of the test cases used during QA will be important for success.
+Other important responsibilities include clear communication with team members as well as timely and thorough code reviews.
+As you grow in the role, you will have the opportunity to contribute to designing of new applications, setting/changing standards and architecture, and deciding on usage of new technologies.
+
+What you need to bring to the table:
+------------------------------------
+
+Skills
+------
+
+
+Linux – common working knowledge, including navigating through the file system and simple bash scripting
+Hadoop – common working knowledge, including basic idea behind HDFS and map reduce, and hadoop fs commands.
+Spark – how to work with RDDs and Data Frames (with emphasis on data frames) to query and perform data manipulation.
+Python/Java – Python would be ideal but a solid knowledge of Java is also acceptable.
+SQL
+Source Control Management Tool - We use BitBucket
+
+Experience
+----------
+
+
+Worked/developed in a Linux or Unix environment.
+Worked in AWS (particularly EMR).
+Has real hands-on experience developing applications or scripts for a Hadoop environment (Cloudera, Hortonworks, MapR, Apache Hadoop). By that, we mean someone who has written significant code for at least one of these Hadoop distributions.
+Has experience with ANSI SQL relational database (Oracle, SQL, Postgres, MySQL)
+
+Mindset
+-------
+
+
+Intellectual curiosity! We are always noodling on new problems. If you see yourself as a life-long learner who enjoys tackling new challenges, learning about new approaches and tools in your area of expertise, and learning from an interdisciplinary team that encourages you to stretch outside your comfort zone... you will find a home here : )
+Passion. (What does this mean? To us, this means you care deeply about making an impact. You take ownership of your projects and bring a "founder's mentality" to your work.)
+
+Cool stuff you get to do in this role:
+--------------------------------------
+
+
+Build applications that process hundreds of gigabytes to terabytes of data, some in real-time and near real-time.
+Opportunities to POC new techniques and tools/technologies.
+Work in an open, collaborative environment in a really cool office in down-town San Francisco or Palto Alto.
+
+Want to help shape the future of Enterprise Artificial Intelligence?
+
+Let’s noodle.At Volusion, we make products that people love. Our teams are dedicated to providing SaaS ​e​commerce solutions and services for all business types, from startups to well-established companies. If you're a creative professional who loves working with teams, has a passion for driving positive change and wants to better the world with your ​ideas, we want to hear from you!
+
+The rundown:
+As a Data Engineer, you will assist in the development of data warehouse information architecture on both Google Cloud BigQuery and Microsoft SQL Server, optimize SQL performance, and provide operational support to our high availability Microsoft SQL Server Warehouse infrastructure. An ideal candidate will be a proficient warehouse developer versed in data integration services development, report development, data analysis, and database administration.
+
+You will:
+
+Assist in building and maintaining data warehouse data integrations leveraging both MS SQL Integration services and Python technologies
+Assist in the development of BigQuery Data Model
+Develop and Optimize SQL Queries leveraged by existing integration services ,reporting processes and data analysis reports
+Develop dashboards and visualizations for ongoing measurement and KPIs.
+Plan for non-transactional data storage for reporting and analytics
+Database Schema design and data flow architecture planning
+Maintain current reports in existing reporting platforms
+Profile source system data as needed to provide feedback for business requirements
+Analyze and verify Data Warehouse data
+Assist in the design, build and maintenance of SSAS cubes
+
+We are looking for someone with:
+
+MUST be a team player with excellent oral and written communication skills
+Bachelor’s degree in Computer Science or Engineering
+SQL Skills for data analysis is a strong must have
+2+ Years Microsoft SQL Server Integration Services development or similar Extract Transform Load development
+2+ years of experience Microsoft SQL Server database administration
+2+ years of experience with Python 2.7 or 3.x
+Strong experience with performance optimization and tuning with database applications is a MUST
+Python Scripting and .NET knowledge preferred
+Familiarity with Cloud Services. Google Cloud Platform (GCP) and the GCP Data Services experience is a plus
+Git experience is also a plus
+Highly organized, self-starter with an eye for detail who can maintain multiple ongoing projects simultaneously
+
+Who is also the embodiment of our culture code ( https://culture.volusion.com/ ) (we hope you are nodding your head in agreement as you browse through it!):
+
+
+Humble: Have humility and be respectful; no egos allowed.
+Effective: Get stuff done!
+Adaptable: Willing to fill any role, anytime. Going above/beyond the call of duty.
+Transparent: Open and honest to self and others.
+A founder: Think big, go fast and solve for the customer.
+
+Benefits & Perks:
+
+Competitive compensation packages
+Medical, Dental, Vision, and Voluntary Life Insurance
+Flexible Paid Time Off
+401(k) with Company Matching
+Paid Parental Leave
+On-site Fitness and Yoga Classes
+Casual Dress and Beer Fridays
+Endless Supply of Coffee and Snacks
+Two Volunteer Days Off
+Bring Your Dog to Work Days
+Chair Massages
+Team Sports and Team Outings
+
+Data Engineer - Analytics - 18123100
+
+Hill-Rom is a $2.7B leading worldwide manufacturer and provider of medical technologies and related services for the health care industry, including patient support systems, safe mobility and handling solutions, non-invasive therapeutic products for a variety of acute and chronic medical conditions, medical equipment rentals, surgical products and information technology solutions. Hill-Rom's comprehensive product and service offerings are used by health care providers across the health care continuum and around the world in hospitals, extended care facilities and home care settings to enhance the safety and quality of patient care.
+
+Description
+
+The QA/RA Engineer - Metrics will manage key corporate metrics to drive business decisions and implement sound data-driven business solutions with an emphasis on quality system compliance. The primary function is to lead Hill-Rom’s global efforts to collect, analyze, and track the resolution of key data related to entity quality and performance indicators by interfacing with key business partners across the corporation. The incumbent will manage a dashboard of Key Performance Indicators for Executive Management that provides consistent timely analysis and publication of quality and key performance indicator metrics. Trend analysis will be performed to identify and mitigate critical quality issues along with the corresponding level of risk. The incumbent will promote a culture that Quality Matters to everyone in the corporation.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES – Other duties may be assigned:
+Manage the evaluation of quality systems to determine how metrics and measures can be used to drive business decisions.
+Provide leadership to monitoring and analyzing key elements of quality performance to identify product and process quality trends, quality system integrity and compliance with internal, as well as external standards and guidelines. Intervene when necessary to implement solutions and drive continuous improvement.
+Lead the Quality Improvement Program for Hill-Rom including identifying state-of-the-art quality standards and practices; quality system planning and implementation; and influencing strategic planning.
+Manage defined KPI’s/other metrics to identify process efficiency and improvement items.
+Coordinate Executive Management Review and quality scorecards.
+Recommend goals and objectives for quality performance as part of annual and long range business plans.
+Manage a set of best practices on what Hill-Rom should consider when defining quality system outcomes/best practices based on proven successes within the medical device industry.
+Lead the review of quality process issues and determine the best solution approach using a combination of people training, transformation, process updates, service improvements or technology changes.
+Provide oversight to the development of queries and reports from various data sources and data warehouse activities.
+Ensuring standardization, harmonization and reuse of information across the global corporation.
+Support the escalation process when compliance issues cannot be resolved at the local level.
+Provide training and support to department staff and business users on the use of metrics.
+#INDHR
+
+Qualifications
+
+Must possess sound knowledge of analytical data interpretation and trending tools.
+Must be articulate in both verbal and written communication skills, including strong questioning and listening skills and ability to look beyond obvious answers and understand the impact on other areas.
+Ability to understand and apply mathematical concepts especially as they relate to statistics and trending.
+Ability to define problems, collect data, establish facts, and draw valid conclusions.
+Proven presentation skills are required.
+Must be adept at independent decision-making.
+Strong leadership skills, strong interpersonal skills, and the ability to deal effectively with system users, is required.
+Strong data analysis skills and creativity in identifying new opportunities and evaluating alternatives is required.
+The proven ability to prioritize and manage multiple projects and meet deadlines is required.
+Must have the capability of developing effective working relationships with staff at all levels in the organization.
+Willing to travel (5%-10%) as business responsibilities require.
+
+EDUCATION AND/OR EXPERIENCE:
+Bachelors degree in a business or technical discipline or relevant experience
+Knowledge of Quality Systems, Business Process Management and Process Improvement is preferred.
+Experience in statistical analysis is required (the ability to understand and apply data to the business is extremely important).
+Experience with the creation and ability to influence business processes using KPIs and metrics is required.
+Must be capable of working on several projects concurrently under tight deadlines and be able to prioritize to meet organizational goals, with attention to regulatory requirements.
+Demonstrated proficiency with Microsoft systems (Excel, PowerPoint, Word, Access, Project, SharePoint); Cognos BI; Minitab; SAP and JD Edwards is preferred
+
+Hill-Rom is an equal employment employer F/M/Disability/Vet/Sexual Orientation/Gender Identity
+
+Job: Quality
+
+Primary Location: United States-Indiana-Batesville
+
+Other Locations: United States-Illinois-Chicago, IL
+
+Schedule: Full-time
+
+Travel: Yes, 10 % of the Time
+
+Posting Entity: Hill-RomLAN/WAN Data Engineer in Denver, CO.
+
+General Purpose and Scope:
+You are authentic, like working with people and love technology. As an experienced engineer you will be a key member of our wide area network deployment team with focus on insuring our data core which carries our entire customer base traffic. Our wireless network is complicated with 2G/3G/4G technologies running in multiple countries and your job will be to ensure that our wide area network data core which carries all of our customer’s traffic is as efficient and as fault tolerant as possible. Our customers like their data service to be fast and always on and it will be your responsibility to make sure that they are delighted with our service. Big part of this job is troubleshooting at the routing and switching level, and the ability to come up with creative solutions so if you like wearing your thinking cap this job might be for you.
+
+Duties and Responsibilities
+Design and implementation of core to edge network architecture and routing protocols on Juniper platforms.
+Operational Support of Data Network including troubleshooting routing and switching issues
+LAN/WAN Responsibilities including IP address management and documentation
+Engineering for growth and sustainability of the network.
+Education and training of other individuals within the company regarding network routing.
+Engineering and support of other systems supported by the Data Network Organization.
+Analysis for root cause determination of issues including recommendations for improvements.
+Write, review, and implement Methods of Procedure.
+Working directly with equipment vendors
+Other duties as assigned by management.
+
+Minimum Job Entry Requirements
+Bachelor’s degree in related field and 2 years of experience; or Associates Degree and at least 3 years work experience in related field or equivalent related work experience.
+Knowledge of Juniper networks gained through relevant experience, vendor training, and/or college or technical/vocational school coursework.
+Proficient in understanding of TCP/IP and routing protocols to include BGP and MPLS.
+Strong computer skills; proficient in MS Office.
+Strong analytical skills to resolve problems.
+Strong oral and written communication skills to coordinate repair efforts and prepare reports.
+Strong interpersonal skills to coordinate efforts effectively between multiple groups.
+Ability to manage multiple tasks in a fast paced environment.
+Self starter with attention to detail and ability to maintain focus over long periods of time.
+Ability to work on call support as needed.
+
+
+Desired Qualifications
+Previous experience as Data Network Engineer.
+Experience with SNMP
+Experience with Mobile IP, and L2TP
+Certifications: (JNCIA, JNCIS, JNCIP, etc)
+Working exposure to wireless data network deployment.
+Experience with some of the following standards & protocols: MEF, Ethernet, BGP, IBGP, OSPF, QoS, CoS, MPLS, VRF, VLANS, and VPNs
+Experience with mobile wireless protocols, specifically CDMA, GSM, LTE, or IS-835At Volusion, we make products that people love. Our teams are dedicated to providing SaaS ​e​commerce solutions and services for all business types, from startups to well-established companies. If you're a creative professional who loves working with teams, has a passion for driving positive change and wants to better the world with your ​ideas, we want to hear from you!
+
+The rundown:
+As a Data Engineer, you will assist in the development of data warehouse information architecture on both Google Cloud BigQuery and Microsoft SQL Server, optimize SQL performance, and provide operational support to our high availability Microsoft SQL Server Warehouse infrastructure. An ideal candidate will be a proficient warehouse developer versed in data integration services development, report development, data analysis, and database administration.
+
+You will:
+
+Assist in building and maintaining data warehouse data integrations leveraging both MS SQL Integration services and Python technologies
+Assist in the development of BigQuery Data Model
+Develop and Optimize SQL Queries leveraged by existing integration services ,reporting processes and data analysis reports
+Develop dashboards and visualizations for ongoing measurement and KPIs.
+Plan for non-transactional data storage for reporting and analytics
+Database Schema design and data flow architecture planning
+Maintain current reports in existing reporting platforms
+Profile source system data as needed to provide feedback for business requirements
+Analyze and verify Data Warehouse data
+Assist in the design, build and maintenance of SSAS cubes
+
+We are looking for someone with:
+
+MUST be a team player with excellent oral and written communication skills
+Bachelor’s degree in Computer Science or Engineering
+SQL Skills for data analysis is a strong must have
+2+ Years Microsoft SQL Server Integration Services development or similar Extract Transform Load development
+2+ years of experience Microsoft SQL Server database administration
+2+ years of experience with Python 2.7 or 3.x
+Strong experience with performance optimization and tuning with database applications is a MUST
+Python Scripting and .NET knowledge preferred
+Familiarity with Cloud Services. Google Cloud Platform (GCP) and the GCP Data Services experience is a plus
+Git experience is also a plus
+Highly organized, self-starter with an eye for detail who can maintain multiple ongoing projects simultaneously
+
+Who is also the embodiment of our culture code ( https://culture.volusion.com/ ) (we hope you are nodding your head in agreement as you browse through it!):
+
+
+Humble: Have humility and be respectful; no egos allowed.
+Effective: Get stuff done!
+Adaptable: Willing to fill any role, anytime. Going above/beyond the call of duty.
+Transparent: Open and honest to self and others.
+A founder: Think big, go fast and solve for the customer.
+
+Benefits & Perks:
+
+Competitive compensation packages
+Medical, Dental, Vision, and Voluntary Life Insurance
+Flexible Paid Time Off
+401(k) with Company Matching
+Paid Parental Leave
+On-site Fitness and Yoga Classes
+Casual Dress and Beer Fridays
+Endless Supply of Coffee and Snacks
+Two Volunteer Days Off
+Bring Your Dog to Work Days
+Chair Massages
+Team Sports and Team Outings
+
+Data Engineer - Analytics - 18123100
+
+Hill-Rom is a $2.7B leading worldwide manufacturer and provider of medical technologies and related services for the health care industry, including patient support systems, safe mobility and handling solutions, non-invasive therapeutic products for a variety of acute and chronic medical conditions, medical equipment rentals, surgical products and information technology solutions. Hill-Rom's comprehensive product and service offerings are used by health care providers across the health care continuum and around the world in hospitals, extended care facilities and home care settings to enhance the safety and quality of patient care.
+
+Description
+
+The QA/RA Engineer - Metrics will manage key corporate metrics to drive business decisions and implement sound data-driven business solutions with an emphasis on quality system compliance. The primary function is to lead Hill-Rom’s global efforts to collect, analyze, and track the resolution of key data related to entity quality and performance indicators by interfacing with key business partners across the corporation. The incumbent will manage a dashboard of Key Performance Indicators for Executive Management that provides consistent timely analysis and publication of quality and key performance indicator metrics. Trend analysis will be performed to identify and mitigate critical quality issues along with the corresponding level of risk. The incumbent will promote a culture that Quality Matters to everyone in the corporation.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES – Other duties may be assigned:
+Manage the evaluation of quality systems to determine how metrics and measures can be used to drive business decisions.
+Provide leadership to monitoring and analyzing key elements of quality performance to identify product and process quality trends, quality system integrity and compliance with internal, as well as external standards and guidelines. Intervene when necessary to implement solutions and drive continuous improvement.
+Lead the Quality Improvement Program for Hill-Rom including identifying state-of-the-art quality standards and practices; quality system planning and implementation; and influencing strategic planning.
+Manage defined KPI’s/other metrics to identify process efficiency and improvement items.
+Coordinate Executive Management Review and quality scorecards.
+Recommend goals and objectives for quality performance as part of annual and long range business plans.
+Manage a set of best practices on what Hill-Rom should consider when defining quality system outcomes/best practices based on proven successes within the medical device industry.
+Lead the review of quality process issues and determine the best solution approach using a combination of people training, transformation, process updates, service improvements or technology changes.
+Provide oversight to the development of queries and reports from various data sources and data warehouse activities.
+Ensuring standardization, harmonization and reuse of information across the global corporation.
+Support the escalation process when compliance issues cannot be resolved at the local level.
+Provide training and support to department staff and business users on the use of metrics.
+#INDHR
+
+Qualifications
+
+Must possess sound knowledge of analytical data interpretation and trending tools.
+Must be articulate in both verbal and written communication skills, including strong questioning and listening skills and ability to look beyond obvious answers and understand the impact on other areas.
+Ability to understand and apply mathematical concepts especially as they relate to statistics and trending.
+Ability to define problems, collect data, establish facts, and draw valid conclusions.
+Proven presentation skills are required.
+Must be adept at independent decision-making.
+Strong leadership skills, strong interpersonal skills, and the ability to deal effectively with system users, is required.
+Strong data analysis skills and creativity in identifying new opportunities and evaluating alternatives is required.
+The proven ability to prioritize and manage multiple projects and meet deadlines is required.
+Must have the capability of developing effective working relationships with staff at all levels in the organization.
+Willing to travel (5%-10%) as business responsibilities require.
+
+EDUCATION AND/OR EXPERIENCE:
+Bachelors degree in a business or technical discipline or relevant experience
+Knowledge of Quality Systems, Business Process Management and Process Improvement is preferred.
+Experience in statistical analysis is required (the ability to understand and apply data to the business is extremely important).
+Experience with the creation and ability to influence business processes using KPIs and metrics is required.
+Must be capable of working on several projects concurrently under tight deadlines and be able to prioritize to meet organizational goals, with attention to regulatory requirements.
+Demonstrated proficiency with Microsoft systems (Excel, PowerPoint, Word, Access, Project, SharePoint); Cognos BI; Minitab; SAP and JD Edwards is preferred
+
+Hill-Rom is an equal employment employer F/M/Disability/Vet/Sexual Orientation/Gender Identity
+
+Job: Quality
+
+Primary Location: United States-Indiana-Batesville
+
+Other Locations: United States-Illinois-Chicago, IL
+
+Schedule: Full-time
+
+Travel: Yes, 10 % of the Time
+
+Posting Entity: Hill-RomThe Data Engineer will collect and manage the data we receive from the field including casinos.
+
+Job Responsibilities:
+---------------------
+
+
+Builds and maintains ETL systems
+Collects and reviews the data from Native American tribes and makes changes to the data as needed
+Gathers, cleans, imports, and manages our performance data
+Enhances data collection procedures to include information that is relevant for building analytic systems
+Munges the data from a lot of data sources including processing, cleansing, and verifying the integrity of data used for analysis
+Builds a roadmap for the tools and processes we will use to manage our data as it grows exponentially
+Integrates new sources of data, such as competitive, geographic, weather, and calendar data
+
+Qualifications:
+---------------
+
+
+BS in Computer Science or Equivalent degree
+Solid knowledge of statistics including familiarity with statistical tests, distributions, maximum likelihood estimators, etc.
+Proficiency in using SQL
+Previous ETL and data integration experience
+Experience with Python or other scripting language
+Comfortable in a windows environment
+Excellent organizational and communication skills; must be detail oriented
+Occasional travel to various locations as needed
+Excellent skills in articulating ideas and information to clients in a clear manner
+High ethical standards and integrity
+Team player with high-performance standards
+
+Preferred Qualifications:
+-------------------------
+
+
+1-3 years of experience as a Data Engineer
+Strong customer service/support experience via phone, email, and in-person
+
+We, at Flywire, are looking for a smart, analytical thinker who’s excited to empower data-driven decision making at an exciting and fast-growing organization! As our Data Engineer, you will work within the Data Analytics team to ensure that our organization has access to reliable, accurate, and timely data to be used in various reporting, business intelligence, and analytical solutions. Great data aptitude is a must for this role, but we’re also looking for someone that’s willing to work across Flywire teams to understand real business problems and design solutions that will ultimately provide insights into the performance of the company, improve process efficiencies, and contribute to our company’s ability to provide a world-class cross-border payment solution
+
+Key responsibilities:
+
+Own the maintenance and ongoing development of Flywire’s analytical data infrastructure
+Develop production-grade data pipelines and ETL processes to support analytics projects, business intelligence reporting, and machine-learning solutions
+Continuously identify and implement data process improvements (e.g., optimize data delivery, re-design for scalability, implement testing and alerting systems to assure data quality, etc.)
+Own maintenance of documentation and data dictionaries for various internal data sources
+
+Minimum Qualification Criteria:
+
+BS in Computer Science, Mathematics, or related field
+5+ years of experience of data engineering, database administration, or related work
+Experience with AWS/Amazon Redshift and/or Google Cloud Platform is required
+Experience in building data extraction and manipulation scripts in Python
+General understanding of the broader data landscape, trends, and emerging technologies
+Hunger and excitement for learning new tools and techniques
+Excellent problem-solving skills: You may not know the solution to all the problems you’ll face, but you have the ability to research available technologies/strategies and figure out a solution or a path forward
+Strong communication skills: You can make even the most complex data and technical problems easy to comprehend
+
+Preferred Criteria:
+
+Experience in Business Intelligence development (Tableau, Looker, etc.)
+Demonstrated ability of building streaming data applications
+Practical understanding of classification, regression, and other statistical methods
+Familiarity with Apache Spark
+Proficiency with Spanish
+
+Flywire is an equal opportunity employer.LearnVest is redefining the American approach to personal finance. Our planners leverage financial technology to create simple, affordable, realistic plans for anyone who wants to feel confident about their money and optimistic about the future.
+
+Since launching in 2010, LearnVest has been one of the premier financial technology companies in the country, helping thousands of people make progress on their financial goals. LearnVest was acquired by Northwestern Mutual in 2015 and is now scaling its technology and personal finance approach to help millions of people across both the LearnVest and Northwestern Mutual brands.
+
+About the role:
+We’re looking for data fanatics to join a S.W.A.T. Team of engineers that are responsible for building both LearnVest’s and Northwestern Mutual’s data infrastructure. We need people who understand data at a granular level – they don’t rely on any one tool but rather understand them all, and each of their pros and cons. This is a unique opportunity to build the data strategy and architecture of a Fortune 100 company while sitting 10 feet away from a beer fridge with your dog.
+
+The more boxes you check, the higher the chances of us buying you lunch:
+
+
+You thrive in any data environment:
+Cloud – we use AWS
+Someone who understands complex data and the challenges of accessing it
+A real bottom-line person, not someone who throws terms like “big data” around because it’s popular
+Hadoop or traditional/relational databases make no difference to you
+You dream in code:
+SQL (seriously, SQL – not just SQL queries; impress us). Teach us something new, show us what you’ve got
+Python
+Scala
+Spark
+You know databases inside and out:
+Database concepts – indexes, execution engines, etc
+Database Administration experience (Redshift, MySQL/PostgreSQL, Oracle)
+You understand that databases are an integral part of being a Data Engineer
+You enjoy looking at and solving big picture problems:
+No micromanaging or hand-holding - you like to ask questions and devise a complete solution
+You want to understand the data (not only the pipes) and you can definitely perform some analytics and build dashboards because you like it. Yes really, because you do.
+You love learning new things:
+You know that you don’t know enough, and it bothers you that there isn’t enough time in the day to learn about the next topic.
+You’re up-to-date on new trends in data – you know who’s using what to solve various problems and are excited for the next release of your favorite tool
+If you like being thrown in the deep end of the pool, this team’s for you.
+You take it personally:
+You don’t sleep well at night when you leave work with a question unanswered
+You feel accountable for everything you do and that sense of urgency has been driving you your entire life
+You work hard but play harder:
+You like to have a good time while getting things done
+When we say a “team player” we mean it - you have a crisp high-five and funny stories to tell
+You have your team’s back. And the team has yours.
+Sense of humor is a must-ash. (Mustache… Get it? Mustache.)
+
+Benefits:
+
+Fully stocked snacks, beer fridge, cold brew kegs, frequent catered lunches, company dodgeball team, and whiskey hours
+Tuition reimbursement, commuter plans, and paid time off
+Highly competitive compensation that include base salary plus bonus
+Medical/Dental/Vision plans, Matching 401(k), pension program
+
+PeerStreet is an award-winning, Andreessen-Horowitz backed, platform focused on democratizing access to real estate debt. What we’re working on at PeerStreet will ultimately change mortgage finance! PeerStreet is a leading online platform for investing in real estate backed loans (www.PeerStreet.com).
+
+PeerStreet is strongly data-driven. Data is the foundation of our operational processes, ranging from loan underwriting, lender acquisition, loan servicing, to product decision making. Having access to high quality data, internal and external, allows us to continuously optimize our operations and maintain great insights into how we can continue to improve product on both sides of the marketplace.
+
+We are looking for a highly talented data engineer with a strong technical background and one who is passionate about engineering elegant solutions to data problems and creating an environment that allows users to dive deep into financial and user data with cutting-edge analytics and data insights. You will have a huge impact on defining and implementing PeerStreet’s data strategy. Your day-to-day will involve close collaboration with Engineering, Product, and Business organizations.
+
+-----------------
+
+Responsibilities:
+-----------------
+
+
+Work closely with product managers, engineers and business stakeholders to become a source data expert.
+Develop and optimize ETL processes to meet the growing business needs.
+Define technical requirements and data architecture for the underlying data warehouse.
+Collaborate with subject matter experts across different business units to design, implement and deliver insightful analytic solutions.
+Improve and maintain data access for our BI tools (Periscope, Tableau)
+Automate data quality monitoring and improve auditing capabilities.
+
+-------------
+
+Requirements:
+-------------
+
+
+Bachelor’s Degree or greater (technical or science degree preferred).
+3+ years of backend or data engineering experience.
+Knowledge of data warehousing concepts
+Experience with scalable architectures and large data processing.
+Expert understanding of SQL, RDBMS, and data modeling for scalability and performance.
+Experience in ETL, data mining, and using databases in a business environment with large scale and complex datasets.
+Practical knowledge of Linux or Shell Scripting
+Proficiency in a leading programming language (Ruby, Python, Java, etc)
+Excellent communication ability
+Authorization to work in the United States without sponsorship.
+
+-------------
+
+Bonus Points:
+-------------
+
+
+Experience with Redshift, Pentaho, RoR, or Salesforce
+Experience with BI systems (Periscope, Tableau, etc)
+Experience with AWS Infrastructure
+Experience or deep knowledge in finance
+
+We offer a competitive salary & equity, medical, flexible vacation and an awesome team.
+
+PeerStreet is an online investment platform for investing in real estate debt. Founded by real estate attorney, Brew Johnson and former Google executive, Brett Crosby, PeerStreet allows investors to easily invest in high-yield real estate loans that were historically difficult to access. We recently closed a $29.5 million Series B ( https://www.businesswire.com/news/home/20180405005930/en/PeerStreet-Raises-29.5-Million-Transform-Real-Estate )and have received several favorable mentions in the press ( http://info.peerstreet.com/news ).At Mic we like to make informed data-driven decisions, and our data ingestion pipeline is crucial in guiding business strategy. We collect billions of data points across many platforms, use cutting-edge tools, cleanse, transform, and then aggregate this data. We use analytics for understanding our users, creating business-side reports, and fueling our recommendation engines. We are looking for someone capable of handling our ingestion pipeline from start to finish, who can make quick and informed decisions about software and architecture choices, and who is detail-oriented. This person will also head-up new data-product initiatives to get the maximum value out of our data.
+
+You:
+
+know Scala well
+have 4+ years professional data engineering experience
+have experience with the AWS ecosystem
+have experience with big-data technologies such as Spark
+have experience working with no/SQL-based databases (MySQL and Redshift)
+have tried many technologies/frameworks and can quickly evaluate a new one
+
+We:
+
+are a small, dedicated product and engineering team (12 people), so your work will make a big impact on our stack and code base
+have a transparent, collaborative and efficient process for developing products
+open-source often (https://github.com/micnews ( https://github.com/micnews ))
+take code reviews and pull requests seriously
+iterate constantly and insist on cross-functional collaboration at every stage of the product life-cycle
+avoid useless meetings and make work/life balance a priority
+
+Nice to haves:
+
+experience with analytics and data visualization
+experience with content recommendation
+experience with Python and Javascript
+experience with Docker
+experience working with remote employees
+
+Mic reaches a monthly audience of 50 million with original reporting on the most important issues and diverse perspectives that challenge conventional thinking and give voice to the underrepresented. We consider Mic the leading digital news company for society’s Change Makers, who most influence and impact the world.Overview
+
+As a Data Engineer on the Data team you'll provide intelligence to the rest of the company that will enable making better product decisions. You'll work directly with the CTO to pioneer use of the latest advances in large scale data processing, machine learning, and data visualization to uncover insights in data. You’ll also lay the foundation for what will become one of the largest enthusiast product databases in the world by combining user contributions, web scraping, and clever data pipelines. You’ll live at the intersection of data, engineering and product and build the road the rest of the company will travel on.
+
+Here's what you'll do as part of the team:
+
+Build scalable backend storage for all types of data streams
+Build robust data pipelines that collect, process, and compute business metrics from activity data
+Work with data analysis, product managers, and full stack engineers to build new analysis tools and metrics for measuring product engagement
+Translate ML-based recommendation processes into robust, user-facing production API’s
+
+And here are the skills and experience you'll need to be successful:
+
+
+Minimum 3 years of industry experience
+Bachelor’s Degree or higher in Computer Science, Machine Learning, or Statistics or equivalent experience.
+Great Python skills, Scala and Java a huge plus
+Extensive experience with one or more of the follow frameworks. (Spark, Druid, Hadoop, HBase, Kafka, Sagemaker)
+Experience with MySQL, Postgres or equivalent relational database. Redshift, Vertica or other column stores a huge plus
+
+Who We Are
+
+Massdrop puts community first. We create high-quality, custom gear, apparel, and products inspired and designed by our online communities. We provide over 5 million members a place to connect, discuss, buy products together, and learn about the things that are important to them.
+
+The engineering team contains of a number of seasoned developers who have scaled web apps beyond 10M daily active users. We have seen a lot of what doesn’t work in our past engineering teams and distilled the right practices and processes to ensure a healthy, sane, and efficient work environment. We’re all about quality engineering, not big egos; the best ideas win here.
+
+If this sounds like the right environment for you to continue your software engineering career, then please submit an application. We’d love to talk with you!----------
+Background
+----------
+
+Before new medical treatments can be administered to the public, they must demonstrate safety and efficacy in a clinical trial. These trials protect consumers from ineffective and dangerous products, but the clinical trial process also presents a tremendous bottleneck in delivering life-saving treatments to patients.
+
+A typical trial involves coordinating between numerous parties and data formats to gather, store, analyse, and audit clinical data. Mistakes and delays are common, and fewer than 10% of trials finish on time. At Trialspark, we are reimagining the clinical trial process from first principles, and building the technology platform for the trial of the future.
+
+So far, we’ve worked with treatments for Ebola, Depression, and HIV. Our reach is growing rapidly, and building a world class engineering team is core to achieving our mission.
+
+---------------
+Job Description
+---------------
+
+As a data engineer at Trialspark, you will take ownership for building infrastructure to support data needs across the company. You will have exposure to and impact on operations, product, and data problems that are critical to Trialspark’s mission.
+
+Core responsibilities will include building data infrastructure, revamping ETL processes, aggregating and structuring data, integrating both internal and external data sources, monitoring the performance and quality of data feeds (taking a lead role in any necessary infrastructure changes), defining data retention policies and building out real time feeds to support model development and implementation. You will also design and automate necessary processes to maintain availability and accuracy in data systems.
+
+Your work will impact and drive many of the following projects:
+
+
+A state-of-the-art clinical data capture platform to power end-to-end trials
+Growth tools to support and guide our trial site expansion
+Medical protocol data ingestion and management tool to support a growing number of trials
+Mobile and web applications that provide a seamless clinical trial experience for our patients
+
+----------------------
+What we're looking for
+----------------------
+
+
+4+ years of experience work in a platform, data, or backend engineering role
+Experience in building data infrastructure from scratch, including ETL pipelines
+Experience in designing and maintaining data warehouses
+Ability to communicate effectively and work cross functionally to understand data requirements
+Passion for our mission and alignment with our values
+Scrappy, get-things-done mentality
+
+You will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.If you’re someone who is passionate about data, seeks out complex data problems and want to help IEX build something new and exciting, you should consider joining our team as a Data Engineer. IEX is tacking specialized data problems with best-in-class technology to help achieve our mission of creating fairer financial markets. We’re currently looking for a strong Data Specialist who has expertise normalizing unstructured data in a scalable way. This person will have the opportunity to play a key role in developing new platforms for IEX’s core customers and scaling those solutions.
+
+If you’re up for working in a fast-paced environment and with a highly collaborative FinTech team changing Wall Street for the better – join us!
+
+About you:
+
+Detail-oriented
+Self-starter with the capability of executing on projects independently
+Strong analytical and problem-solving skills
+Strong communicator
+Collaborative team player
+Excited to work on multiple projects in a fast-paced environment
+
+What you’ll do:
+
+Work with complex financial data sets
+Normalize unstructured data
+Validate data sets and map that data to our database
+Work closely with our tech and analytics teams to solve new data problems
+
+Your background:
+
+5+ years relevant experience
+Bachelor’s Degree in Computer Science or related technical field
+Programming and database experience
+Demonstrated ability to efficiently manipulate large data sets
+Experience as a data engineer
+Experience normalizing complex data sets at scale
+KDB and SQL understanding, a plus
+Understanding of financial products and equities, a plus
+
+Here at IEX, we are dedicated to an inclusive workplace and culture. We are an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived race, color, creed, religion, alienage or national origin, ancestry, citizenship status, age, disability or handicap, sex, marital status, veteran status, sexual orientation, genetic information or any other characteristic protected by applicable federal, state or local laws. This policy not only complies with all applicable laws and protects workers' rights but is vital to IEX’s overall mission and values.Integral Ad Science (IAS) is a global technology and data company that builds verification, optimization, and analytics solutions for the advertising industry and we’re looking for a Data Engineer to join our team. If you are excited by technology that has the power to handle hundreds of thousands of transactions per second; collect tens of billions of events each day; and evaluate thousands of data-points in real-time all while responding in just a few milliseconds, then IAS is the place for you.
+
+What you’ll do:
+
+As a Data engineer you will work with Data Scientists to take their prototypes and turn them into scalable, production code. These datasets will be used to train Machine Learning Algorithms that are core to our business.
+Work with data science, product management and development teams to understand requirements and technical specifications and work as part of an agile product team
+
+Who you are and what you have:
+
+It's critical that you have experience with Big Data and have a strong understanding of ETL and Batch concepts.
+Experience with Java, Python or Scala
+Hadoop or similar Big Data tools
+Curiosity about new approaches like Stream Processing
+Agile Software Engineering
+
+What puts you over the top:
+
+Prior Ad-Tech experience
+SAFe Methodology
+Prior experience with Statistical Analysis
+Masters or PhD in Quantitative discipline
+AWS
+
+About Integral Ad Science
+
+Integral Ad Science (IAS) is a global technology and data company that builds verification, optimization, and analytics solutions to empower the advertising industry to effectively influence consumers everywhere, on every device. We solve the most pressing problems for brands, agencies, publishers, and technology companies by verifying that every impression has the opportunity to be effective, optimizing towards opportunities to consistently improve results, and analyzing digital’s impact on consumer actions. Built on data science and engineering, IAS is headquartered in New York with global operations in ten countries. Our growth and innovation have been recognized in Inc. 500, Crain’s Fast 50, Forbes America’s Most Promising Companies, and I-COM’s Smart Data Marketing Technology Company. IAS was also named to Crain’s Best Places to Work in NYC for three years running, Great Companies to Work For in NYS, and AdAge's list of Best Places to Work in the US.
+
+Equal Opportunity Employer:
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, protected veteran status, or disability status. EEO/AA/M/F/Disabled/Vets
+
+To learn more about us, please visit http://integralads.com/ ( http://integralads.com/ ) or http://bit.ly/glassdoorIAS/ ( http://bit.ly/glassdoorIAS/ )
+
+Attention agency/3rd party recruiters: IAS does not accept any unsolicited resumes or candidate profiles. If you are interested in becoming an IAS recruiting partner, please send an email introducing your company to recruitingagencies@integralads.com ( recruitingagencies@integralads.com ). We will get back to you if there's interest in a partnership.Overview
+Engineer will provide RAMS/LCC system/product demonstration and validation so that the performance of the system is measured and formally documented. The engineer manages the Environmental, Fire, and Smoke requirements of developed and purchased products. These activities are primarily for embedded electronics and mechanical products developed for Railway brake and coupler systems.
+Responsibilities
+Target Responsibilities:
+Derive, validate and document failure rates, modes and effects at product level.
+Derive, validate and document maintainability/LCC data for products.
+Provide detailed failure rate analysis on systems, subsystems and components or equipment level - reliability prediction based on standard model, test data and field data.
+Perform qualitative & quantitative analysis with focus on failure rate allocations.
+Support impact analysis of design change requests on RAMS/LCC targets.
+Setup and schedule interaction with customers to collect reliability data in a systematic and structured manner resulting in improved and updated understanding of field performance.
+Track/Analyze field and test data for contractual compliance, producing reliability reports and updates to RAMS database.
+Review and understand the Environmental, Fire and Smoke (F&S) industry regulations and customer requirements for the railway market.
+Support RAMS/LCC Systems Engineer with the development of Environmental and F&S documentation.
+Manage and update the F&S database, checking validity and expiration date.
+Qualifications
+
+Target Qualifications:
+BS Engineering, 2 to 7 years of experience in RAMS analysis.
+Working knowledge in industry standards and analysis techniques (IEC 61508, EN50126/8/9, MIL 756).
+Experience with Reliability and Maintainability demonstrations.
+Experience with conformity to Flame/Smoke/Environmental regulations for product design.
+Understanding of problem solving, root cause analysis and experience with segregating reliability failures from manufacturing defects and misdiagnosis.
+Background with development of product maintainability and reliability prediction through test data, field data analysis, standard model calculations.
+Working knowledge of PHA, SHA, SSHA, OSHA, FMECA, FTA, Reliability and Maintainability Analysis is preferred.
+Demonstrate Engineering design skills with RAMS/LCC focus.
+Good writing and verbal communication skills related to technical items and reporting.
+Functional knowledge of Reliability, Maintainability (RM) processes and tools, and skilled with graphical presentation, databases, spreadsheets and word-processing software.
+Knowledgeable of RAMS tools and techniques.
+Preferred working engineering knowledge of pneumatics, embedded control electronics, mechanical systems.
+Preferred experience in transit or rail industry.
+US Citizenship.
+Code: IN-123
+
+#LI-123What’s the Job?You’ll be joining our data science team as a Data Product Engineer. You’ll be responsible for testing, monitoring, and improving the data collection programs we have in production, as well as developing new software to capture data from the web and extract insights from third-party sources. You’ll be writing Python scripts deployed on AWS, and communicating with data scientists and infrastructure engineers.Required: 5+ Years professional experience with PythonPython data structures and best practicesAWS and Linux (Ubuntu/CentOS) , Bash scriptingProfessional experience with a SQL-based database, such as MySQLWrites organized code with appropriate exception handling and loggingUnderstanding of HTTP network requests and responsesUnderstanding of HTML and JSON formatsAbility to write technical documentation and comment codeAbility to write test suites and set up automation environmentsPlusses: Experience with scrapy, beautiful soup, requests, seleniumAmazon Redshift/ HadoopPrior experience as a front-end, back-end, or full-stack web developerJavascript / NodeJSPython Django/FlaskJob Type: Full-timeExperience:AWS: 2 yearsweb scraping: 1 yearBash: 2 yearsPython: 3 yearsRequired work authorization:United StatesHi. We’re TiVo. At our core, we’re innovators who continuously seek to fuel the ultimate entertainment experience. We touch the lives of binge-watching, music-loving, entertainment fanatics every day by inventing and delivering beautiful user experiences and enable the world’s leading media and entertainment providers to nurture more meaningful relationships with their audiences.
+We work hard, celebrate success and challenge everyone in our organization to make an impact. If you are as passionate as we are about the intersection of technology and entertainment, join us today.
+The Senior Data Engineer will analyze, design, program, debug and modify software enhancements and/or new products. Lead development of both transactional and data warehouse designs with our team of Big Data engineers and Data Scientists. Design, implement and tune tables, queries, stored procedures, and indexes. Work in an agile Scrum driven environment to deliver new and innovative products for Analytics customers, and keep up-to-date with relevant technology in order to maintain and improve functionality for authored applications.
+
+Primary Job Responsibilities:
+Design and develop new data/ETL pipelines
+Understand, provide support to existing data/ETL pipelines and recommend improvements
+Analyze, debug and fix issues with data pipelines
+Collaborate with DevOps and Production Support teams
+Identify and Implement automation opportunities
+Document processes, issues, and resolutions as needed
+Participate in daily scrums to provide support and prepare for system upgrades
+Qualifications:
+5+ year experience implementing complex ETL pipelines
+BS/MS in CS or Engineering
+Write complex SQLs and ETL processes
+Knowledge of Big Data stack of technologies, including Hadoop, HDFS, Hive, Oozie and Hbase.
+Working knowledge with programming in Java, Scala/Spark and Python.
+Knowledge of AWS environment including at least one of the following: on-demand computing, S3, and/or equivalent cloud computing approach.
+Working with large data volumes, including processing, transforming and transporting large-scale data
+Excellent analytical and troubleshooting skills
+Nice to Haves:
+Experience working in an Agile/Scrum environment
+Build and release experience (CI/CD)
+Exposure to Scheduling, automation & orchestration software (Control-M, Cloud Formation, Puppet)
+
+Benefits & Perks
+Our employees and their families are important to us and our comprehensive pay, stocks and benefits programs reflect that. TiVo supports personal well-being, builds financial security, and enables employees to share in the success of TiVo. Rewards include:
+Competitive compensation (salary, equity, and bonuses) and comprehensive benefits designed to foster work-life balance, care for your health, protect your finances, and help you save and invest for the future.
+Generous paid time away from work including vacation, holidays, sick time, and 2 days of paid time off each year to serve and learn through TiVo Community Outreach.
+Great perks, which vary by location and can include: employee discounts, transportation reimbursements, subsidized cafes and fitness facilities, conveniences such as dry cleaning and car washes, and recycling programs.
+See more at https://www.tivo.com/jobs/culture/benefits-at-tivo
+
+TiVo Corporation is an Equal Employment Opportunity EmployerAt Volusion, we make products that people love. Our teams are dedicated to providing SaaS ​e​commerce solutions and services for all business types, from startups to well-established companies. If you're a creative professional who loves working with teams, has a passion for driving positive change and wants to better the world with your ​ideas, we want to hear from you!
+
+The rundown:
+As a Data Engineer, you will assist in the development of data warehouse information architecture on both Google Cloud BigQuery and Microsoft SQL Server, optimize SQL performance, and provide operational support to our high availability Microsoft SQL Server Warehouse infrastructure. An ideal candidate will be a proficient warehouse developer versed in data integration services development, report development, data analysis, and database administration.
+
+You will:
+
+Assist in building and maintaining data warehouse data integrations leveraging both MS SQL Integration services and Python technologies
+Assist in the development of BigQuery Data Model
+Develop and Optimize SQL Queries leveraged by existing integration services ,reporting processes and data analysis reports
+Develop dashboards and visualizations for ongoing measurement and KPIs.
+Plan for non-transactional data storage for reporting and analytics
+Database Schema design and data flow architecture planning
+Maintain current reports in existing reporting platforms
+Profile source system data as needed to provide feedback for business requirements
+Analyze and verify Data Warehouse data
+Assist in the design, build and maintenance of SSAS cubes
+
+We are looking for someone with:
+
+MUST be a team player with excellent oral and written communication skills
+Bachelor’s degree in Computer Science or Engineering
+SQL Skills for data analysis is a strong must have
+2+ Years Microsoft SQL Server Integration Services development or similar Extract Transform Load development
+2+ years of experience Microsoft SQL Server database administration
+2+ years of experience with Python 2.7 or 3.x
+Strong experience with performance optimization and tuning with database applications is a MUST
+Python Scripting and .NET knowledge preferred
+Familiarity with Cloud Services. Google Cloud Platform (GCP) and the GCP Data Services experience is a plus
+Git experience is also a plus
+Highly organized, self-starter with an eye for detail who can maintain multiple ongoing projects simultaneously
+
+Who is also the embodiment of our culture code ( https://culture.volusion.com/ ) (we hope you are nodding your head in agreement as you browse through it!):
+
+
+Humble: Have humility and be respectful; no egos allowed.
+Effective: Get stuff done!
+Adaptable: Willing to fill any role, anytime. Going above/beyond the call of duty.
+Transparent: Open and honest to self and others.
+A founder: Think big, go fast and solve for the customer.
+
+Benefits & Perks:
+
+Competitive compensation packages
+Medical, Dental, Vision, and Voluntary Life Insurance
+Flexible Paid Time Off
+401(k) with Company Matching
+Paid Parental Leave
+On-site Fitness and Yoga Classes
+Casual Dress and Beer Fridays
+Endless Supply of Coffee and Snacks
+Two Volunteer Days Off
+Bring Your Dog to Work Days
+Chair Massages
+Team Sports and Team Outings
+
+Overview
+Engineer will provide RAMS/LCC system/product demonstration and validation so that the performance of the system is measured and formally documented. The engineer manages the Environmental, Fire, and Smoke requirements of developed and purchased products. These activities are primarily for embedded electronics and mechanical products developed for Railway brake and coupler systems.
+Responsibilities
+Target Responsibilities:
+Derive, validate and document failure rates, modes and effects at product level.
+Derive, validate and document maintainability/LCC data for products.
+Provide detailed failure rate analysis on systems, subsystems and components or equipment level - reliability prediction based on standard model, test data and field data.
+Perform qualitative & quantitative analysis with focus on failure rate allocations.
+Support impact analysis of design change requests on RAMS/LCC targets.
+Setup and schedule interaction with customers to collect reliability data in a systematic and structured manner resulting in improved and updated understanding of field performance.
+Track/Analyze field and test data for contractual compliance, producing reliability reports and updates to RAMS database.
+Review and understand the Environmental, Fire and Smoke (F&S) industry regulations and customer requirements for the railway market.
+Support RAMS/LCC Systems Engineer with the development of Environmental and F&S documentation.
+Manage and update the F&S database, checking validity and expiration date.
+Qualifications
+
+Target Qualifications:
+BS Engineering, 2 to 7 years of experience in RAMS analysis.
+Working knowledge in industry standards and analysis techniques (IEC 61508, EN50126/8/9, MIL 756).
+Experience with Reliability and Maintainability demonstrations.
+Experience with conformity to Flame/Smoke/Environmental regulations for product design.
+Understanding of problem solving, root cause analysis and experience with segregating reliability failures from manufacturing defects and misdiagnosis.
+Background with development of product maintainability and reliability prediction through test data, field data analysis, standard model calculations.
+Working knowledge of PHA, SHA, SSHA, OSHA, FMECA, FTA, Reliability and Maintainability Analysis is preferred.
+Demonstrate Engineering design skills with RAMS/LCC focus.
+Good writing and verbal communication skills related to technical items and reporting.
+Functional knowledge of Reliability, Maintainability (RM) processes and tools, and skilled with graphical presentation, databases, spreadsheets and word-processing software.
+Knowledgeable of RAMS tools and techniques.
+Preferred working engineering knowledge of pneumatics, embedded control electronics, mechanical systems.
+Preferred experience in transit or rail industry.
+US Citizenship.
+Code: IN-123
+
+#LI-123Data Engineer - Analytics - 18123100
+
+Hill-Rom is a $2.7B leading worldwide manufacturer and provider of medical technologies and related services for the health care industry, including patient support systems, safe mobility and handling solutions, non-invasive therapeutic products for a variety of acute and chronic medical conditions, medical equipment rentals, surgical products and information technology solutions. Hill-Rom's comprehensive product and service offerings are used by health care providers across the health care continuum and around the world in hospitals, extended care facilities and home care settings to enhance the safety and quality of patient care.
+
+Description
+
+The QA/RA Engineer - Metrics will manage key corporate metrics to drive business decisions and implement sound data-driven business solutions with an emphasis on quality system compliance. The primary function is to lead Hill-Rom’s global efforts to collect, analyze, and track the resolution of key data related to entity quality and performance indicators by interfacing with key business partners across the corporation. The incumbent will manage a dashboard of Key Performance Indicators for Executive Management that provides consistent timely analysis and publication of quality and key performance indicator metrics. Trend analysis will be performed to identify and mitigate critical quality issues along with the corresponding level of risk. The incumbent will promote a culture that Quality Matters to everyone in the corporation.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES – Other duties may be assigned:
+Manage the evaluation of quality systems to determine how metrics and measures can be used to drive business decisions.
+Provide leadership to monitoring and analyzing key elements of quality performance to identify product and process quality trends, quality system integrity and compliance with internal, as well as external standards and guidelines. Intervene when necessary to implement solutions and drive continuous improvement.
+Lead the Quality Improvement Program for Hill-Rom including identifying state-of-the-art quality standards and practices; quality system planning and implementation; and influencing strategic planning.
+Manage defined KPI’s/other metrics to identify process efficiency and improvement items.
+Coordinate Executive Management Review and quality scorecards.
+Recommend goals and objectives for quality performance as part of annual and long range business plans.
+Manage a set of best practices on what Hill-Rom should consider when defining quality system outcomes/best practices based on proven successes within the medical device industry.
+Lead the review of quality process issues and determine the best solution approach using a combination of people training, transformation, process updates, service improvements or technology changes.
+Provide oversight to the development of queries and reports from various data sources and data warehouse activities.
+Ensuring standardization, harmonization and reuse of information across the global corporation.
+Support the escalation process when compliance issues cannot be resolved at the local level.
+Provide training and support to department staff and business users on the use of metrics.
+#INDHR
+
+Qualifications
+
+Must possess sound knowledge of analytical data interpretation and trending tools.
+Must be articulate in both verbal and written communication skills, including strong questioning and listening skills and ability to look beyond obvious answers and understand the impact on other areas.
+Ability to understand and apply mathematical concepts especially as they relate to statistics and trending.
+Ability to define problems, collect data, establish facts, and draw valid conclusions.
+Proven presentation skills are required.
+Must be adept at independent decision-making.
+Strong leadership skills, strong interpersonal skills, and the ability to deal effectively with system users, is required.
+Strong data analysis skills and creativity in identifying new opportunities and evaluating alternatives is required.
+The proven ability to prioritize and manage multiple projects and meet deadlines is required.
+Must have the capability of developing effective working relationships with staff at all levels in the organization.
+Willing to travel (5%-10%) as business responsibilities require.
+
+EDUCATION AND/OR EXPERIENCE:
+Bachelors degree in a business or technical discipline or relevant experience
+Knowledge of Quality Systems, Business Process Management and Process Improvement is preferred.
+Experience in statistical analysis is required (the ability to understand and apply data to the business is extremely important).
+Experience with the creation and ability to influence business processes using KPIs and metrics is required.
+Must be capable of working on several projects concurrently under tight deadlines and be able to prioritize to meet organizational goals, with attention to regulatory requirements.
+Demonstrated proficiency with Microsoft systems (Excel, PowerPoint, Word, Access, Project, SharePoint); Cognos BI; Minitab; SAP and JD Edwards is preferred
+
+Hill-Rom is an equal employment employer F/M/Disability/Vet/Sexual Orientation/Gender Identity
+
+Job: Quality
+
+Primary Location: United States-Indiana-Batesville
+
+Other Locations: United States-Illinois-Chicago, IL
+
+Schedule: Full-time
+
+Travel: Yes, 10 % of the Time
+
+Posting Entity: Hill-RomPosition Details
+
+
+
+Dept. Number/Name: 0-6163-000 / Health Informatics Institute
+
+
+College Division: USF Health - Morsani College of Medicine
+
+
+Salary Plan: Administrative
+
+
+Job Code/Title: 4442 / Data Engineer I
+
+
+Hiring Salary/Salary Range: $50,000 - Negotiable
+
+
+Position Number: 00035028
+
+
+ORGANIZATIONAL SUMMARY:
+
+
+The Health Informatics Institute (HII) is comprised of approximately 150 members consisting of biostatisticians and bioinformaticians; epidemiologists; software, data, and systems engineers; solution and data architects; laboratory and clinical research administrators; and administrative staff. Established in 2004 as the Pediatric Epidemiology center, the annual budget of the institute currently exceeds $50 million, primarily in National Institutes of Health (NIH) funding. Faculty areas of expertise include biostatistics applied to pre-clinical, clinical, observational, and population health research; biomedical and clinical informatics; and statistical genetics and genomics. Members are engaged in research focused on the prevention of diabetes and other autoimmune diseases, cancer prevention and control, genetic disorders, and an expanding list of rare diseases.
+
+
+POSITION SUMMARY:
+
+
+The Data Engineer I will interact with a diverse staff of scientists, statisticians, engineers, and administrators in the development of datasets, reports, and systems supporting research efforts at the HII. As a part of the Data Engineering team, the Data Engineer I’s efforts will span the data lifecycle with an emphasis on ETL, warehousing, reporting, cleaning, and sharing of data. The Data Engineer I will utilize their expertise to manage data from a variety of sources including relational and unstructured/NoSQL databases and satisfy stakeholders from statisticians and scientists to clinical operations staff, sponsors, and regulatory agencies.
+
+
+RESPONSIBILITIES:
+
+Develop and implement complex data manipulations for checking data completeness and accuracy. Develop programs to extract subsets and summaries from a variety of sources, including large and complex databases (structured and unstructured; Big Data). Develop analysis programs and reports to monitor data accrual and quality. Develop complex systems for ensuring data integrity, in-house data monitoring and study status reports, and clinical trial database systems.
+Apply best practices to the design, development, implementation, and maintenance of programs. Adhere to policies and procedures related to data governance. Efficiently coordinate activities with other team members. Comply with the creation of standard operating procedures.
+Ensure analysis data and programming code integrity and reliability. Proactively inform management of the status of deliverables, timelines, accomplishments, and issues experienced and remediated on projects.
+Interact directly with faculty and operations staff to learn study objectives and develop project requirements. Interface effectively with laboratories, analytical partners, regulatory agencies, etc. in execution of projects. Assist in new data acquisition and exploration.
+Develop and maintain domain knowledge of complex and expansive enterprise applications. Develop and maintain requisite expertise for ongoing and future institutional data management demands.
+POSITION QUALIFICATIONS:
+
+
+MINIMUM:
+
+Bachelor's degree in Computer Science, MIS or other field involving software and analytical training, or a Bachelor's degree with no specific required field and one year of IT related work experience, OR a combination of 5 years of IT related work experience and validated training. Preparation for a relevant IT certification is considered to be related training.
+
+Are you interested in clinical job opportunities with the USF Health Care working for University Medical Service Association, Inc. (UMSA)? Visit https://usfpgcareersource.health.usf.edu/ for more information.
+
+
+
+Information for Applicants
+
+
+
+This position is subject to a criminal background check.
+
+Posting End Date : Open Until Filled
+
+
+
+
+How To Apply
+
+
+
+Click on the Apply Now button. When applying to an opening you will have the opportunity to upload a cover letter and resume.
+Apply online by completing the required information and attaching your cover letter and resume. Please include your experience as it relates to the qualifications stated above. YOUR COVER LETTER AND RESUME, PLUS ANY OTHER REQUESTED MATERIAL, MUST BE IN ONE ATTACHMENT. Only online applications are accepted for this position.
+Click here for additional tutorial information.
+
+
+
+
+Equal Employment Opportunity
+
+
+
+USF is an equal opportunity, equal access academic institution that embraces diversity in the workplace.
+
+
+
+
+Work Location
+
+
+
+Campus map and location overview:
+USF - Health
+USF - Tampa Campus
+
+
+
+
+About USF
+
+
+
+The University of South Florida System is a high-impact, global research system dedicated to student success. The USF System includes three institutions: USF; USF St. Petersburg; and USF Sarasota-Manatee. The institutions are separately accredited by the Commission on Colleges of the Southern Association of Colleges and Schools. All institutions have distinct missions and their own detailed strategic plans. Serving over 48,000 students, the USF System has an annual budget of $1.6 billion and an annual economic impact of $4.4 billion. USF is a member of the American Athletic Conference.
+
+
+
+
+Working at USF
+
+
+
+With more than 16,000 employees in the USF System, the University of South Florida is one of the largest employers in the Tampa Bay region. At USF you will find opportunities to excel in a rich academic environment that fosters the development and advancement of our employees. We believe in creating a talented, engaged and driven workforce through on-going development and career opportunities. We also offer a first class benefit package that includes medical, dental and life insurance plans, retirement plan options, tuition program and generous leave programs and more.
+To learn more about working at USF please visit: Work Here. Learn Here. Grow Here.Discover a world of opportunities. #HumanChemistry
+See what chemistry can do for your career: careers.evonik.com
+Exploring opportunities. Growing together.
+
+VACANCY REFERENCE NUMBER 104248
+Data Engineer
+Location: United States : Mobile, AL
+Function: Engineering
+Career Level: Senior professionals (> 5 years)
+Legal Entity: Evonik Corporation
+Business Line: Process Technology & Engineering
+
+What we offer
+You will work on exciting and challenging topics together with a team in an ultra-modern, innovative and creative environment. Intensive on-the-job training with expert colleagues guarantees you will quickly become familiar with your duties and perform them independently. Performance related pay and the opportunity for personal and professional development are of course part of the package. Since 2009 Evonik Industries AG has been certified as a family-friendly company by the German Hertie Foundation.
+Click here to learn more about Evonik from our employees
+We are seeking an individual in our Mobile, AL location as an engineer in the area of Manufacturing Intelligence. Primary Responsibility: Develop and implement tools to enable productivity gains through Manufacturing Intelligence.
+
+RESPONSIBILITIES
+Specific Activities include but are not limited to:
+Data aggregation from diverse sources including chemical process data
+Contextualization providing structures and models to support customers utilizing data supported by standards (e.g., ISA-95)
+Data analysis across data sources and plants
+Visualization of KPIs through Dashboards
+Propagation of data throughout diverse enterprise systems
+Provide technical assistance to the chemical processing facilities of Evonik
+Facilitate exchange of knowledge between Evonik plants in order to promote improvements company wide
+Participate in technology and methodology exchange between international regions
+Collaborate on a global basis with other departments within Process Technology & Engineering
+Support development of new process engineering service offerings that provide value to Evonik Business Lines
+
+
+REQUIREMENTS
+Master’s degree or PhD in computer science, programming, data processing, or related field
+Minimum 3-5 years of IT experience in full-stack system/software design and programming
+Minimum 1-2 years of experience in Data Visualization and Data Analysis
+Aspiration to develop new solutions in the area of Manufacturing Execution Systems and/or Manufacturing Intelligence and to drive implementation across Americas region
+Ability to utilize process documentation (e.g., PFDs, P&IDs, Equipment Specifications)
+Ability to utilize diverse data sources and associated applications (e.g., Plant Information Management Systems, Laboratory Information Management Systems, Enterprise Resource Planning Systems)
+Ability to plan/organize tasks and consistently produce high-quality results
+Ability to work efficiently and effectively in a multi-disciplined, cross-functional environment including in teams
+Ability to work in international teams
+Flexibility to respond quickly to changing job demands and prioritize multiple responsibilities
+Experience managing projects involving complex scope
+Excellent communication skills (both oral and written) across hierarchy levels ranging from plant operators to management level
+
+Your Application
+To ensure the fastest process of your application and to protect the environment, please apply online via our careers portal at https://careers.evonik.com.
+VACANCY REFERENCE NUMBER 104248
+
+Evonik Corporation is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, gender, sexual orientation, national origin, disability status, protected veteran status or any other legally protected status.
+Please note that Evonik will not accept any unsolicited application documents sent by staffing firms. Evonik works in conjunction with preferred service providers and will not pay any fee to staffing firms in the absence of an appropriate framework agreement. Should Evonik receive a candidate profile from a staffing firm with which it has no framework agreement, and should this candidate subsequently be considered in the recruitment process or offered employment, no claims from the staffing firm will be entertained in this regard.
+
+
+
+Nearest Major Market: Mobile ALVoloridge Investment Management is an award winning, quantitative investment management firm based in Jupiter, FL, managing over $1B in assets. We are seeking an enthusiastic, self-motivated Data Engineer to serve internal research and operations clients.
+
+Top Reasons why you want to work for Voloridge Investment Management:
+
+401k retirement plan, $1 for $1 match up to 4% of compensation
+
+Regular in-office massages, weekly lunches, stocked kitchens with snacks, fruit and drinks
+
+Work off the Intracoastal and 3 minutes from the beach
+
+Work in an office chosen by South Florida Business Journal as one of the top 10 Coolest Offices in South Florida in May 2016
+
+Profit Sharing Bonus
+
+Summary of Job Functions
+
+Understand the data-related needs of all internal parties, especially our Research team
+
+Build datasets, continually strive to improve them, including increased automation, usability, transparency, documentation, and QA
+
+Develop and maintain prototype ETL processes for new datasets, including initial data modeling, with an emphasis on rapid deployment balanced with stability and consistency
+
+Obtain and document requirements for new datasets
+
+Study new topics and gain domain knowledge related to data ingestion, storage and delivery
+
+Have a consultant mindset, always striving to understand and fulfill the needs of our researchers and traders
+
+Communicate and collaborate effectively with all internal associates, including research, management, development, and other operations personnel
+
+Investigate and troubleshoot data anomalies
+
+Represent the Strategy Data Group in internal forums for planning and collaboration
+
+Assist with technical skill development and mentorship of junior personnel
+
+Perform other duties and responsibilities as assigned
+
+Minimum Requirements
+
+Bachelor’s degree
+
+7 + years of data engineering work experience in a field such as accounting, finance, business intelligence, or hard sciences
+
+Expertise using Transact-SQL, and familiarity with other data technologies and tools
+
+Experience with both transactional databases and data warehouses
+
+Excellent oral and written communication skills
+
+Must be able to demonstrate strong problem solving skills, and flexibility to consider new ideas and approaches
+
+The ability to work daily, onsite in our Jupiter, FL office
+
+Preferred Skills and Previous Experience
+
+Experience using Visual Studio and SQL Server Management Studio to create/manage SSIS/ ETL packages, esp. with high volume data
+
+Experience in performance tuning, server monitoring, and query optimization
+
+Strong focus on data quality and attention to detail
+
+Able to independently bring projects to successful completion
+
+Experience working with trading / financial / investment / accounting data
+
+Experience with master data management and data governance
+
+Experience with data analysis tools such as Tableau, Excel
+
+Programming experience, such as Python, Java, C#, VB.net, C, C++
+
+Experience with leadership of small teams and/or projects
+
+Demonstrated ability to work efficiently in a demanding, team-oriented and fast-paced environment
+
+Compensation and Benefits
+
+Highly competitive base salary
+
+Profit sharing bonus
+
+Health, dental, vision, life, and disability insurance
+
+401K
+
+Credit and Identity Monitoring Service
+
+Additional Information
+
+Voloridge Investment Management is an SEC registered investment advisor. A private investment company founded in 2009, our mission is to deliver superior risk-adjusted returns for qualified investors, using advanced proprietary modeling technology, conservative investment tactics and sophisticated risk management. Our market neutral equities strategy takes both long and short positions in the most actively traded equities, and is designed to capture alpha while limiting exposure to directional markets risks. Our futures strategy takes both long and short positions in the most actively traded global futures, and is also built to maximize alpha captured across all futures markets traded while capping exposure to any particular sector at a given time.
+
+Voloridge Investment Management is an Equal Opportunity Employer. All qualified applicants are encouraged to apply and will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other legally protected characteristic or status.Job Description
+Amazon strives to be the world’s most customer centric company with lot of high end innovation and product development including the best-selling Kindle family of products. We have also produced groundbreaking devices like Fire tablets, Fire TV, and Amazon Echo. We provide customers a fully integrated service with instant access to over 27 million movies, TV shows, magazines, newspapers, books, songs, apps, and games.
+
+The ADS team is part of Amazon’s speech platform organization that provides speech recognition capabilities for a variety of Amazon products and searches, most visibly, the Amazon Echo product.
+
+Data Engineer is a newly created role to build world class data platform and deploy scalable business intelligence tools for ADS teams. The ideal candidate relishes working with large volumes of data, enjoys the challenge of highly complex technical contexts, and, above all else, is passionate about data and analytics. He/she is an expert with data modeling, ETL design and business intelligence tools and passionately partners with the business to identify strategic opportunities where improvements in data infrastructure creates outsized business impact. He/she is a self-starter, comfortable with ambiguity, able to think big (while paying careful attention to detail) and enjoys working in a fast-paced team. The ideal candidate need to possess exceptional technical expertise in large scale data warehouse and BI systems with hands-on knowledge on SQL, Distributed/MPP data storage, Hadoop and AWS services.
+
+
+Core Responsibilities
+
+
+Design, implement, and support a platform providing ad hoc access to large datasetsInterface with other technology teams to extract, transform, and load data from a wide variety of data sources using SQLImplement data structures using best practices in data modeling, ETL/ELT processes, and SQL, Oracle, Redshift, and OLAP technologiesModel data and metadata for ad hoc and pre-built reportingInterface with business customers, gathering requirements and delivering complete reporting solutionsBuild robust and scalable data integration (ETL) pipelines using SQL, Python and Spark.Build and deliver high quality datasets to support business analyst and customer reporting needs.Continually improve ongoing reporting and analysis processes, automating or simplifying self-service support for customersParticipate in strategic & tactical planning discussions, including annual budget processes
+ADS-BOS
+
+
+Basic Qualifications
+Bachelor's degree or higher in a quantitative/technical field (e.g. Computer Science, Statistics, Engineering).3+ years of relevant experience in one of the following areas: Data engineering, business intelligence or business analytics.3+ years of hands-on experience in writing complex, highly-optimized SQL queries across large datasets.1+ years of experience in scripting languages like Python etc.Experience in data modeling, ETL development, and Data warehousing.Data Warehousing Experience with Oracle, Redshift, etc.Experience with Big Data Technologies (Hadoop, Hive, Hbase, Pig, Spark, etc.)
+Preferred Qualifications
+3+ years of experience as a Data Engineer, BI Engineer, Business/Financial Analyst or Systems Analyst in a company with large, complex data sources.Experience with AWS services including S3, Redshift, EMR and RDS.Experience with software coding practices is a strong plus.Experience using Linux/UNIX to process large data sets
+
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual OrientationShort Description
+
+About Capgemini
+With more than 190,000 people, Capgemini is present in over 40 countries and celebrates its 50th Anniversary year in 2017. A global leader in consulting, technology and outsourcing services, the Group reported 2016 global revenues of EUR 12.5 billion. Together with its clients, Capgemini creates and delivers business, technology and digital solutions that fit their needs, enabling them to achieve innovation and competitiveness. A deeply multicultural organization, Capgemini has developed its own way of working, the Collaborative Business ExperienceTM, and draws on Rightshore®, its worldwide delivery model.Rightshore ® is a trademark belonging to Capgemini
+Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.
+Position Type: Full Time/Permanent
+Role: Informatica Developer
+Job Description:
+1. Should be able to analyze and consume customer requirements.
+2. Should be able to thoroughly understand the data model; exposure to Guidewire DataModels.
+3. Design high level ETL logic and flow of data.
+4. Develop ETL workflow & data-flows components and perform code review.
+5. Hands on experience on Guidewire conversion process is must.
+6. Understanding of Star and snowflake schemas/models
+7. Expertise in writing T-SQL/PL-SQL queries & resolving complex queries
+8. Understanding of query/explain plans.
+9. Unit test and string test documentation.
+Disclaimer: Capgemini America Inc and its U.S. affiliates are EEO/AA employers. Capgemini conducts all employment-related activities without regard to race, religion, color, national origin, age, sex, marital status, sexual orientation, gender identity/expression, disability, citizenship status, genetics, or status as a Vietnam-era, special disabled and other covered veteran status. Click the following link for more information on your rights as an Applicant: http://www.capgemini.com/resources/equalData Engineer - Analytics - 18123100
+
+Hill-Rom is a $2.7B leading worldwide manufacturer and provider of medical technologies and related services for the health care industry, including patient support systems, safe mobility and handling solutions, non-invasive therapeutic products for a variety of acute and chronic medical conditions, medical equipment rentals, surgical products and information technology solutions. Hill-Rom's comprehensive product and service offerings are used by health care providers across the health care continuum and around the world in hospitals, extended care facilities and home care settings to enhance the safety and quality of patient care.
+
+Description
+
+The QA/RA Engineer - Metrics will manage key corporate metrics to drive business decisions and implement sound data-driven business solutions with an emphasis on quality system compliance. The primary function is to lead Hill-Rom’s global efforts to collect, analyze, and track the resolution of key data related to entity quality and performance indicators by interfacing with key business partners across the corporation. The incumbent will manage a dashboard of Key Performance Indicators for Executive Management that provides consistent timely analysis and publication of quality and key performance indicator metrics. Trend analysis will be performed to identify and mitigate critical quality issues along with the corresponding level of risk. The incumbent will promote a culture that Quality Matters to everyone in the corporation.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES – Other duties may be assigned:
+Manage the evaluation of quality systems to determine how metrics and measures can be used to drive business decisions.
+Provide leadership to monitoring and analyzing key elements of quality performance to identify product and process quality trends, quality system integrity and compliance with internal, as well as external standards and guidelines. Intervene when necessary to implement solutions and drive continuous improvement.
+Lead the Quality Improvement Program for Hill-Rom including identifying state-of-the-art quality standards and practices; quality system planning and implementation; and influencing strategic planning.
+Manage defined KPI’s/other metrics to identify process efficiency and improvement items.
+Coordinate Executive Management Review and quality scorecards.
+Recommend goals and objectives for quality performance as part of annual and long range business plans.
+Manage a set of best practices on what Hill-Rom should consider when defining quality system outcomes/best practices based on proven successes within the medical device industry.
+Lead the review of quality process issues and determine the best solution approach using a combination of people training, transformation, process updates, service improvements or technology changes.
+Provide oversight to the development of queries and reports from various data sources and data warehouse activities.
+Ensuring standardization, harmonization and reuse of information across the global corporation.
+Support the escalation process when compliance issues cannot be resolved at the local level.
+Provide training and support to department staff and business users on the use of metrics.
+#INDHR
+
+Qualifications
+
+Must possess sound knowledge of analytical data interpretation and trending tools.
+Must be articulate in both verbal and written communication skills, including strong questioning and listening skills and ability to look beyond obvious answers and understand the impact on other areas.
+Ability to understand and apply mathematical concepts especially as they relate to statistics and trending.
+Ability to define problems, collect data, establish facts, and draw valid conclusions.
+Proven presentation skills are required.
+Must be adept at independent decision-making.
+Strong leadership skills, strong interpersonal skills, and the ability to deal effectively with system users, is required.
+Strong data analysis skills and creativity in identifying new opportunities and evaluating alternatives is required.
+The proven ability to prioritize and manage multiple projects and meet deadlines is required.
+Must have the capability of developing effective working relationships with staff at all levels in the organization.
+Willing to travel (5%-10%) as business responsibilities require.
+
+EDUCATION AND/OR EXPERIENCE:
+Bachelors degree in a business or technical discipline or relevant experience
+Knowledge of Quality Systems, Business Process Management and Process Improvement is preferred.
+Experience in statistical analysis is required (the ability to understand and apply data to the business is extremely important).
+Experience with the creation and ability to influence business processes using KPIs and metrics is required.
+Must be capable of working on several projects concurrently under tight deadlines and be able to prioritize to meet organizational goals, with attention to regulatory requirements.
+Demonstrated proficiency with Microsoft systems (Excel, PowerPoint, Word, Access, Project, SharePoint); Cognos BI; Minitab; SAP and JD Edwards is preferred
+
+Hill-Rom is an equal employment employer F/M/Disability/Vet/Sexual Orientation/Gender Identity
+
+Job: Quality
+
+Primary Location: United States-Indiana-Batesville
+
+Other Locations: United States-Illinois-Chicago, IL
+
+Schedule: Full-time
+
+Travel: Yes, 10 % of the Time
+
+Posting Entity: Hill-RomWe, at Flywire, are looking for a smart, analytical thinker who’s excited to empower data-driven decision making at an exciting and fast-growing organization! As our Data Engineer, you will work within the Data Analytics team to ensure that our organization has access to reliable, accurate, and timely data to be used in various reporting, business intelligence, and analytical solutions. Great data aptitude is a must for this role, but we’re also looking for someone that’s willing to work across Flywire teams to understand real business problems and design solutions that will ultimately provide insights into the performance of the company, improve process efficiencies, and contribute to our company’s ability to provide a world-class cross-border payment solution
+
+Key responsibilities:
+
+Own the maintenance and ongoing development of Flywire’s analytical data infrastructure
+Develop production-grade data pipelines and ETL processes to support analytics projects, business intelligence reporting, and machine-learning solutions
+Continuously identify and implement data process improvements (e.g., optimize data delivery, re-design for scalability, implement testing and alerting systems to assure data quality, etc.)
+Own maintenance of documentation and data dictionaries for various internal data sources
+
+Minimum Qualification Criteria:
+
+BS in Computer Science, Mathematics, or related field
+5+ years of experience of data engineering, database administration, or related work
+Experience with AWS/Amazon Redshift and/or Google Cloud Platform is required
+Experience in building data extraction and manipulation scripts in Python
+General understanding of the broader data landscape, trends, and emerging technologies
+Hunger and excitement for learning new tools and techniques
+Excellent problem-solving skills: You may not know the solution to all the problems you’ll face, but you have the ability to research available technologies/strategies and figure out a solution or a path forward
+Strong communication skills: You can make even the most complex data and technical problems easy to comprehend
+
+Preferred Criteria:
+
+Experience in Business Intelligence development (Tableau, Looker, etc.)
+Demonstrated ability of building streaming data applications
+Practical understanding of classification, regression, and other statistical methods
+Familiarity with Apache Spark
+Proficiency with Spanish
+
+Flywire is an equal opportunity employer.Overview:
+---------------
+
+Snagajob is working to transform the hourly job seeking experience. We have an unparalleled level of access to America’s hourly workforce -- and the employers who are desperately looking for their help to make their businesses grow. As a Data Engineer, your job is to drive the connections between these complex data entities and their underlying systems which power our marketplace.
+
+Data Engineers work to build and maintain systems that process amounts of generated platform data optimizing ingest pipelines and database systems that support our data platform. Data Engineers are the glue between our latent data and our machine learning systems which build rich intelligence to power our business.
+
+What We'll Expect:
+------------------
+
+
+Work on a high performance Big Data environment processing 100 million events per day
+Share ownership of an app portfolio with a highly collaborative development team that includes dedicated API and QA resources
+Explore new technologies and frameworks to drive our architecture and processes forward
+Use Agile development practices to focus on engineering craftsmanship, quality and best practices
+Teach and learn with the team (check out the Snagajob Engineering Blog ( http://engineering.snagajob.com/ ))
+
+What You'll Bring:
+------------------
+
+
+2+ years writing software (we currently use java, c# and python)
+2+ years working on Big Data platforms such as hadoop, spark, flink, beam or other similar systems.
+2+ years working with NoSQL databases such as MongoDB, Cassandra, Dynamo or other similar systems.
+2+ years working with relational databases such as MSSQL or Postgres.
+Experience with machine learning / data processing toolkits such as scikit-learn, pandas, juypter notebooks a plus.
+Willingness to collaborate, explore and share
+Desire to build inspiring data centric experiences that thrill our users
+Commitment to remaining curious, open and active in your pursuit of the best practices
+Degree in Computer Science or equivalent experience
+
+What You Can Expect from Snag:
+------------------------------
+
+Snag offers a highly competitive compensation and benefits package including medical, dental, vision, and life insurance, 401k plan, health and fitness incentives, 20 days of PTO to start and 2 days of paid community service time, and a casual fun work environment with an award winning culture. At Snag, we don’t just accept difference - we celebrate it, we support it, and we thrive on it for the benefit of our team, our products, and our community. Snag is proud to be an equal opportunity workplace.
+
+About Snag:
+-----------
+
+Snag is the largest platform for hourly work with 90 million registered hourly workers and 450,000 employer locations nationwide. With Snag, employers staff up faster, hire smarter and keep shifts filled. Snag’s platform for hiring and managing teams allows people to land the right work while ensuring employers find the right workers when and where they need them. Snag’s flexible work platform, Snag Work, launched in 2017 and provides a network of workers the opportunity to select the shifts they want, when they want, from a variety of employers and locations, and helps employers optimize their shifts.
+
+With offices in Arlington, VA; Richmond, VA; and Charleston, SC, Snag has been named to Fortune Magazine's Great Place to Work® list for eight years in a row.Company Overview
+Effective mentor and coach related to system component interdependence.
+Effective facilitator of technical decisions.
+Comfortable with working through ambiguous initiatives to develop effective solutions.
+Effective negotiation skills with appropriate teams and vendors.
+Excellent collaborative problem solving skills.
+Excellent written and verbal communication and presentation skills to effectively communicate information to customers and to all levels within the organization.
+2 years long at least, may get extended
+Job Summary
+Familiar with standard concepts, practices, and procedures within a particular field. Relies on experience and judgment to plan and accomplish goals. Performs a variety of tasks. A degree of creativity and latitude is required. Typically reports to a supervisor or manager
+Responsibilities and Duties:
+Ability to handle multiple projects and assignments concurrently while maintaining high levels of quality and effectiveness.
+Self-starter with 3+ years of NoSQL experience (primary – Cassandra, MongoDB)
+Qualifications and Skills:
+Benefits and Perks
+Standard.Job Description
+
+We are looking for candidates between entry-level with project work to mid-level data engineers. As a data engineer, you will get the opportunity to work on large and extremely diverse data sets. You will work closely with product managers, software engineers and data scientists to aid in the development of our data pipeline. You will primarily be responsible for designing and implementing custom monitoring and alert systems to improve the quality of our data.
+
+Responsibilities:
+Design and implement monitoring and alert systems
+Investigate anomalies in data pipeline
+Analyze the impact of system issues on data and report on findings to stakeholders
+Help evaluate data from new sources
+
+Skills & Requirements:
+1-3 years of professional experience or portfolio projects using Python and Pandas
+1-3 years of professional experience or portfolio projects using SQL
+Experience with scrum or agile development, distributed version control systems, test-driven development, automated deployment and provisioning
+
+Nice-to-Haves:
+Experience working on monitors and alert systems
+Experience producing data visualizations
+AWS environment familiarity
+Knowledge of statistical methodologiesAbout the role
+The Data Engineering team supports business decisions at Avanade and for Avanade clients through comprehensive data analysis. It collects, aggregates and analyzes data from multiple internal and external sources and reports patterns, insights and trends to Avanade decision-makers. Its goal is to support data-driven insights into business performance, opportunities for improvement and identification of root cause problem analysis.
+As a Data Engineering Analyst, you will collect, aggregate, store and reconcile data in support of Avanade business decisions. You will help design and build reporting tools, information dashboards, data generators and other end-user information portals and insight tools. You will be a critical part of the data supply chain, ensuring that stakeholders can access and manipulate data for routine and ad hoc analysis.
+Day-to-day, you
+Plan and deliver data warehouse and storage architectures
+Support the planning and implementation of data design services, providing sizing and configuration assistance and performing needs assessments
+Develop and maintain data warehouse schematics, layouts, architectures and relational databases for data storage and data mining
+Deliver data to end users using Microsoft SQL Server Reporting Services (SSRS), Microsoft Excel, PowerPivot and Microsoft SharePoint Performance Point
+Customize data storage and extraction, data mining, database architecture, metadata and repository creation
+Implement effective metrics and monitoring processes
+Travel as needed (can be as high as 80% of a work week)
+About Avanade
+Avanade leads in providing innovative digital services, business solutions and design-led experiences for its clients, delivered through the power of people and the Microsoft ecosystem. Our professionals combine technology, business and industry expertise to build and deploy solutions to realize results for clients and their customers. Avanade has 27,000 digitally connected people across 23 countries, bringing clients the best thinking through a collaborative culture that honors diversity and reflects the communities in which we operate. Majority owned by Accenture, Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation. Learn more at www.avanade.com.
+
+Qualifications
+Years of Experience: 0-1 years experience
+Education: A recent college graduate with a bachelor degree in a business or technology related field.
+Other Skills/Knowledge:
+Professional Skills:
+
+Strong business acumen
+Excellent interpersonal skills - "Customer Focus"
+Excellent communication skills, both written and oral
+Passion for learning
+Strong time management skills
+
+About you
+You have a good analytical mind on top of excellent technical skills. You are familiar with current database technology and data reporting tools, and more importantly, you understand the point of it all—to produce solid insights to drive business decisions.
+Your skill set likely
+Knowledge of database storage, collection and aggregation models, techniques and technologies and the ability to apply such methods to solve business
+Knowledge of structured problem-solving
+Strong project management and people management
+Knowledge of Microsoft SharePoint, PowerPivot, SSRS, Excel (with embedded Pivot Tables and
+Some SQL
+
+Requisition ID - 53927
+Avanade is the leading provider of innovative digital and cloud-enabling services, business solutions and design-led experiences, delivered through the power of people and the Microsoft ecosystem. Majority owned by Accenture, Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation and has 30,000 professionals in 24 countries. Visit us at www.avanade.com.What’s the Job?You’ll be joining our data science team as a Data Product Engineer. You’ll be responsible for testing, monitoring, and improving the data collection programs we have in production, as well as developing new software to capture data from the web and extract insights from third-party sources. You’ll be writing Python scripts deployed on AWS, and communicating with data scientists and infrastructure engineers.Required: 5+ Years professional experience with PythonPython data structures and best practicesAWS and Linux (Ubuntu/CentOS) , Bash scriptingProfessional experience with a SQL-based database, such as MySQLWrites organized code with appropriate exception handling and loggingUnderstanding of HTTP network requests and responsesUnderstanding of HTML and JSON formatsAbility to write technical documentation and comment codeAbility to write test suites and set up automation environmentsPlusses: Experience with scrapy, beautiful soup, requests, seleniumAmazon Redshift/ HadoopPrior experience as a front-end, back-end, or full-stack web developerJavascript / NodeJSPython Django/FlaskJob Type: Full-timeExperience:AWS: 2 yearsweb scraping: 1 yearBash: 2 yearsPython: 3 yearsRequired work authorization:United StatesLAN/WAN Data Engineer in Denver, CO.
+
+General Purpose and Scope:
+You are authentic, like working with people and love technology. As an experienced engineer you will be a key member of our wide area network deployment team with focus on insuring our data core which carries our entire customer base traffic. Our wireless network is complicated with 2G/3G/4G technologies running in multiple countries and your job will be to ensure that our wide area network data core which carries all of our customer’s traffic is as efficient and as fault tolerant as possible. Our customers like their data service to be fast and always on and it will be your responsibility to make sure that they are delighted with our service. Big part of this job is troubleshooting at the routing and switching level, and the ability to come up with creative solutions so if you like wearing your thinking cap this job might be for you.
+
+Duties and Responsibilities
+Design and implementation of core to edge network architecture and routing protocols on Juniper platforms.
+Operational Support of Data Network including troubleshooting routing and switching issues
+LAN/WAN Responsibilities including IP address management and documentation
+Engineering for growth and sustainability of the network.
+Education and training of other individuals within the company regarding network routing.
+Engineering and support of other systems supported by the Data Network Organization.
+Analysis for root cause determination of issues including recommendations for improvements.
+Write, review, and implement Methods of Procedure.
+Working directly with equipment vendors
+Other duties as assigned by management.
+
+Minimum Job Entry Requirements
+Bachelor’s degree in related field and 2 years of experience; or Associates Degree and at least 3 years work experience in related field or equivalent related work experience.
+Knowledge of Juniper networks gained through relevant experience, vendor training, and/or college or technical/vocational school coursework.
+Proficient in understanding of TCP/IP and routing protocols to include BGP and MPLS.
+Strong computer skills; proficient in MS Office.
+Strong analytical skills to resolve problems.
+Strong oral and written communication skills to coordinate repair efforts and prepare reports.
+Strong interpersonal skills to coordinate efforts effectively between multiple groups.
+Ability to manage multiple tasks in a fast paced environment.
+Self starter with attention to detail and ability to maintain focus over long periods of time.
+Ability to work on call support as needed.
+
+
+Desired Qualifications
+Previous experience as Data Network Engineer.
+Experience with SNMP
+Experience with Mobile IP, and L2TP
+Certifications: (JNCIA, JNCIS, JNCIP, etc)
+Working exposure to wireless data network deployment.
+Experience with some of the following standards & protocols: MEF, Ethernet, BGP, IBGP, OSPF, QoS, CoS, MPLS, VRF, VLANS, and VPNs
+Experience with mobile wireless protocols, specifically CDMA, GSM, LTE, or IS-835Data Engineer - Analytics - 18123100
+
+Hill-Rom is a $2.7B leading worldwide manufacturer and provider of medical technologies and related services for the health care industry, including patient support systems, safe mobility and handling solutions, non-invasive therapeutic products for a variety of acute and chronic medical conditions, medical equipment rentals, surgical products and information technology solutions. Hill-Rom's comprehensive product and service offerings are used by health care providers across the health care continuum and around the world in hospitals, extended care facilities and home care settings to enhance the safety and quality of patient care.
+
+Description
+
+The QA/RA Engineer - Metrics will manage key corporate metrics to drive business decisions and implement sound data-driven business solutions with an emphasis on quality system compliance. The primary function is to lead Hill-Rom’s global efforts to collect, analyze, and track the resolution of key data related to entity quality and performance indicators by interfacing with key business partners across the corporation. The incumbent will manage a dashboard of Key Performance Indicators for Executive Management that provides consistent timely analysis and publication of quality and key performance indicator metrics. Trend analysis will be performed to identify and mitigate critical quality issues along with the corresponding level of risk. The incumbent will promote a culture that Quality Matters to everyone in the corporation.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES – Other duties may be assigned:
+Manage the evaluation of quality systems to determine how metrics and measures can be used to drive business decisions.
+Provide leadership to monitoring and analyzing key elements of quality performance to identify product and process quality trends, quality system integrity and compliance with internal, as well as external standards and guidelines. Intervene when necessary to implement solutions and drive continuous improvement.
+Lead the Quality Improvement Program for Hill-Rom including identifying state-of-the-art quality standards and practices; quality system planning and implementation; and influencing strategic planning.
+Manage defined KPI’s/other metrics to identify process efficiency and improvement items.
+Coordinate Executive Management Review and quality scorecards.
+Recommend goals and objectives for quality performance as part of annual and long range business plans.
+Manage a set of best practices on what Hill-Rom should consider when defining quality system outcomes/best practices based on proven successes within the medical device industry.
+Lead the review of quality process issues and determine the best solution approach using a combination of people training, transformation, process updates, service improvements or technology changes.
+Provide oversight to the development of queries and reports from various data sources and data warehouse activities.
+Ensuring standardization, harmonization and reuse of information across the global corporation.
+Support the escalation process when compliance issues cannot be resolved at the local level.
+Provide training and support to department staff and business users on the use of metrics.
+#INDHR
+
+Qualifications
+
+Must possess sound knowledge of analytical data interpretation and trending tools.
+Must be articulate in both verbal and written communication skills, including strong questioning and listening skills and ability to look beyond obvious answers and understand the impact on other areas.
+Ability to understand and apply mathematical concepts especially as they relate to statistics and trending.
+Ability to define problems, collect data, establish facts, and draw valid conclusions.
+Proven presentation skills are required.
+Must be adept at independent decision-making.
+Strong leadership skills, strong interpersonal skills, and the ability to deal effectively with system users, is required.
+Strong data analysis skills and creativity in identifying new opportunities and evaluating alternatives is required.
+The proven ability to prioritize and manage multiple projects and meet deadlines is required.
+Must have the capability of developing effective working relationships with staff at all levels in the organization.
+Willing to travel (5%-10%) as business responsibilities require.
+
+EDUCATION AND/OR EXPERIENCE:
+Bachelors degree in a business or technical discipline or relevant experience
+Knowledge of Quality Systems, Business Process Management and Process Improvement is preferred.
+Experience in statistical analysis is required (the ability to understand and apply data to the business is extremely important).
+Experience with the creation and ability to influence business processes using KPIs and metrics is required.
+Must be capable of working on several projects concurrently under tight deadlines and be able to prioritize to meet organizational goals, with attention to regulatory requirements.
+Demonstrated proficiency with Microsoft systems (Excel, PowerPoint, Word, Access, Project, SharePoint); Cognos BI; Minitab; SAP and JD Edwards is preferred
+
+Hill-Rom is an equal employment employer F/M/Disability/Vet/Sexual Orientation/Gender Identity
+
+Job: Quality
+
+Primary Location: United States-Indiana-Batesville
+
+Other Locations: United States-Illinois-Chicago, IL
+
+Schedule: Full-time
+
+Travel: Yes, 10 % of the Time
+
+Posting Entity: Hill-Rom

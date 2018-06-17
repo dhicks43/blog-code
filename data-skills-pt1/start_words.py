@@ -1,0 +1,1 @@
+start_words = ("statistics", "statistical", "analysis", "model", "modeling", "database", "hadoop", "hdfs", "yarn", "mapreduce", "hive", "pig", "spark", "sql", "postgres", "postgresql", "mysql", "nosql", "cassandra", "mongoDB", "erwin", "visio", "python", "c", "java", "perl", "matlab", "sas", "r", "warehouse", "lake", "nlp", "machine", "mining", "unix", "windows", "linux")
